@@ -1,0 +1,116 @@
+{
+  "id": "com.neoney.roundedcc",
+  "name": "RoundedCC",
+  "latest": "1.0.3",
+  "repository": "Packix",
+  "url": "http://cydia.saurik.com/package/com.neoney.roundedcc/",
+  "shortDescription": "A tweak to round your Control Centre",
+  "category": "Tweaks",
+  "author": "neoney",
+  "commercial": false,
+  "date": "2020-02-27T00:18:57Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0.3",
+      "iOSVersion": "13.3",
+      "repository": "Packix",
+      "date": "2020-02-27T00:18:57Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-02-27T00:18:57Z",
+          "userName": "MKhaliiFa",
+          "issueNumber": 117727,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2020-02-26T23:33:58Z",
+          "userName": "RubenTheToad",
+          "issueNumber": 117721,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.3",
+      "iOSVersion": "13.2",
+      "repository": "Packix",
+      "date": "2020-03-06T04:44:49Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2020-03-06T04:44:49Z",
+          "userName": "SwissChes",
+          "issueNumber": 118776,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.3",
+      "iOSVersion": "13.3.1",
+      "repository": "Packix",
+      "date": "2020-03-10T10:36:36Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2020-03-10T10:36:36Z",
+          "userName": "mduy0305",
+          "issueNumber": 119203,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

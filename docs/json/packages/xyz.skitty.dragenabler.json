@@ -1,0 +1,236 @@
+{
+  "id": "xyz.skitty.dragenabler",
+  "name": "DragEnabler",
+  "latest": "1.0",
+  "repository": "Skitty's Repo",
+  "url": "http://cydia.saurik.com/package/xyz.skitty.dragenabler/",
+  "shortDescription": "Enable iPad drag and drop features.",
+  "category": "Tweaks",
+  "author": "Skitty",
+  "commercial": false,
+  "date": "2019-06-23T13:10:02Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "12.1.1",
+      "repository": "Skitty's Repo",
+      "date": "2019-06-23T13:10:02Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-06-23T13:10:02Z",
+          "userName": "starmega",
+          "issueNumber": 90474,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2019-11-02T09:25:26Z",
+          "userName": "ann0see",
+          "issueNumber": 103651,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "11.3.1",
+      "repository": "Skitty's Repo",
+      "date": "2019-06-30T15:23:04Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-06-30T15:23:04Z",
+          "userName": "yaserFA",
+          "issueNumber": 90644,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "12.2",
+      "repository": "Skitty's Repo",
+      "date": "2019-08-10T18:04:59Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-08-10T18:04:59Z",
+          "userName": "mac-user669",
+          "issueNumber": 93758,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "12.4",
+      "repository": "Skitty's Repo",
+      "date": "2019-08-21T06:50:47Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-21T06:50:47Z",
+          "userName": "alexPNG",
+          "issueNumber": 96205,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2019-10-29T05:40:42Z",
+          "userName": "ivanchau14",
+          "issueNumber": 103368,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "13.2.2",
+      "repository": "Skitty's Repo",
+      "date": "2019-11-18T16:46:35Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-18T16:46:35Z",
+          "userName": "andreicap",
+          "issueNumber": 106816,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "13.3",
+      "repository": "Skitty's Repo",
+      "date": "2020-01-06T06:09:20Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
+        "good": 2,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2020-01-06T06:09:20Z",
+          "userName": "bumb1e",
+          "issueNumber": 112830,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "Slightly working with iOS 13.3. It requires Sunflower installed in order to work properly. It happens due to iOS 13 that removed 3D Touch and replaced it with Haptic Touch.",
+          "date": "2020-02-11T02:48:42Z",
+          "userName": "alexPNG",
+          "issueNumber": 115332,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone12,5",
+          "issues": "",
+          "date": "2020-05-09T17:39:57Z",
+          "userName": "Nathan6700",
+          "issueNumber": 123235,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

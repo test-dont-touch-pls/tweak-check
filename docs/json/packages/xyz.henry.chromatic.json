@@ -1,0 +1,192 @@
+{
+  "id": "xyz.henry.chromatic",
+  "name": "Chromatic",
+  "latest": "0.0.1-1",
+  "repository": "BigBoss",
+  "url": "http://cydia.saurik.com/package/xyz.henry.chromatic/",
+  "shortDescription": "Colourfy your iOS 13 music app",
+  "category": "Tweaks",
+  "author": "henry",
+  "commercial": false,
+  "date": "2020-01-30T11:21:12Z",
+  "versions": [
+    {
+      "tweakVersion": "0.0.1-1",
+      "iOSVersion": "13.3",
+      "repository": "BigBoss",
+      "date": "2020-01-30T11:21:12Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 3,
+        "bad": 0,
+        "total": 6,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-01-30T11:21:12Z",
+          "userName": "rio-doro",
+          "issueNumber": 114502,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone11,8",
+          "issues": "I installed this tweak on my iPhone XR but it won’t work. I go to iTunes and try to see if I get the lyrics icon to turn white but it doesn’t. Can you please make an update for this to work? I’d really appreciate it.",
+          "date": "2020-02-18T07:57:31Z",
+          "userName": "Prof8222",
+          "issueNumber": 116375,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-02-03T19:47:55Z",
+          "userName": "RobertRR11",
+          "issueNumber": 114608,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2020-02-23T23:28:24Z",
+          "userName": "ZenIsBestWolf",
+          "issueNumber": 117393,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-03-15T18:03:51Z",
+          "userName": "ahdez91",
+          "issueNumber": 119742,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone12,5",
+          "issues": "",
+          "date": "2020-04-26T23:47:42Z",
+          "userName": "Nathan6700",
+          "issueNumber": 122516,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.1-1",
+      "iOSVersion": "13.3.1",
+      "repository": "BigBoss",
+      "date": "2020-02-10T14:05:12Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPad7,5",
+          "issues": "Does not appear to change anything ",
+          "date": "2020-02-10T14:05:12Z",
+          "userName": "AppleTweaker420",
+          "issueNumber": 115225,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-03-15T13:01:33Z",
+          "userName": "Wolf7ech",
+          "issueNumber": 119723,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.1-1",
+      "iOSVersion": "12.4",
+      "repository": "BigBoss",
+      "date": "2020-03-03T10:20:50Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone6,1",
+          "issues": "Only for iOS 13 and above",
+          "date": "2020-03-03T10:20:50Z",
+          "userName": "s0m3guy2004",
+          "issueNumber": 118516,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.1-1",
+      "iOSVersion": "13.4.1",
+      "repository": "BigBoss",
+      "date": "2020-04-10T22:57:32Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-04-10T22:57:32Z",
+          "userName": "Wolf7ech",
+          "issueNumber": 121446,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

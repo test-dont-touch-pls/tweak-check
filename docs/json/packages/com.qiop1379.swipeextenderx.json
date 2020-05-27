@@ -1,0 +1,81 @@
+{
+  "id": "com.qiop1379.swipeextenderx",
+  "name": "SwipeExtenderX",
+  "latest": "1.0.1",
+  "repository": "Chariz",
+  "url": "http://cydia.saurik.com/package/com.qiop1379.swipeextenderx/",
+  "shortDescription": "Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!",
+  "category": "Tweaks",
+  "author": "qwertyuiop1379",
+  "commercial": true,
+  "date": "2020-04-02T08:27:41Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "13.3",
+      "repository": "Chariz",
+      "date": "2020-04-02T08:27:41Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 60,
+        "good": 3,
+        "bad": 0,
+        "total": 5,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone11,2",
+          "issues": "",
+          "date": "2020-04-02T08:27:41Z",
+          "userName": "omiinaya",
+          "issueNumber": 120703,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone12,3",
+          "issues": "",
+          "date": "2020-04-03T01:31:56Z",
+          "userName": "joel-tonuri",
+          "issueNumber": 120816,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-04-05T03:46:08Z",
+          "userName": "DamnRobotAliens",
+          "issueNumber": 120915,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone12,5",
+          "issues": "iPhone12,5",
+          "date": "2020-04-07T03:32:56Z",
+          "userName": "MBehr2",
+          "issueNumber": 121038,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPad8,1",
+          "issues": "",
+          "date": "2020-04-25T02:10:19Z",
+          "userName": "Ahplla",
+          "issueNumber": 122381,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

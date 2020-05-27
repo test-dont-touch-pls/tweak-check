@@ -1,0 +1,481 @@
+{
+  "id": "com.laughingquoll.sunflower",
+  "name": "Sunflower",
+  "latest": "1.1",
+  "repository": "Chariz",
+  "url": "http://cydia.saurik.com/package/com.laughingquoll.sunflower/",
+  "shortDescription": "Make 3D Touch great again!",
+  "category": "Tweaks",
+  "author": "LaughingQuoll",
+  "commercial": false,
+  "date": "2019-11-11T12:45:19Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "13.2.2",
+      "repository": "Chariz",
+      "date": "2019-11-11T12:45:19Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 81,
+        "good": 9,
+        "bad": 0,
+        "total": 11,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-11T12:45:19Z",
+          "userName": "arm64nerd",
+          "issueNumber": 104586,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-11T15:38:18Z",
+          "userName": "DerClown03",
+          "issueNumber": 104646,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Doesn’t do anything - no notable difference",
+          "date": "2019-11-11T20:40:32Z",
+          "userName": "MBehr2",
+          "issueNumber": 104755,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-11-11T21:35:37Z",
+          "userName": "ryzand",
+          "issueNumber": 104806,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "Works great, just know that it’s slow",
+          "date": "2019-11-11T23:47:02Z",
+          "userName": "TheBensonBoy",
+          "issueNumber": 104850,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2019-11-12T07:50:35Z",
+          "userName": "wonkieinc",
+          "issueNumber": 104976,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-11-12T23:28:00Z",
+          "userName": "sevenpastzeero",
+          "issueNumber": 105286,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-11-13T00:17:37Z",
+          "userName": "TheBlueKingLP",
+          "issueNumber": 105295,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2019-11-13T00:33:23Z",
+          "userName": "keshavbabu",
+          "issueNumber": 105306,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-11-14T13:19:07Z",
+          "userName": "d8vedmg",
+          "issueNumber": 105740,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-11-18T05:37:06Z",
+          "userName": "dieseldan444",
+          "issueNumber": 106732,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "13.3",
+      "repository": "Chariz",
+      "date": "2019-11-12T21:53:14Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-11-12T21:48:53Z",
+          "userName": "dezentaversiv",
+          "issueNumber": 105239,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "12.4",
+      "repository": "Chariz",
+      "date": "2019-11-13T09:40:16Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone6,1",
+          "issues": "This is made for iOS 13 and newer",
+          "date": "2019-11-13T09:40:16Z",
+          "userName": "s0m3guy2004",
+          "issueNumber": 105427,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "13.2.3",
+      "repository": "Chariz",
+      "date": "2019-11-19T13:56:27Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-19T13:56:27Z",
+          "userName": "arm64nerd",
+          "issueNumber": 107049,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "13.2",
+      "repository": "Chariz",
+      "date": "2019-11-22T03:52:27Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "This tweak sucks ",
+          "date": "2019-11-22T03:52:27Z",
+          "userName": "connorlarkin1",
+          "issueNumber": 107687,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "13.3",
+      "repository": "Chariz",
+      "date": "2020-01-01T20:13:12Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 4,
+        "bad": 0,
+        "total": 4,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-01-01T20:13:12Z",
+          "userName": "Wolf7ech",
+          "issueNumber": 112390,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-12-31T21:24:30Z",
+          "userName": "salocor",
+          "issueNumber": 112282,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-12-30T15:13:17Z",
+          "userName": "alvesvaren",
+          "issueNumber": 112169,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-12-30T03:12:51Z",
+          "userName": "MySQL-Syntax",
+          "issueNumber": 112140,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "13.2.3",
+      "repository": "Chariz",
+      "date": "2019-12-20T13:32:41Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-12-20T13:32:41Z",
+          "userName": "kiesstef",
+          "issueNumber": 111312,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "13.3.1",
+      "repository": "Chariz",
+      "date": "2020-01-30T09:48:44Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-01-30T09:48:44Z",
+          "userName": "Wolf7ech",
+          "issueNumber": 114489,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2020-02-08T09:59:28Z",
+          "userName": "Jaylen9421",
+          "issueNumber": 114868,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "12.4",
+      "repository": "Chariz",
+      "date": "2020-03-03T16:53:13Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone6,1",
+          "issues": "Only for iOS 13 and above, 3D touch is in iOS 12 and older.",
+          "date": "2020-03-03T16:53:13Z",
+          "userName": "s0m3guy2004",
+          "issueNumber": 118541,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "13.4",
+      "repository": "Chariz",
+      "date": "2020-03-26T01:00:13Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2020-03-26T01:00:13Z",
+          "userName": "Bentley0928",
+          "issueNumber": 120319,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "13.4.1",
+      "repository": "Chariz",
+      "date": "2020-04-13T09:58:15Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-04-13T09:58:15Z",
+          "userName": "Wolf7ech",
+          "issueNumber": 121698,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

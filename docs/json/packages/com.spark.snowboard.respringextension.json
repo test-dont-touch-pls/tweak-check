@@ -1,0 +1,453 @@
+{
+  "id": "com.spark.snowboard.respringextension",
+  "name": "SnowBoard Respring Extension",
+  "latest": "1.0.2~Beta2",
+  "repository": "SparkDev",
+  "url": "http://cydia.saurik.com/package/com.spark.snowboard.respringextension/",
+  "shortDescription": "Respring icon extension for SnowBoard",
+  "category": "SnowBoard Extensions",
+  "author": "Spark",
+  "commercial": false,
+  "date": "2019-06-06T14:54:50Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0.1~Beta1",
+      "iOSVersion": "12.1.1",
+      "repository": "SparkDev",
+      "date": "2019-06-06T14:54:50Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-06-06T14:54:50Z",
+          "userName": "percyjk23",
+          "issueNumber": 89746,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1~Beta1",
+      "iOSVersion": "12.1.2",
+      "repository": "SparkDev",
+      "date": "2019-06-08T06:45:07Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-06-08T06:45:07Z",
+          "userName": "OhSpazz",
+          "issueNumber": 89802,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-06-09T18:14:00Z",
+          "userName": "kurtbain250",
+          "issueNumber": 89851,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1~Beta1",
+      "iOSVersion": "11.3.1",
+      "repository": "SparkDev",
+      "date": "2019-06-09T18:23:30Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,1",
+          "issues": "",
+          "date": "2019-06-09T18:23:30Z",
+          "userName": "kurtbain250",
+          "issueNumber": 89869,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1~Beta1",
+      "iOSVersion": "12.4",
+      "repository": "SparkDev",
+      "date": "2019-08-20T10:38:14Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-20T10:38:14Z",
+          "userName": "MKhaliiFa",
+          "issueNumber": 95784,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "A12",
+          "date": "2019-11-04T16:05:40Z",
+          "userName": "Brickme",
+          "issueNumber": 103811,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1~Beta1",
+      "iOSVersion": "11.4",
+      "repository": "SparkDev",
+      "date": "2019-10-10T11:08:13Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-10-10T11:08:13Z",
+          "userName": "DerSnitzki",
+          "issueNumber": 102050,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1~Beta1",
+      "iOSVersion": "13.2.2",
+      "repository": "SparkDev",
+      "date": "2019-11-11T04:42:11Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-11-11T04:42:11Z",
+          "userName": "imjustmaxwell",
+          "issueNumber": 104396,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1~Beta1",
+      "iOSVersion": "12.4.3",
+      "repository": "SparkDev",
+      "date": "2019-11-18T06:28:40Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-11-18T06:28:40Z",
+          "userName": "Wo0of",
+          "issueNumber": 106737,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1~Beta1",
+      "iOSVersion": "13.2.3",
+      "repository": "SparkDev",
+      "date": "2019-11-22T07:59:19Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-11-22T07:59:19Z",
+          "userName": "ianfindlay1",
+          "issueNumber": 107713,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1~Beta1",
+      "iOSVersion": "13.3",
+      "repository": "SparkDev",
+      "date": "2019-12-18T21:27:55Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
+        "good": 2,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-12-18T21:27:55Z",
+          "userName": "egigoka",
+          "issueNumber": 111082,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-02-18T03:59:57Z",
+          "userName": "Hunter-J",
+          "issueNumber": 116292,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone12,5",
+          "issues": "Just keeps respringing the device endlessly until I can put it in safe mode. ",
+          "date": "2020-04-05T19:00:11Z",
+          "userName": "theb1g0ne",
+          "issueNumber": 120937,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1~Beta1",
+      "iOSVersion": "13.3.1",
+      "repository": "SparkDev",
+      "date": "2020-02-10T14:20:10Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad7,5",
+          "issues": "",
+          "date": "2020-02-10T14:20:10Z",
+          "userName": "AppleTweaker420",
+          "issueNumber": 115249,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1~Beta1",
+      "iOSVersion": "13.4",
+      "repository": "SparkDev",
+      "date": "2020-04-09T02:03:06Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2020-04-09T02:03:06Z",
+          "userName": "AppleTweaker420",
+          "issueNumber": 121219,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.2~Beta2",
+      "iOSVersion": "13.4",
+      "repository": "SparkDev",
+      "date": "2020-04-14T07:06:14Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2020-04-14T07:06:14Z",
+          "userName": "Barny13",
+          "issueNumber": 121750,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.2~Beta2",
+      "iOSVersion": "13.3",
+      "repository": "SparkDev",
+      "date": "2020-04-21T17:57:52Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone12,5",
+          "issues": "",
+          "date": "2020-04-21T17:57:52Z",
+          "userName": "Nathan6700",
+          "issueNumber": 122183,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

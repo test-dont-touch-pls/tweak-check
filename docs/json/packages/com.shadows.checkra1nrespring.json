@@ -1,0 +1,249 @@
+{
+  "id": "com.shadows.checkra1nrespring",
+  "name": "Checkra1n Respring",
+  "latest": "2.0",
+  "repository": "Packix",
+  "url": "http://cydia.saurik.com/package/com.shadows.checkra1nrespring/",
+  "shortDescription": "Checkra1n is amazing Respring Logo for your device.",
+  "category": "Themes (SpringBoard)",
+  "author": "Shadows",
+  "commercial": false,
+  "date": "2019-10-15T07:18:15Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-10-15T07:18:15Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2019-10-15T07:18:15Z",
+          "userName": "n1ght-monkey",
+          "issueNumber": 102290,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-10-22T03:17:49Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-10-22T03:17:49Z",
+          "userName": "R56N14",
+          "issueNumber": 102940,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2",
+      "iOSVersion": "12.2",
+      "repository": "Packix",
+      "date": "2019-11-21T19:04:43Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-21T18:31:02Z",
+          "userName": "hitmarksman",
+          "issueNumber": 107568,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2",
+      "iOSVersion": "13.2.3",
+      "repository": "Packix",
+      "date": "2019-12-09T11:27:08Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-12-09T11:27:08Z",
+          "userName": "arm64nerd",
+          "issueNumber": 110021,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-12-22T15:22:35Z",
+          "userName": "jucadesousa",
+          "issueNumber": 111521,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2",
+      "iOSVersion": "13.3",
+      "repository": "Packix",
+      "date": "2020-01-21T18:38:18Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "Won’t work if you have another theme installed on SnowBoard ",
+          "date": "2020-01-21T18:38:18Z",
+          "userName": "0Zinc",
+          "issueNumber": 113847,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,2",
+          "issues": "",
+          "date": "2020-03-09T14:51:27Z",
+          "userName": "PRiiXX",
+          "issueNumber": 119105,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2",
+      "iOSVersion": "12.4.4",
+      "repository": "Packix",
+      "date": "2020-01-24T13:58:26Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone6,2",
+          "issues": "With iThemeR",
+          "date": "2020-01-24T13:58:26Z",
+          "userName": "MrDeniz",
+          "issueNumber": 113987,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0",
+      "iOSVersion": "13.4",
+      "repository": "Packix",
+      "date": "2020-04-09T13:30:50Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2020-04-09T13:30:50Z",
+          "userName": "Barny13",
+          "issueNumber": 121318,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

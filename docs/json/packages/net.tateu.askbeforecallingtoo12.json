@@ -1,0 +1,329 @@
+{
+  "id": "net.tateu.askbeforecallingtoo12",
+  "name": "AskBeforeCalling Too 12",
+  "latest": "1.0.0~beta18-7",
+  "repository": "tateu's repo",
+  "url": "http://cydia.saurik.com/package/net.tateu.askbeforecallingtoo12/",
+  "shortDescription": "Ask before making a phone call or FaceTime call. Can also turn on CallerID blocking on a per phone call basis.",
+  "category": "Tweaks",
+  "author": "tateu (Josh Harris)",
+  "commercial": false,
+  "date": "2019-05-28T05:11:50Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0.0~beta18-7",
+      "iOSVersion": "12.1.1",
+      "repository": "tateu's repo",
+      "date": "2019-05-28T05:11:50Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-05-28T05:11:50Z",
+          "userName": "percyjk23",
+          "issueNumber": 89150,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0~beta18-7",
+      "iOSVersion": "12.1.2",
+      "repository": "tateu's repo",
+      "date": "2019-05-28T05:43:11Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-05-28T05:43:11Z",
+          "userName": "wodnr4330",
+          "issueNumber": 89152,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0~beta18-7",
+      "iOSVersion": "12.1",
+      "repository": "tateu's repo",
+      "date": "2019-05-31T19:49:59Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-05-31T19:49:59Z",
+          "userName": "mblack1",
+          "issueNumber": 89430,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0~beta18-7",
+      "iOSVersion": "12.1.4",
+      "repository": "tateu's repo",
+      "date": "2019-07-17T12:29:30Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-07-17T12:29:30Z",
+          "userName": "ashraf2929",
+          "issueNumber": 91719,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0~beta18-7",
+      "iOSVersion": "12.2",
+      "repository": "tateu's repo",
+      "date": "2019-07-17T21:49:39Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-07-17T21:49:39Z",
+          "userName": "ponzu07",
+          "issueNumber": 91783,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0~beta18-7",
+      "iOSVersion": "12.4",
+      "repository": "tateu's repo",
+      "date": "2019-08-19T09:47:34Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 3,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-08-19T09:47:34Z",
+          "userName": "tom0034",
+          "issueNumber": 94715,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-08-20T14:41:44Z",
+          "userName": "ZerOneX",
+          "issueNumber": 95869,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-12-20T01:14:45Z",
+          "userName": "ilovemywater",
+          "issueNumber": 111258,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0~beta18-7",
+      "iOSVersion": "13.2.2",
+      "repository": "tateu's repo",
+      "date": "2019-11-12T08:12:53Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-18T17:04:41Z",
+          "userName": "Samgisaninja",
+          "issueNumber": 106820,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0~beta18-7",
+      "iOSVersion": "13.2.3",
+      "repository": "tateu's repo",
+      "date": "2019-11-25T12:27:17Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-11-25T12:27:17Z",
+          "userName": "inkrypted",
+          "issueNumber": 108224,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0~beta18-7",
+      "iOSVersion": "13.3",
+      "repository": "tateu's repo",
+      "date": "2020-02-10T23:35:00Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 3,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-02-10T23:35:00Z",
+          "userName": "itsyasso",
+          "issueNumber": 115308,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2020-02-07T11:10:49Z",
+          "userName": "vasac",
+          "issueNumber": 114824,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2020-01-31T19:10:49Z",
+          "userName": "theb1g0ne",
+          "issueNumber": 114527,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

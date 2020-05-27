@@ -1,0 +1,156 @@
+{
+  "id": "com.zunda.hidenctext",
+  "name": "HideNCText",
+  "latest": "1.0-1",
+  "repository": "Packix",
+  "url": "http://cydia.saurik.com/package/com.zunda.hidenctext/",
+  "shortDescription": "Hide \"Notification Center\" on NotificationCenter",
+  "category": "Tweaks",
+  "author": "zunda",
+  "commercial": false,
+  "date": "2019-08-29T11:37:30Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0-1",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-08-29T11:37:30Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 3,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-29T11:37:30Z",
+          "userName": "triokw",
+          "issueNumber": 98350,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-08-28T19:33:32Z",
+          "userName": "ar2rjke",
+          "issueNumber": 98247,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-08-26T19:20:01Z",
+          "userName": "AWNetworkYT",
+          "issueNumber": 97742,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0-1",
+      "iOSVersion": "13.2.2",
+      "repository": "repo.packix.com",
+      "date": "2019-11-27T06:10:42Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-27T06:10:42Z",
+          "userName": "arbitrarily",
+          "issueNumber": 108486,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0-1",
+      "iOSVersion": "13.3",
+      "repository": "Packix",
+      "date": "2020-01-19T21:07:46Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-01-19T21:07:46Z",
+          "userName": "RobertRR11",
+          "issueNumber": 113689,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0-1",
+      "iOSVersion": "13.3.1",
+      "repository": "Packix",
+      "date": "2020-02-05T20:39:16Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-02-05T20:39:16Z",
+          "userName": "RobertRR11",
+          "issueNumber": 114730,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

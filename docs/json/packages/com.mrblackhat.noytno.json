@@ -1,0 +1,174 @@
+{
+  "id": "com.mrblackhat.noytno",
+  "name": "NoYTNo",
+  "latest": "0.7~beta",
+  "repository": "MrBlackHat's Repo",
+  "url": "http://cydia.saurik.com/package/com.mrblackhat.noytno/",
+  "shortDescription": "NoYTNo - Say No to try YTPremium, Install YTMusic and Try YTMusic.",
+  "category": "Tweaks",
+  "author": "MrBlackHat",
+  "commercial": false,
+  "date": "2020-03-06T18:31:21Z",
+  "versions": [
+    {
+      "tweakVersion": "0.7~beta",
+      "iOSVersion": "13.3",
+      "repository": "MrBlackHat's Repo",
+      "date": "2020-03-06T18:31:21Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 2,
+        "bad": 0,
+        "total": 4,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "Works with YouTube Tools",
+          "date": "2020-03-06T18:31:21Z",
+          "userName": "therealhoodboy",
+          "issueNumber": 118816,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2020-03-07T00:23:51Z",
+          "userName": "Kevinbecool",
+          "issueNumber": 118838,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone11,2",
+          "issues": "",
+          "date": "2020-03-14T01:00:11Z",
+          "userName": "djjuny",
+          "issueNumber": 119541,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "doesnt work on iphone X with youtube tools",
+          "date": "2020-04-06T21:45:12Z",
+          "userName": "deucetresthugz",
+          "issueNumber": 121015,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.7~beta",
+      "iOSVersion": "12.4",
+      "repository": "MrBlackHat's Repo",
+      "date": "2020-03-07T15:42:33Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2020-03-07T15:42:33Z",
+          "userName": "fillupontacos",
+          "issueNumber": 118889,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2020-03-18T06:44:21Z",
+          "userName": "METROID4",
+          "issueNumber": 119889,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.7~beta",
+      "iOSVersion": "13.4",
+      "repository": "(null)",
+      "date": "2020-03-26T00:59:11Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2020-03-26T00:59:11Z",
+          "userName": "Bentley0928",
+          "issueNumber": 120316,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.7~beta",
+      "iOSVersion": "13.2",
+      "repository": "MrBlackHat's Repo",
+      "date": "2020-04-24T20:43:24Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-04-24T20:43:24Z",
+          "userName": "Tempris",
+          "issueNumber": 122365,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

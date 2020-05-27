@@ -1,0 +1,338 @@
+{
+  "id": "com.ivanc.accent",
+  "name": "Accent",
+  "latest": "1.4.0",
+  "repository": "BigBoss",
+  "url": "http://cydia.saurik.com/package/com.ivanc.accent/",
+  "shortDescription": "iOS accent colors in macOS style!",
+  "category": "Tweaks",
+  "author": "Ivan Cristina",
+  "commercial": false,
+  "date": "2020-01-02T18:00:26Z",
+  "versions": [
+    {
+      "tweakVersion": "1.3.1",
+      "iOSVersion": "12.4",
+      "repository": "BigBoss",
+      "date": "2020-01-02T18:00:26Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2020-01-02T18:00:26Z",
+          "userName": "sadalhayat",
+          "issueNumber": 112465,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.3.1",
+      "iOSVersion": "13.3",
+      "repository": "BigBoss",
+      "date": "2020-01-02T14:43:30Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad7,5",
+          "issues": "",
+          "date": "2020-01-02T14:43:30Z",
+          "userName": "Games-Crack",
+          "issueNumber": 112447,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2020-01-02T03:26:22Z",
+          "userName": "kirbyfr",
+          "issueNumber": 112420,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.0",
+      "iOSVersion": "13.3",
+      "repository": "BigBoss",
+      "date": "2019-12-31T11:55:14Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "A few bugs with the colour set",
+          "date": "2019-12-31T11:55:14Z",
+          "userName": "twolfer",
+          "issueNumber": 112252,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2019-12-31T09:52:55Z",
+          "userName": "huny320",
+          "issueNumber": 112241,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.0",
+      "iOSVersion": "12.4",
+      "repository": "BigBoss",
+      "date": "2019-12-31T10:31:28Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone6,1",
+          "issues": "Not compatible with iOS 12",
+          "date": "2019-12-31T10:31:28Z",
+          "userName": "s0m3guy2004",
+          "issueNumber": 112242,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.3.1",
+      "iOSVersion": "13.2.2",
+      "repository": "BigBoss",
+      "date": "2020-01-05T09:19:29Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2020-01-05T09:19:29Z",
+          "userName": "mehmeteminkartal",
+          "issueNumber": 112709,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-01-09T20:17:01Z",
+          "userName": "tomhmoses",
+          "issueNumber": 113032,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.4.0",
+      "iOSVersion": "13.3",
+      "repository": "BigBoss",
+      "date": "2020-01-28T03:00:09Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 3,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2020-01-28T03:00:09Z",
+          "userName": "dpearson2699",
+          "issueNumber": 114362,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-02-13T23:53:12Z",
+          "userName": "syto203",
+          "issueNumber": 115510,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2020-02-22T16:51:40Z",
+          "userName": "RiDDiX",
+          "issueNumber": 117211,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.4.0",
+      "iOSVersion": "13.3.1",
+      "repository": "BigBoss",
+      "date": "2020-02-11T09:49:19Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2020-02-11T09:49:19Z",
+          "userName": "Barny13",
+          "issueNumber": 115351,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.4.0",
+      "iOSVersion": "13.4.1",
+      "repository": "BigBoss",
+      "date": "2020-04-14T07:52:51Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2020-04-14T07:52:15Z",
+          "userName": "gatekeeper1122",
+          "issueNumber": 121757,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.4.0",
+      "iOSVersion": "13.4",
+      "repository": "BigBoss",
+      "date": "2020-04-18T17:21:42Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2020-04-18T17:21:42Z",
+          "userName": "Barny13",
+          "issueNumber": 122046,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "id": "com.daveapps.quickls",
+  "name": "QuickLS",
+  "latest": "2.0.1",
+  "repository": "Twickd",
+  "url": "http://cydia.saurik.com/package/com.daveapps.quickls/",
+  "shortDescription": "Make your Lockscreen even more speedier!",
+  "category": "Tweaks",
+  "author": "Dave Van Wijk",
+  "commercial": true,
+  "date": "2020-01-01T20:12:53Z",
+  "versions": [
+    {
+      "tweakVersion": "1.2",
+      "iOSVersion": "13.3",
+      "repository": "Twickd",
+      "date": "2020-01-01T20:12:53Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-01-01T20:12:53Z",
+          "userName": "Wolf7ech",
+          "issueNumber": 112389,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-12-28T17:37:35Z",
+          "userName": "mxl8156666",
+          "issueNumber": 112017,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.1-8+debug",
+      "iOSVersion": "13.2.2",
+      "repository": "Local Repository",
+      "date": "2019-12-26T19:25:32Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-12-26T19:25:32Z",
+          "userName": "d34dbre4kr",
+          "issueNumber": 111839,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.1",
+      "iOSVersion": "13.3",
+      "repository": "Twickd",
+      "date": "2020-02-27T12:37:54Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,2",
+          "issues": "",
+          "date": "2020-02-27T12:37:54Z",
+          "userName": "joshbosworth",
+          "issueNumber": 117793,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.1",
+      "iOSVersion": "13.3.1",
+      "repository": "Twickd",
+      "date": "2020-03-01T23:35:13Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-03-01T23:35:13Z",
+          "userName": "Wolf7ech",
+          "issueNumber": 118283,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

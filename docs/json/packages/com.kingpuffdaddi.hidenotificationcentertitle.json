@@ -1,0 +1,85 @@
+{
+  "id": "com.kingpuffdaddi.hidenotificationcentertitle",
+  "name": "HideNotificationCenterTitle",
+  "latest": "0.0.1-22+debug",
+  "repository": "KingPuffdaddi's Repo",
+  "url": "http://cydia.saurik.com/package/com.kingpuffdaddi.hidenotificationcentertitle/",
+  "shortDescription": "Hides the \"Notification Center\" title",
+  "category": "Tweaks",
+  "author": "KingPuffdaddi",
+  "commercial": false,
+  "date": "2019-10-26T06:05:27Z",
+  "versions": [
+    {
+      "tweakVersion": "0.0.1-22+debug",
+      "iOSVersion": "12.4",
+      "repository": "KingPuffdaddi's Repo",
+      "date": "2019-10-26T06:05:27Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-10-26T06:05:27Z",
+          "userName": "DamnRobotAliens",
+          "issueNumber": 103152,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPad8,1",
+          "issues": "does not working ",
+          "date": "2019-10-26T14:55:38Z",
+          "userName": "Ahpla",
+          "issueNumber": 103183,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.1-22+debug",
+      "iOSVersion": "13.3",
+      "repository": "KingPuffdaddi's Repo",
+      "date": "2020-01-18T10:38:47Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2020-01-18T10:38:47Z",
+          "userName": "43865",
+          "issueNumber": 113587,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

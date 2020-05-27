@@ -1,0 +1,85 @@
+{
+  "id": "nl.d4ni.osxvolumesound",
+  "name": "OSXVolumeSound",
+  "latest": "1.0.1",
+  "repository": "D4ni's Repo",
+  "url": "http://cydia.saurik.com/package/nl.d4ni.osxvolumesound/",
+  "shortDescription": "Plays the OSX volume sound when changing the volume.",
+  "category": "Tweaks",
+  "author": "D4ni",
+  "commercial": false,
+  "date": "2019-03-17T03:45:22Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "12.1.1",
+      "repository": "D4ni's Repo",
+      "date": "2019-03-17T03:45:22Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-03-17T03:45:22Z",
+          "userName": "SATIS8CHIMPALEE",
+          "issueNumber": 78236,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-03-17T05:33:52Z",
+          "userName": "san-mar",
+          "issueNumber": 78274,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "12.4",
+      "repository": "D4ni's Repo",
+      "date": "2019-12-25T16:37:41Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone6,1",
+          "issues": "",
+          "date": "2019-12-25T16:37:41Z",
+          "userName": "s0m3guy2004",
+          "issueNumber": 111785,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

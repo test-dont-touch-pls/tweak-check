@@ -1,0 +1,178 @@
+{
+  "id": "me.shymemoriees.checkra1n.bootlogo",
+  "name": "checkra1n-Bootlogo",
+  "latest": "1.1",
+  "repository": "(null)",
+  "url": "http://cydia.saurik.com/package/me.shymemoriees.checkra1n.bootlogo/",
+  "shortDescription": "checkra1n custom Bootlogo",
+  "category": "Bootlogos",
+  "author": "ShyMemoriees",
+  "commercial": false,
+  "date": "2019-11-11T09:16:54Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "13.2.2",
+      "repository": "(null)",
+      "date": "2019-11-11T09:16:54Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-11T09:16:54Z",
+          "userName": "Wassax7",
+          "issueNumber": 104539,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "13.2",
+      "repository": "lovily",
+      "date": "2019-11-16T10:02:21Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2019-11-16T10:02:21Z",
+          "userName": "JKakaofanatiker",
+          "issueNumber": 106188,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "13.2.2",
+      "repository": "lovily",
+      "date": "2019-11-17T06:01:10Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-11-17T06:01:10Z",
+          "userName": "nrgbistro",
+          "issueNumber": 106485,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "13.3",
+      "repository": "(null)",
+      "date": "2019-11-17T19:50:00Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-11-17T19:50:00Z",
+          "userName": "dezentaversiv",
+          "issueNumber": 106611,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-12-19T18:57:55Z",
+          "userName": "eso22",
+          "issueNumber": 111215,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "13.2.3",
+      "repository": "lovily",
+      "date": "2019-11-24T16:57:20Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-11-24T16:57:20Z",
+          "userName": "MySQL-Syntax",
+          "issueNumber": 108074,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

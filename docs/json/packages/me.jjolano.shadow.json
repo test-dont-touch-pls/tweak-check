@@ -1,0 +1,1191 @@
+{
+  "id": "me.jjolano.shadow",
+  "name": "Shadow",
+  "latest": "2.0.20",
+  "repository": "jjolano's iOS Tweaks",
+  "url": "http://cydia.saurik.com/package/me.jjolano.shadow/",
+  "shortDescription": "A lightweight general jailbreak detection bypass.",
+  "category": "Tweaks",
+  "author": "jjolano",
+  "commercial": false,
+  "date": "2019-06-13T18:40:51Z",
+  "versions": [
+    {
+      "tweakVersion": "2.0.7",
+      "iOSVersion": "12.1",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-06-13T18:40:51Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "Works",
+          "date": "2019-06-13T18:40:51Z",
+          "userName": "KillerWasp",
+          "issueNumber": 90092,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.7",
+      "iOSVersion": "12.1.1",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-06-15T03:06:35Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-06-15T03:06:35Z",
+          "userName": "percyjk23",
+          "issueNumber": 90178,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.8",
+      "iOSVersion": "12.1.1",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-06-17T20:53:37Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-06-17T20:53:37Z",
+          "userName": "percyjk23",
+          "issueNumber": 90347,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.9",
+      "iOSVersion": "12.1.1",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-06-19T15:54:49Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-06-19T15:54:49Z",
+          "userName": "percyjk23",
+          "issueNumber": 90411,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.10",
+      "iOSVersion": "12.1.1",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-06-22T04:45:24Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-06-22T04:45:24Z",
+          "userName": "percyjk23",
+          "issueNumber": 90454,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.14",
+      "iOSVersion": "12.1.1",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-07-05T19:17:55Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-07-05T19:17:55Z",
+          "userName": "gatekeeper1122",
+          "issueNumber": 90800,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.17",
+      "iOSVersion": "12.1.1",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-07-10T08:20:45Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-07-10T08:20:45Z",
+          "userName": "gatekeeper1122",
+          "issueNumber": 90930,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.17",
+      "iOSVersion": "11.3.1",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-07-11T01:27:49Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-07-11T01:27:49Z",
+          "userName": "buitim",
+          "issueNumber": 90967,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.17",
+      "iOSVersion": "12.1.2",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-07-11T03:13:00Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-07-11T03:13:00Z",
+          "userName": "rctfan929",
+          "issueNumber": 90978,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.17",
+      "iOSVersion": "12.1.4",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-07-13T16:03:32Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad7,6",
+          "issues": "",
+          "date": "2019-07-13T16:03:32Z",
+          "userName": "gatekeeper1122",
+          "issueNumber": 91234,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.18",
+      "iOSVersion": "12.1.4",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-07-15T20:30:07Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad7,6",
+          "issues": "",
+          "date": "2019-07-15T20:30:07Z",
+          "userName": "gatekeeper1122",
+          "issueNumber": 91510,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.18",
+      "iOSVersion": "12.1.1",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-07-17T17:23:25Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-07-17T17:23:25Z",
+          "userName": "gatekeeper112233",
+          "issueNumber": 91758,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.18-1",
+      "iOSVersion": "12.1.1",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-07-21T23:06:48Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-07-21T23:06:48Z",
+          "userName": "percyjk23",
+          "issueNumber": 92211,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.18-1",
+      "iOSVersion": "12.2",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-07-22T17:46:16Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-07-22T17:46:16Z",
+          "userName": "buitim",
+          "issueNumber": 92271,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.18-1",
+      "iOSVersion": "12.1",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-07-22T20:29:06Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-07-22T20:29:06Z",
+          "userName": "mikeo",
+          "issueNumber": 92291,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.19",
+      "iOSVersion": "12.0",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-07-28T22:12:57Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-07-28T22:12:57Z",
+          "userName": "charalez",
+          "issueNumber": 93004,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.19",
+      "iOSVersion": "12.1.1",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-07-30T19:25:52Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-07-30T19:25:52Z",
+          "userName": "ShreddedAce",
+          "issueNumber": 93121,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.20",
+      "iOSVersion": "12.1.1",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-08-01T21:33:21Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
+        "good": 2,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-01T21:33:21Z",
+          "userName": "ShreddedAce",
+          "issueNumber": 93321,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-02T10:31:35Z",
+          "userName": "percyjk23",
+          "issueNumber": 93371,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2019-10-03T18:59:44Z",
+          "userName": "evaneliasyoung",
+          "issueNumber": 101553,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.20",
+      "iOSVersion": "12.2",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-08-02T02:48:15Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-08-02T02:48:15Z",
+          "userName": "buitim",
+          "issueNumber": 93347,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2019-10-21T09:56:18Z",
+          "userName": "FaisalBiyari",
+          "issueNumber": 102897,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.20",
+      "iOSVersion": "12.0",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-08-11T14:44:33Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-08-11T14:44:33Z",
+          "userName": "charalez",
+          "issueNumber": 93815,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.20",
+      "iOSVersion": "12.4",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-08-19T05:05:02Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 9,
+        "bad": 0,
+        "total": 9,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,1",
+          "issues": "",
+          "date": "2019-08-19T05:05:02Z",
+          "userName": "XR4000",
+          "issueNumber": 94556,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-08-19T04:04:50Z",
+          "userName": "charalez",
+          "issueNumber": 94480,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-20T21:16:07Z",
+          "userName": "percyjk23",
+          "issueNumber": 96022,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2019-09-30T00:38:49Z",
+          "userName": "daonedw",
+          "issueNumber": 101299,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-10-02T03:21:24Z",
+          "userName": "mblack1",
+          "issueNumber": 101459,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-10-07T11:44:54Z",
+          "userName": "deucey123",
+          "issueNumber": 101905,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-10-15T18:48:19Z",
+          "userName": "csmith1210",
+          "issueNumber": 102333,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2019-10-19T19:29:04Z",
+          "userName": "kn3w",
+          "issueNumber": 102710,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-12-06T21:19:26Z",
+          "userName": "sadalhayat",
+          "issueNumber": 109735,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.20",
+      "iOSVersion": "12.1",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-09-23T16:46:45Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-09-15T18:09:03Z",
+          "userName": "Brandon097",
+          "issueNumber": 100139,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.20",
+      "iOSVersion": "13.2.2",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-11-12T20:25:20Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 75,
+        "good": 3,
+        "bad": 0,
+        "total": 4,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone9,4",
+          "issues": "Preferences are crash. However, you can configure it with its plist. Features will work. ",
+          "date": "2019-11-12T20:25:20Z",
+          "userName": "TheNoim",
+          "issueNumber": 105215,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-13T12:11:15Z",
+          "userName": "saadjafar",
+          "issueNumber": 105472,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-11-20T17:51:27Z",
+          "userName": "HarikrishnaPai",
+          "issueNumber": 107270,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-11-27T09:57:50Z",
+          "userName": "mastercreeper66",
+          "issueNumber": 108501,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.20",
+      "iOSVersion": "13.3",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-11-12T21:00:48Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 85,
+        "good": 6,
+        "bad": 0,
+        "total": 7,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-11-12T21:00:48Z",
+          "userName": "dezentaversiv",
+          "issueNumber": 105226,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "Works fine",
+          "date": "2019-12-14T06:40:31Z",
+          "userName": "kurtbain250",
+          "issueNumber": 110623,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2020-01-17T15:01:39Z",
+          "userName": "Marda33",
+          "issueNumber": 113560,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2020-01-13T09:02:39Z",
+          "userName": "kadir1009",
+          "issueNumber": 113295,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-01-28T02:27:49Z",
+          "userName": "percyjk23",
+          "issueNumber": 114353,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,2",
+          "issues": "",
+          "date": "2020-02-29T08:59:27Z",
+          "userName": "Reiza1993",
+          "issueNumber": 118030,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,2",
+          "issues": "",
+          "date": "2020-03-26T15:04:50Z",
+          "userName": "sadalhayat",
+          "issueNumber": 120402,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.20",
+      "iOSVersion": "13.1.3",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-11-25T10:34:57Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "Preferences are broken, but the tweak works",
+          "date": "2019-11-25T21:00:50Z",
+          "userName": "narbehmalekian",
+          "issueNumber": 108295,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.20",
+      "iOSVersion": "12.1.4",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-11-28T12:46:50Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-28T12:46:50Z",
+          "userName": "funchrist",
+          "issueNumber": 108688,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.20",
+      "iOSVersion": "13.2.3",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2019-12-02T06:33:02Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 60,
+        "good": 3,
+        "bad": 0,
+        "total": 5,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "Not updated in a while, works with some apps",
+          "date": "2019-12-02T06:33:02Z",
+          "userName": "kurtbain250",
+          "issueNumber": 109149,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "crashes in settings",
+          "date": "2019-12-05T05:18:27Z",
+          "userName": "donowop",
+          "issueNumber": 109508,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-12-13T04:44:48Z",
+          "userName": "xvizuet",
+          "issueNumber": 110490,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Preferences do not load",
+          "date": "2019-12-13T21:00:04Z",
+          "userName": "Sparky5869",
+          "issueNumber": 110542,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2020-02-13T02:04:14Z",
+          "userName": "NotPhantomX",
+          "issueNumber": 115477,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.20",
+      "iOSVersion": "13.3.1",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2020-02-16T19:01:29Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2020-02-16T19:01:29Z",
+          "userName": "dethsquad1521",
+          "issueNumber": 115868,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.20",
+      "iOSVersion": "13.0",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2020-03-11T14:45:04Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone12,1",
+          "issues": "",
+          "date": "2020-03-11T14:45:04Z",
+          "userName": "nelsonbrett55",
+          "issueNumber": 119340,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.20",
+      "iOSVersion": "13.4",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2020-04-02T18:50:16Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2020-04-02T18:50:16Z",
+          "userName": "keymastrion",
+          "issueNumber": 120792,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.20",
+      "iOSVersion": "13.4.1",
+      "repository": "jjolano's iOS Tweaks",
+      "date": "2020-04-11T09:06:49Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2020-04-11T09:06:49Z",
+          "userName": "dodieboy",
+          "issueNumber": 121492,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

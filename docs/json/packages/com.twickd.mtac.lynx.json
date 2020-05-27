@@ -1,0 +1,767 @@
+{
+  "id": "com.twickd.mtac.lynx",
+  "name": "Lynx",
+  "latest": "1.2.8-3",
+  "repository": "Twickd",
+  "url": "http://cydia.saurik.com/package/com.twickd.mtac.lynx/",
+  "shortDescription": "Ultimate device customization",
+  "category": "Tweaks",
+  "author": "MTAC",
+  "commercial": true,
+  "date": "2020-01-27T05:58:02Z",
+  "versions": [
+    {
+      "tweakVersion": "1.1.0",
+      "iOSVersion": "13.3",
+      "repository": "Twickd",
+      "date": "2020-01-27T05:58:02Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-01-27T05:58:02Z",
+          "userName": "arm64nerd",
+          "issueNumber": 114216,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.5-4",
+      "iOSVersion": "13.3",
+      "repository": "Twickd",
+      "date": "2020-02-19T00:11:37Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-02-19T00:11:37Z",
+          "userName": "VanishingTacos",
+          "issueNumber": 116582,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.4",
+      "iOSVersion": "13.3",
+      "repository": "Twickd",
+      "date": "2020-02-16T00:21:56Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-02-16T00:21:56Z",
+          "userName": "mcnasty-coder",
+          "issueNumber": 115616,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.6",
+      "iOSVersion": "13.3",
+      "repository": "(null)",
+      "date": "2020-02-22T19:54:22Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone12,3",
+          "issues": "",
+          "date": "2020-02-22T19:54:22Z",
+          "userName": "Scott003",
+          "issueNumber": 117230,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.6-1",
+      "iOSVersion": "13.3",
+      "repository": "Twickd",
+      "date": "2020-02-23T04:53:41Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone12,3",
+          "issues": "",
+          "date": "2020-02-23T04:53:41Z",
+          "userName": "Scott003",
+          "issueNumber": 117297,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.6-3",
+      "iOSVersion": "13.3",
+      "repository": "Twickd",
+      "date": "2020-02-25T05:01:00Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone12,3",
+          "issues": "",
+          "date": "2020-02-25T05:01:00Z",
+          "userName": "Scott003",
+          "issueNumber": 117513,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.7-3",
+      "iOSVersion": "13.3",
+      "repository": "Twickd",
+      "date": "2020-02-27T10:35:04Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,2",
+          "issues": "",
+          "date": "2020-02-27T10:34:25Z",
+          "userName": "fluffyguy1",
+          "issueNumber": 117790,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.7-3",
+      "iOSVersion": "12.4",
+      "repository": "Twickd",
+      "date": "2020-03-11T17:54:28Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone6,1",
+          "issues": "Only for iOS 13 and above",
+          "date": "2020-03-11T17:54:28Z",
+          "userName": "s0m3guy2004",
+          "issueNumber": 119356,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.8",
+      "iOSVersion": "13.3",
+      "repository": "(null)",
+      "date": "2020-03-16T02:33:41Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone12,3",
+          "issues": "",
+          "date": "2020-03-16T02:33:41Z",
+          "userName": "Scott003",
+          "issueNumber": 119767,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.8-2",
+      "iOSVersion": "13.3",
+      "repository": "Twickd",
+      "date": "2020-03-17T11:55:04Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-03-17T11:55:04Z",
+          "userName": "TallicaJ4A",
+          "issueNumber": 119851,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.8-6",
+      "iOSVersion": "13.3",
+      "repository": "Twickd",
+      "date": "2020-03-18T20:28:58Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-03-18T20:28:58Z",
+          "userName": "DamnRobotAliens",
+          "issueNumber": 119908,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.9-1",
+      "iOSVersion": "13.3",
+      "repository": "Twickd",
+      "date": "2020-03-22T18:35:49Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-03-22T18:35:49Z",
+          "userName": "JaiDan141",
+          "issueNumber": 120103,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.9-6",
+      "iOSVersion": "13.3",
+      "repository": "Twickd",
+      "date": "2020-03-29T00:14:13Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone12,3",
+          "issues": "",
+          "date": "2020-03-29T00:14:13Z",
+          "userName": "Scott003",
+          "issueNumber": 120487,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.0-3",
+      "iOSVersion": "13.3",
+      "repository": "Twickd",
+      "date": "2020-04-03T05:37:06Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,2",
+          "issues": "",
+          "date": "2020-04-03T05:37:06Z",
+          "userName": "sadalhayat",
+          "issueNumber": 120828,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.2",
+      "iOSVersion": "13.3",
+      "repository": "Twickd",
+      "date": "2020-04-08T23:52:34Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,2",
+          "issues": "",
+          "date": "2020-04-08T23:52:34Z",
+          "userName": "sadalhayat",
+          "issueNumber": 121163,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.3-1",
+      "iOSVersion": "13.3",
+      "repository": "Twickd",
+      "date": "2020-04-10T15:25:19Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,2",
+          "issues": "",
+          "date": "2020-04-10T15:25:19Z",
+          "userName": "sadalhayat",
+          "issueNumber": 121413,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.4-2",
+      "iOSVersion": "13.3.1",
+      "repository": "Twickd",
+      "date": "2020-04-12T23:49:30Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-04-12T23:49:30Z",
+          "userName": "majood7",
+          "issueNumber": 121666,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.4-2",
+      "iOSVersion": "13.3",
+      "repository": "Twickd",
+      "date": "2020-04-13T12:33:00Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,2",
+          "issues": "",
+          "date": "2020-04-13T12:33:00Z",
+          "userName": "sadalhayat",
+          "issueNumber": 121712,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.5",
+      "iOSVersion": "13.3",
+      "repository": "Twickd",
+      "date": "2020-04-15T22:04:43Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,2",
+          "issues": "iPhone XS",
+          "date": "2020-04-15T22:04:43Z",
+          "userName": "sadalhayat",
+          "issueNumber": 121861,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.5",
+      "iOSVersion": "13.4.1",
+      "repository": "Twickd",
+      "date": "2020-04-17T10:17:04Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2020-04-17T10:17:04Z",
+          "userName": "vicjd",
+          "issueNumber": 121959,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.6",
+      "iOSVersion": "13.4.1",
+      "repository": "Twickd",
+      "date": "2020-04-19T09:45:13Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-04-19T09:45:13Z",
+          "userName": "wickdj",
+          "issueNumber": 122069,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.6-2",
+      "iOSVersion": "13.3",
+      "repository": "Twickd",
+      "date": "2020-04-21T21:55:43Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone12,5",
+          "issues": "",
+          "date": "2020-04-21T21:55:43Z",
+          "userName": "Nathan6700",
+          "issueNumber": 122205,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.7",
+      "iOSVersion": "13.3",
+      "repository": "Twickd",
+      "date": "2020-04-27T21:24:22Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,2",
+          "issues": "",
+          "date": "2020-04-27T21:24:22Z",
+          "userName": "DarkZone-World",
+          "issueNumber": 122596,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPad8,1",
+          "issues": "",
+          "date": "2020-04-28T06:16:51Z",
+          "userName": "Ahplla",
+          "issueNumber": 122625,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.8-3",
+      "iOSVersion": "13.3",
+      "repository": "Twickd",
+      "date": "2020-05-10T13:33:09Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone12,5",
+          "issues": "",
+          "date": "2020-05-10T13:33:09Z",
+          "userName": "Nathan6700",
+          "issueNumber": 123266,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

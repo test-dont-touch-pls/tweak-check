@@ -1,0 +1,347 @@
+{
+  "id": "com.spark.crash-reporter",
+  "name": "CrashReporter (SparkDev)",
+  "latest": "1.17.2",
+  "repository": "Revulate's Repo",
+  "url": "http://cydia.saurik.com/package/com.spark.crash-reporter/",
+  "shortDescription": "CrashReporter is an iOS app for viewing the details of a crash, determining the possible cause of said crash, and reporting this information to the developer(s) responsible.",
+  "category": "System",
+  "author": "Lance Fetters (ashikase)",
+  "commercial": false,
+  "date": "2019-11-11T18:06:03Z",
+  "versions": [
+    {
+      "tweakVersion": "1.17.2",
+      "iOSVersion": "12.2",
+      "repository": "Revulate's Repo",
+      "date": "2019-11-11T18:06:03Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-11-11T18:06:03Z",
+          "userName": "delon5",
+          "issueNumber": 104707,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.17.2",
+      "iOSVersion": "13.2.2",
+      "repository": "(null)",
+      "date": "2019-11-11T21:25:11Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-11-11T21:25:11Z",
+          "userName": "d34dbre4kr",
+          "issueNumber": 104789,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-11-24T20:03:30Z",
+          "userName": "HarikrishnaPai",
+          "issueNumber": 108126,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.17.2",
+      "iOSVersion": "13.2.3",
+      "repository": "Revulate's Repo",
+      "date": "2019-11-19T08:51:09Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-11-19T08:51:09Z",
+          "userName": "KaiHD",
+          "issueNumber": 106955,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.17.2",
+      "iOSVersion": "12.4",
+      "repository": "Revulate's Repo",
+      "date": "2019-11-21T12:28:02Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-11-21T12:28:02Z",
+          "userName": "batfirex2",
+          "issueNumber": 107483,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.17.2",
+      "iOSVersion": "13.3",
+      "repository": "Revulate's Repo",
+      "date": "2019-11-25T15:03:11Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
+        "bad": 0,
+        "total": 5,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-11-25T15:03:11Z",
+          "userName": "charalez",
+          "issueNumber": 108242,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-12-23T21:37:28Z",
+          "userName": "Bkmd100",
+          "issueNumber": 111676,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "Works perfectly.",
+          "date": "2020-01-04T00:06:55Z",
+          "userName": "Battle420",
+          "issueNumber": 112584,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2020-01-30T02:11:37Z",
+          "userName": "JB4Ever",
+          "issueNumber": 114478,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-02-20T15:35:13Z",
+          "userName": "TheExo27",
+          "issueNumber": 116874,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.17.2",
+      "iOSVersion": "13.3.1",
+      "repository": "Revulate's Repo",
+      "date": "2020-02-21T17:09:49Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone10,5",
+          "issues": "No Push Messages ",
+          "date": "2020-02-21T17:09:49Z",
+          "userName": "Barny13",
+          "issueNumber": 117034,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.17.2",
+      "iOSVersion": "13.2",
+      "repository": "Revulate's Repo",
+      "date": "2020-03-11T16:48:54Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-03-11T16:48:54Z",
+          "userName": "Tempris",
+          "issueNumber": 119349,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.17.2",
+      "iOSVersion": "13.4",
+      "repository": "Revulate's Repo",
+      "date": "2020-04-06T14:50:16Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2020-04-06T14:50:16Z",
+          "userName": "Barny13",
+          "issueNumber": 120993,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.17.2",
+      "iOSVersion": "13.4.1",
+      "repository": "Revulate's Repo",
+      "date": "2020-04-29T23:29:54Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-04-29T23:29:54Z",
+          "userName": "Shadowgar",
+          "issueNumber": 122712,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-05-04T08:14:53Z",
+          "userName": "Trikkyx",
+          "issueNumber": 123015,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

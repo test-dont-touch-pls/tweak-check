@@ -1,0 +1,209 @@
+{
+  "id": "tsschecker",
+  "name": "TSS Checker",
+  "latest": "263-1",
+  "repository": "Bingner/Elucubratus",
+  "url": "http://cydia.saurik.com/package/tsschecker/",
+  "shortDescription": "tsschecker is a powerful tool to check tss signing status of various devices and iOS versions.",
+  "category": "Development",
+  "author": "(null)",
+  "commercial": false,
+  "date": "2018-11-25T06:02:06Z",
+  "versions": [
+    {
+      "tweakVersion": "252-1",
+      "iOSVersion": "11.3.1",
+      "repository": "Bingner/Elucubratus",
+      "date": "2018-11-25T06:02:06Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-11-25T06:02:06Z",
+          "userName": "cdestefano",
+          "issueNumber": 55650,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "263-1",
+      "iOSVersion": "11.3.1",
+      "repository": "Bingner/Elucubratus",
+      "date": "2019-01-27T18:28:26Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-01-27T18:28:26Z",
+          "userName": "atifchy",
+          "issueNumber": 57757,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "263-1",
+      "iOSVersion": "12.4",
+      "repository": "Bingner/Elucubratus",
+      "date": "2019-08-19T08:49:51Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2019-08-19T08:49:51Z",
+          "userName": "Passak",
+          "issueNumber": 94697,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2020-02-18T14:48:48Z",
+          "userName": "mblack1",
+          "issueNumber": 116461,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "263-1",
+      "iOSVersion": "13.2.2",
+      "repository": "apt.bingner.com",
+      "date": "2019-11-11T21:05:34Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-11-11T21:05:34Z",
+          "userName": "MBehr2",
+          "issueNumber": 104767,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "263-1",
+      "iOSVersion": "12.4.1",
+      "repository": "apt.bingner.com",
+      "date": "2019-12-06T05:38:45Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-12-06T05:38:45Z",
+          "userName": "bernaction",
+          "issueNumber": 109660,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "263-1",
+      "iOSVersion": "13.3",
+      "repository": "apt.bingner.com",
+      "date": "2020-01-10T01:24:29Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-01-10T01:24:29Z",
+          "userName": "bernaction",
+          "issueNumber": 113048,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

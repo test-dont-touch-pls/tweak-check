@@ -1,0 +1,94 @@
+{
+  "id": "com.yourepo.calicocat.pagebarprobeta",
+  "name": "Pagebar",
+  "latest": "2.4.0",
+  "repository": "CalicoCat's YouRepo - YouRepo",
+  "url": "http://cydia.saurik.com/package/com.yourepo.calicocat.pagebarprobeta/",
+  "shortDescription": "Make your page dots yours",
+  "category": "Tweaks",
+  "author": "calicocat",
+  "commercial": true,
+  "date": "2019-09-14T01:32:02Z",
+  "versions": [
+    {
+      "tweakVersion": "2.0.4",
+      "iOSVersion": "12.4",
+      "repository": "CalicoCat's YouRepo - YouRepo",
+      "date": "2019-09-14T01:32:02Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-09-14T01:32:02Z",
+          "userName": "pathetiqueA",
+          "issueNumber": 100013,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-09-16T09:33:45Z",
+          "userName": "bl4ckr41n",
+          "issueNumber": 100196,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.4.0",
+      "iOSVersion": "13.3",
+      "repository": "Calico's Repo",
+      "date": "2020-03-11T12:08:38Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2020-03-11T12:08:38Z",
+          "userName": "kmokhtar79",
+          "issueNumber": 119314,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "Work great on iOS 13.3 iPhone XS Max",
+          "date": "2020-04-05T17:44:19Z",
+          "userName": "carlospr21",
+          "issueNumber": 120935,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

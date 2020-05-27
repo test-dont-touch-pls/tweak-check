@@ -1,0 +1,63 @@
+{
+  "id": "org.cydia.kiimo.shadow",
+  "name": "Shadow",
+  "latest": "2.0.20",
+  "repository": "A kiiimo Repository ",
+  "url": "http://cydia.saurik.com/package/org.cydia.kiimo.shadow/",
+  "shortDescription": "A lightweight general jailbreak detection bypass.",
+  "category": "iOS 12",
+  "author": "jjolano",
+  "commercial": false,
+  "date": "2019-11-25T13:27:19Z",
+  "versions": [
+    {
+      "tweakVersion": "2.0.20",
+      "iOSVersion": "13.3",
+      "repository": "A kiiimo Repository ",
+      "date": "2019-11-25T13:27:19Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
+        "good": 2,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-11-25T13:27:19Z",
+          "userName": "dezentaversiv",
+          "issueNumber": 108232,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2020-02-16T17:14:49Z",
+          "userName": "WAM41",
+          "issueNumber": 115833,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2020-02-06T16:42:31Z",
+          "userName": "EstevaoRocha",
+          "issueNumber": 114780,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

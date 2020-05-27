@@ -1,0 +1,219 @@
+{
+  "id": "com.shepgoba.photoinfo",
+  "name": "PhotoInfo",
+  "latest": "1.0",
+  "repository": "shepgoba's repo",
+  "url": "http://cydia.saurik.com/package/com.shepgoba.photoinfo/",
+  "shortDescription": "Show photo resolution and disk usage in app",
+  "category": "Tweaks",
+  "author": "shepgoba",
+  "commercial": false,
+  "date": "2019-10-18T22:25:20Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "12.4",
+      "repository": "shepgoba's repo",
+      "date": "2019-10-18T22:25:20Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 6,
+        "bad": 0,
+        "total": 6,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-10-18T22:25:20Z",
+          "userName": "burkybang",
+          "issueNumber": 102632,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-10-19T16:50:58Z",
+          "userName": "JN20x2",
+          "issueNumber": 102695,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-03T13:57:21Z",
+          "userName": "CuzImInside",
+          "issueNumber": 103741,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-04T21:22:15Z",
+          "userName": "DamnRobotAliens",
+          "issueNumber": 103819,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-07T11:56:15Z",
+          "userName": "eloyaldea",
+          "issueNumber": 103909,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-11-13T17:15:21Z",
+          "userName": "ilovemywater",
+          "issueNumber": 105570,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "13.2.2",
+      "repository": "shepgoba's repo",
+      "date": "2019-11-10T18:20:38Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 3,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad7,1",
+          "issues": "",
+          "date": "2019-11-10T18:20:38Z",
+          "userName": "cnassaney",
+          "issueNumber": 104115,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-11-18T05:35:35Z",
+          "userName": "dieseldan444",
+          "issueNumber": 106725,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-20T08:17:45Z",
+          "userName": "eloyaldea",
+          "issueNumber": 107205,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "13.3",
+      "repository": "shepgoba's repo",
+      "date": "2019-12-17T13:54:07Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 3,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-12-17T13:54:07Z",
+          "userName": "TonoAguilars",
+          "issueNumber": 110984,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-02-09T10:47:56Z",
+          "userName": "eloyaldea",
+          "issueNumber": 115001,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-03-27T01:06:23Z",
+          "userName": "DamnRobotAliens",
+          "issueNumber": 120426,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "13.2.3",
+      "repository": "(null)",
+      "date": "2020-01-15T04:24:37Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2020-01-15T04:24:37Z",
+          "userName": "hharr-46",
+          "issueNumber": 113422,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

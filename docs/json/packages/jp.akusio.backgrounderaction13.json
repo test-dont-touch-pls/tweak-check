@@ -1,0 +1,196 @@
+{
+  "id": "jp.akusio.backgrounderaction13",
+  "name": "BackgrounderAction2 for CCSupport",
+  "latest": "0.1.4",
+  "repository": "akusio repo",
+  "url": "http://cydia.saurik.com/package/jp.akusio.backgrounderaction13/",
+  "shortDescription": "[iOS13]Add \"Toggle Background Mode\" action to ControlCenter.",
+  "category": "Tweaks",
+  "author": "akusio",
+  "commercial": false,
+  "date": "2019-12-23T10:12:49Z",
+  "versions": [
+    {
+      "tweakVersion": "0.1.3",
+      "iOSVersion": "13.3",
+      "repository": "akusio repo",
+      "date": "2019-12-23T10:12:49Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
+        "good": 2,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-12-23T10:12:49Z",
+          "userName": "5ooooo",
+          "issueNumber": 111593,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad6,7",
+          "issues": "Works amazingly on iPad Pro (WiFi) 12.9”",
+          "date": "2020-01-05T23:33:08Z",
+          "userName": "CellRichards",
+          "issueNumber": 112784,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone12,5",
+          "issues": "Not working in my 11 pro max ios 13.3",
+          "date": "2020-02-16T22:13:14Z",
+          "userName": "germario",
+          "issueNumber": 115933,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1.4",
+      "iOSVersion": "13.3",
+      "repository": "akusio repo",
+      "date": "2020-02-26T06:00:32Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,2",
+          "issues": "",
+          "date": "2020-02-26T06:00:32Z",
+          "userName": "omiinaya",
+          "issueNumber": 117593,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2020-03-28T05:05:12Z",
+          "userName": "aestheticsglowexe",
+          "issueNumber": 120454,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1.4",
+      "iOSVersion": "13.4.1",
+      "repository": "akusio repo",
+      "date": "2020-04-23T00:50:04Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2020-04-23T00:50:04Z",
+          "userName": "mailinglists35",
+          "issueNumber": 122259,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1.4",
+      "iOSVersion": "13.2.2",
+      "repository": "akusio repo",
+      "date": "2020-04-26T20:47:36Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2020-04-26T20:47:36Z",
+          "userName": "blade12game",
+          "issueNumber": 122481,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1.4",
+      "iOSVersion": "13.4",
+      "repository": "akusio repo",
+      "date": "2020-04-28T02:29:45Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2020-04-28T02:29:45Z",
+          "userName": "rzh5",
+          "issueNumber": 122617,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

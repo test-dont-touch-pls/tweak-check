@@ -1,0 +1,169 @@
+{
+  "id": "libzip",
+  "name": "libzip",
+  "latest": "1.5.1-1",
+  "repository": "Bingner/Elucubratus",
+  "url": "http://cydia.saurik.com/package/libzip/",
+  "shortDescription": "a C library for reading, creating, and modifying zip archives.",
+  "category": "Development",
+  "author": "(null)",
+  "commercial": false,
+  "date": "2019-01-27T18:28:00Z",
+  "versions": [
+    {
+      "tweakVersion": "1.5.1-1",
+      "iOSVersion": "11.3.1",
+      "repository": "Bingner/Elucubratus",
+      "date": "2019-01-27T18:28:00Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-01-27T18:28:00Z",
+          "userName": "atifchy",
+          "issueNumber": 57755,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.5.1-1",
+      "iOSVersion": "12.4",
+      "repository": "apt.bingner.com",
+      "date": "2019-10-07T10:12:33Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad8,1",
+          "issues": "",
+          "date": "2019-10-07T10:12:33Z",
+          "userName": "Ahpla",
+          "issueNumber": 101887,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.5.1-1",
+      "iOSVersion": "13.2.2",
+      "repository": "apt.bingner.com",
+      "date": "2019-11-11T23:51:47Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-11T23:51:47Z",
+          "userName": "arm64nerd",
+          "issueNumber": 104858,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.5.1-1",
+      "iOSVersion": "12.4.1",
+      "repository": "apt.bingner.com",
+      "date": "2019-12-09T03:54:42Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-12-09T03:54:42Z",
+          "userName": "bernaction",
+          "issueNumber": 109970,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.5.1-1",
+      "iOSVersion": "13.3",
+      "repository": "apt.bingner.com",
+      "date": "2020-01-14T12:51:05Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-01-14T12:51:05Z",
+          "userName": "arm64nerd",
+          "issueNumber": 113388,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

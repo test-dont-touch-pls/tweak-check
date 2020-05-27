@@ -1,0 +1,200 @@
+{
+  "id": "com.asterix.autohidehomebarx",
+  "name": "AutoHideHomeBarX",
+  "latest": "1.0.3",
+  "repository": "BigBoss",
+  "url": "http://cydia.saurik.com/package/com.asterix.autohidehomebarx/",
+  "shortDescription": "Homebar hide, swipe disabler",
+  "category": "Tweaks",
+  "author": "Asterix",
+  "commercial": false,
+  "date": "2020-01-26T00:55:56Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "13.1.3",
+      "repository": "BigBoss",
+      "date": "2020-01-26T00:55:56Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-01-26T00:55:56Z",
+          "userName": "joekenda404",
+          "issueNumber": 114102,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "12.4.1",
+      "repository": "BigBoss",
+      "date": "2020-01-26T02:18:20Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2020-01-26T02:18:20Z",
+          "userName": "zeebst602",
+          "issueNumber": 114161,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.2",
+      "iOSVersion": "13.2",
+      "repository": "BigBoss",
+      "date": "2020-02-28T16:40:31Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-02-28T16:40:31Z",
+          "userName": "Tempris",
+          "issueNumber": 117934,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.2",
+      "iOSVersion": "13.3",
+      "repository": "BigBoss",
+      "date": "2020-03-09T13:42:40Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-03-09T13:42:40Z",
+          "userName": "alfonso4590121",
+          "issueNumber": 119097,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.3",
+      "iOSVersion": "13.2",
+      "repository": "BigBoss",
+      "date": "2020-03-11T16:50:25Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-03-11T16:50:25Z",
+          "userName": "Tempris",
+          "issueNumber": 119353,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.3",
+      "iOSVersion": "13.3",
+      "repository": "BigBoss",
+      "date": "2020-03-12T03:09:17Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-03-12T03:09:17Z",
+          "userName": "XistMob",
+          "issueNumber": 119404,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

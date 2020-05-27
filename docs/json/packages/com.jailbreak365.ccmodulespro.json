@@ -1,0 +1,494 @@
+{
+  "id": "com.jailbreak365.ccmodulespro",
+  "name": "CCModules Pro",
+  "latest": "1.1.1",
+  "repository": "Packix",
+  "url": "http://cydia.saurik.com/package/com.jailbreak365.ccmodulespro/",
+  "shortDescription": "Increase the usability of your control center.",
+  "category": "Tweaks",
+  "author": "jailbreak365",
+  "commercial": true,
+  "date": "2019-10-04T22:55:45Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-10-04T22:55:45Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 2,
+        "bad": 0,
+        "total": 4,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone11,8",
+          "issues": "Not work on xr ",
+          "date": "2019-10-04T22:55:45Z",
+          "userName": "obito26m",
+          "issueNumber": 101673,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-10-05T02:02:34Z",
+          "userName": "JiDoan",
+          "issueNumber": 101676,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-10-05T04:35:09Z",
+          "userName": "burkybang",
+          "issueNumber": 101683,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone11,8",
+          "issues": "iPhone XR ",
+          "date": "2019-10-05T22:55:44Z",
+          "userName": "jecoteco",
+          "issueNumber": 101802,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-10-08T09:08:26Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 75,
+        "good": 3,
+        "bad": 0,
+        "total": 4,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPad8,1",
+          "issues": "WiFi causing respring, and force off bluetooth and wifi does not working",
+          "date": "2019-10-08T09:08:26Z",
+          "userName": "Ahpla",
+          "issueNumber": 101935,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-10-08T08:49:26Z",
+          "userName": "burkybang",
+          "issueNumber": 101933,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "Works fine apart from in the 3D menu it doesn’t align up properly in the menu box ",
+          "date": "2019-10-08T10:12:49Z",
+          "userName": "Dougboy1989",
+          "issueNumber": 101940,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,1",
+          "issues": "",
+          "date": "2019-10-08T23:23:50Z",
+          "userName": "yasserelsaadanyy",
+          "issueNumber": 101957,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.2",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-10-15T12:02:41Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 3,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-10-15T12:02:41Z",
+          "userName": "burkybang",
+          "issueNumber": 102308,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPad8,1",
+          "issues": "Wi-fi auto expand causing respring on iPad Pro a12. 11in",
+          "date": "2019-10-15T13:01:46Z",
+          "userName": "Ahpla",
+          "issueNumber": 102316,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-04T21:22:25Z",
+          "userName": "DamnRobotAliens",
+          "issueNumber": 103820,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.2",
+      "iOSVersion": "13.2.3",
+      "repository": "Packix",
+      "date": "2019-11-23T13:19:00Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2019-11-23T13:19:00Z",
+          "userName": "prefironaoinformar",
+          "issueNumber": 107869,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.0",
+      "iOSVersion": "13.2",
+      "repository": "Packix",
+      "date": "2019-12-01T13:07:16Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "Don’t show me contacts photos on 1x1 view ",
+          "date": "2019-12-01T13:07:16Z",
+          "userName": "Lulucho",
+          "issueNumber": 109073,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.0",
+      "iOSVersion": "13.2.3",
+      "repository": "Packix",
+      "date": "2019-12-09T19:41:53Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone8,2",
+          "issues": "No desactiva el bluetooth",
+          "date": "2019-12-09T19:41:53Z",
+          "userName": "javi71",
+          "issueNumber": 110064,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.0",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-12-10T21:48:21Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
+        "good": 2,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPad8,1",
+          "issues": "Causing Restart Springboard with force touch wifi, bluetooth unresponsive layout",
+          "date": "2019-12-10T21:48:21Z",
+          "userName": "Ahpla",
+          "issueNumber": 110236,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "Auto expand doesn’t work on BT or WiFi toggles",
+          "date": "2019-12-27T22:33:05Z",
+          "userName": "DamnRobotAliens",
+          "issueNumber": 111957,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-01-28T20:05:14Z",
+          "userName": "alexPNG",
+          "issueNumber": 114401,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.0",
+      "iOSVersion": "12.1.3",
+      "repository": "Packix",
+      "date": "2019-12-12T14:17:06Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2019-12-12T14:17:06Z",
+          "userName": "ENDERZOMBI102",
+          "issueNumber": 110434,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.0",
+      "iOSVersion": "13.3",
+      "repository": "Packix",
+      "date": "2019-12-16T04:21:22Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-12-16T04:21:22Z",
+          "userName": "burkybang",
+          "issueNumber": 110834,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.1",
+      "iOSVersion": "13.3",
+      "repository": "Packix",
+      "date": "2020-02-16T20:50:27Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 3,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-02-16T20:50:27Z",
+          "userName": "PhilipLPYT",
+          "issueNumber": 115897,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2020-02-16T13:44:44Z",
+          "userName": "AppleTweaker420",
+          "issueNumber": 115774,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad8,1",
+          "issues": "",
+          "date": "2020-02-22T23:17:15Z",
+          "userName": "Ahplla",
+          "issueNumber": 117266,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.1",
+      "iOSVersion": "13.3.1",
+      "repository": "Packix",
+      "date": "2020-04-01T23:22:20Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad7,5",
+          "issues": "",
+          "date": "2020-04-01T23:22:20Z",
+          "userName": "AppleTweaker420",
+          "issueNumber": 120647,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.1",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2020-04-10T08:07:06Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2020-04-10T08:07:06Z",
+          "userName": "s0m3guy2004",
+          "issueNumber": 121390,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

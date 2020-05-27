@@ -1,0 +1,116 @@
+{
+  "id": "com.spark.libsparkmessage",
+  "name": "libSparkMessage",
+  "latest": "1.0.0",
+  "repository": "SparkDev",
+  "url": "http://cydia.saurik.com/package/com.spark.libsparkmessage/",
+  "shortDescription": "Super lightweight IPC messaging library",
+  "category": "System",
+  "author": "Spark",
+  "commercial": false,
+  "date": "2019-12-15T22:12:01Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "13.2.2",
+      "repository": "SparkDev",
+      "date": "2019-12-15T22:12:01Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-12-15T22:12:01Z",
+          "userName": "tomhmoses",
+          "issueNumber": 110775,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "12.4",
+      "repository": "SparkDev",
+      "date": "2020-01-03T15:05:45Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-01-03T15:05:45Z",
+          "userName": "kn3w",
+          "issueNumber": 112542,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "13.3",
+      "repository": "SparkDev",
+      "date": "2020-02-20T04:37:30Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-02-20T04:37:30Z",
+          "userName": "kn3w",
+          "issueNumber": 116795,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2020-02-08T21:15:52Z",
+          "userName": "TheElectricalOutlet",
+          "issueNumber": 114906,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

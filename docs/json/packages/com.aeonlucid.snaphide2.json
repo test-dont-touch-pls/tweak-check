@@ -1,0 +1,165 @@
+{
+  "id": "com.aeonlucid.snaphide2",
+  "name": "SnapHide2",
+  "latest": "1.1.1",
+  "repository": "BigBoss",
+  "url": "http://cydia.saurik.com/package/com.aeonlucid.snaphide2/",
+  "shortDescription": "Tweak that allows everything on Snapchat.",
+  "category": "Tweaks",
+  "author": "AeonLucid",
+  "commercial": false,
+  "date": "2020-02-29T17:24:57Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "13.3",
+      "repository": "BigBoss",
+      "date": "2020-02-29T17:24:57Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 75,
+        "good": 3,
+        "bad": 0,
+        "total": 4,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "Works great on 10.65.0.66. Make sure to use the lowest firmware compatible",
+          "date": "2020-02-29T17:24:57Z",
+          "userName": "JaiDan141",
+          "issueNumber": 118067,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,2",
+          "issues": "",
+          "date": "2020-02-29T22:21:50Z",
+          "userName": "jjmb2525",
+          "issueNumber": 118111,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone12,3",
+          "issues": "",
+          "date": "2020-03-01T15:58:29Z",
+          "userName": "sbpir92i",
+          "issueNumber": 118207,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone11,6",
+          "issues": "Snaphide2 + wraith detected. Locked account",
+          "date": "2020-03-14T22:17:31Z",
+          "userName": "MustBeGrizzly",
+          "issueNumber": 119681,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "12.4",
+      "repository": "BigBoss",
+      "date": "2020-02-29T17:01:23Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2020-02-29T17:01:23Z",
+          "userName": "stohle",
+          "issueNumber": 118059,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.0",
+      "iOSVersion": "13.3",
+      "repository": "AeonLucid",
+      "date": "2020-03-19T13:41:23Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-03-19T13:41:23Z",
+          "userName": "JaiDan141",
+          "issueNumber": 119948,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.1",
+      "iOSVersion": "13.3",
+      "repository": "AeonLucid",
+      "date": "2020-03-21T15:19:24Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-03-21T15:19:24Z",
+          "userName": "JaiDan141",
+          "issueNumber": 120059,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

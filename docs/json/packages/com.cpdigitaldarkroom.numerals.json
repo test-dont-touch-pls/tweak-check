@@ -1,0 +1,116 @@
+{
+  "id": "com.cpdigitaldarkroom.numerals",
+  "name": "Numerals",
+  "latest": "1.0",
+  "repository": "CP Digital Darkroom Repo",
+  "url": "https://repo.cpdigitaldarkroom.com/",
+  "shortDescription": "Roman Numeral Badge Numbers",
+  "category": "Tweaks",
+  "author": "CP Digital Darkroom",
+  "commercial": false,
+  "date": "2018-02-28T03:05:25Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "11.1.2",
+      "repository": "CP Digital Darkroom Repo",
+      "date": "2018-02-28T03:05:25Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-02-28T03:05:25Z",
+          "userName": "darth-mexican",
+          "issueNumber": 1453,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-03-03T05:28:36Z",
+          "userName": "romi1996",
+          "issueNumber": 3309,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "11.2.5",
+      "repository": "CP Digital Darkroom Repo",
+      "date": "2018-07-22T18:14:22Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-07-22T18:14:22Z",
+          "userName": "jessicalong127",
+          "issueNumber": 32215,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "12.4",
+      "repository": "CP Digital Darkroom Repo",
+      "date": "2019-10-29T13:58:15Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone6,1",
+          "issues": "Badges are gone",
+          "date": "2019-10-29T13:58:15Z",
+          "userName": "s0m3guy2004",
+          "issueNumber": 103398,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

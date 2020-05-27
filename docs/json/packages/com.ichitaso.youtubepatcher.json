@@ -1,0 +1,609 @@
+{
+  "id": "com.ichitaso.youtubepatcher",
+  "name": "YouTubePatcher",
+  "latest": "0.1-10",
+  "repository": "ichitaso repository",
+  "url": "http://cydia.saurik.com/package/com.ichitaso.youtubepatcher/",
+  "shortDescription": "No inline Ads/Background Play back",
+  "category": "Tweaks",
+  "author": "ichitaso",
+  "commercial": false,
+  "date": "2018-07-08T05:20:43Z",
+  "versions": [
+    {
+      "tweakVersion": "0.1-5",
+      "iOSVersion": "11.3.1",
+      "repository": "ichitaso repository",
+      "date": "2018-07-08T05:20:43Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 4,
+        "bad": 0,
+        "total": 4,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-07-08T05:20:43Z",
+          "userName": "junk4ja",
+          "issueNumber": 15201,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-07-08T10:54:32Z",
+          "userName": "sanchesanetto",
+          "issueNumber": 15831,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad4,8",
+          "issues": "",
+          "date": "2018-07-11T08:54:25Z",
+          "userName": "dayu03",
+          "issueNumber": 22132,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-11-01T11:41:15Z",
+          "userName": "ZerOneX",
+          "issueNumber": 54373,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1-5",
+      "iOSVersion": "11.2.1",
+      "repository": "ichitaso repository",
+      "date": "2018-07-08T16:02:32Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-07-08T16:02:32Z",
+          "userName": "jeffreyF1",
+          "issueNumber": 16266,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1-5",
+      "iOSVersion": "11.3",
+      "repository": "ichitaso repository",
+      "date": "2018-11-20T06:27:58Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-11-20T06:27:58Z",
+          "userName": "dayu03",
+          "issueNumber": 55518,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1-6",
+      "iOSVersion": "11.4",
+      "repository": "ichitaso repository",
+      "date": "2019-02-02T20:59:01Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-02-02T20:59:01Z",
+          "userName": "percyjk23",
+          "issueNumber": 58455,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1-6",
+      "iOSVersion": "12.1.1",
+      "repository": "ichitaso repository",
+      "date": "2019-02-27T06:31:24Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-02-27T06:31:24Z",
+          "userName": "Cucklord420",
+          "issueNumber": 68371,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1-6",
+      "iOSVersion": "12.1.2",
+      "repository": "ichitaso repository",
+      "date": "2019-03-02T23:41:18Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 60,
+        "good": 3,
+        "bad": 0,
+        "total": 5,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-03-02T23:41:18Z",
+          "userName": "Supermonyet",
+          "issueNumber": 71056,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone6,2",
+          "issues": "",
+          "date": "2019-03-05T10:37:48Z",
+          "userName": "tomhop99",
+          "issueNumber": 72878,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,2",
+          "issues": "YT14.08.5 inline ads not blocked",
+          "date": "2019-03-08T05:57:30Z",
+          "userName": "anonypublic",
+          "issueNumber": 74748,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-03-16T00:29:31Z",
+          "userName": "saudsaad1000",
+          "issueNumber": 77885,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-03-20T14:55:42Z",
+          "userName": "i-Mobilka",
+          "issueNumber": 79466,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1-7",
+      "iOSVersion": "12.1.2",
+      "repository": "ichitaso repository",
+      "date": "2019-05-30T20:40:33Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone9,2",
+          "issues": "Inline ads not blocked",
+          "date": "2019-05-30T20:40:33Z",
+          "userName": "NewGithubber35",
+          "issueNumber": 89386,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1-7",
+      "iOSVersion": "12.1.4",
+      "repository": "ichitaso repository",
+      "date": "2019-08-01T12:54:11Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-08-01T12:54:11Z",
+          "userName": "DogWav3",
+          "issueNumber": 93303,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1-8",
+      "iOSVersion": "12.4",
+      "repository": "ichitaso repository",
+      "date": "2019-09-03T11:41:25Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad4,1",
+          "issues": "",
+          "date": "2019-09-03T11:41:25Z",
+          "userName": "saloloki",
+          "issueNumber": 99110,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1-8",
+      "iOSVersion": "12.2",
+      "repository": "ichitaso repository",
+      "date": "2019-10-12T23:40:05Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-10-12T23:40:05Z",
+          "userName": "delon5",
+          "issueNumber": 102173,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1-10",
+      "iOSVersion": "12.2",
+      "repository": "ichitaso repository",
+      "date": "2019-10-19T17:08:12Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad11,1",
+          "issues": "",
+          "date": "2019-10-19T17:08:12Z",
+          "userName": "0x9fff00",
+          "issueNumber": 102699,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1-10",
+      "iOSVersion": "12.4",
+      "repository": "ichitaso repository",
+      "date": "2019-11-10T08:20:58Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad5,4",
+          "issues": "Works great ",
+          "date": "2019-11-10T08:20:58Z",
+          "userName": "Deveda",
+          "issueNumber": 104041,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-12-20T01:15:47Z",
+          "userName": "ilovemywater",
+          "issueNumber": 111261,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1-10",
+      "iOSVersion": "13.2.2",
+      "repository": "ichitaso repository",
+      "date": "2019-11-11T07:20:10Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad7,5",
+          "issues": "",
+          "date": "2019-11-11T06:44:10Z",
+          "userName": "TonoAguilars",
+          "issueNumber": 104466,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-11-11T07:33:04Z",
+          "userName": "dayu03",
+          "issueNumber": 104490,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1-10",
+      "iOSVersion": "13.2.3",
+      "repository": "ichitaso repository",
+      "date": "2019-12-07T08:49:26Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-12-07T08:49:26Z",
+          "userName": "Victorum",
+          "issueNumber": 109760,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1-10",
+      "iOSVersion": "13.3",
+      "repository": "ichitaso repository",
+      "date": "2019-12-16T14:49:07Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 3,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-12-16T14:49:07Z",
+          "userName": "TonoAguilars",
+          "issueNumber": 110883,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone12,1",
+          "issues": "",
+          "date": "2020-02-16T01:50:55Z",
+          "userName": "Gerardsr13",
+          "issueNumber": 115628,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone12,3",
+          "issues": "",
+          "date": "2020-02-26T01:19:57Z",
+          "userName": "skylrw",
+          "issueNumber": 117573,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1-10",
+      "iOSVersion": "13.3.1",
+      "repository": "ichitaso repository",
+      "date": "2020-02-05T20:44:35Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-02-05T20:44:35Z",
+          "userName": "RobertRR11",
+          "issueNumber": 114755,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "id": "com.lacertosusrepo.libellum",
+  "name": "Libellum",
+  "latest": "1.2-1",
+  "repository": "LacertosusDeus's Repo",
+  "url": "http://cydia.saurik.com/package/com.lacertosusrepo.libellum/",
+  "shortDescription": "Notes on your lockscreen and notification center...",
+  "category": "Tweaks",
+  "author": "LacertosusDeus",
+  "commercial": false,
+  "date": "2019-11-28T18:15:05Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0~b3",
+      "iOSVersion": "13.2.3",
+      "repository": "LacertosusDeus's Repo",
+      "date": "2019-11-28T18:15:05Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-11-28T18:15:05Z",
+          "userName": "metoonhathung",
+          "issueNumber": 108711,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0~b4",
+      "iOSVersion": "13.2.3",
+      "repository": "LacertosusDeus's Repo",
+      "date": "2019-12-01T00:34:12Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-12-01T00:34:12Z",
+          "userName": "metoonhathung",
+          "issueNumber": 109014,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0~b9",
+      "iOSVersion": "13.2.3",
+      "repository": "LacertosusDeus's Repo",
+      "date": "2019-12-21T19:54:48Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-12-21T19:54:48Z",
+          "userName": "Savmaster",
+          "issueNumber": 111439,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "13.3",
+      "repository": "LacertosusDeus's Repo",
+      "date": "2020-01-03T17:34:53Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2020-01-03T17:34:53Z",
+          "userName": "metoonhathung",
+          "issueNumber": 112558,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "13.2.2",
+      "repository": "LacertosusDeus's Repo",
+      "date": "2020-01-08T17:36:28Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2020-01-08T17:36:28Z",
+          "userName": "mazjap",
+          "issueNumber": 112991,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2-1",
+      "iOSVersion": "13.3.1",
+      "repository": "LacertosusDeus's Repo",
+      "date": "2020-02-25T23:00:31Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2020-02-25T23:00:31Z",
+          "userName": "metoonhathung",
+          "issueNumber": 117555,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2-1",
+      "iOSVersion": "13.4",
+      "repository": "LacertosusDeus's Repo",
+      "date": "2020-03-25T16:16:35Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2020-03-25T16:16:35Z",
+          "userName": "metoonhathung",
+          "issueNumber": 120277,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

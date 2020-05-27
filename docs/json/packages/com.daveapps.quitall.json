@@ -1,0 +1,504 @@
+{
+  "id": "com.daveapps.quitall",
+  "name": "QuitAll",
+  "latest": "1.0.1",
+  "repository": "Chariz",
+  "url": "http://cydia.saurik.com/package/com.daveapps.quitall/",
+  "shortDescription": "One tweak to quit them all",
+  "category": "Tweaks",
+  "author": "Dave van Wijk",
+  "commercial": false,
+  "date": "2020-03-01T05:18:27Z",
+  "versions": [
+    {
+      "tweakVersion": "1",
+      "iOSVersion": "13.3",
+      "repository": "Chariz",
+      "date": "2020-03-01T05:18:27Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone12,1",
+          "issues": "",
+          "date": "2020-03-01T05:18:14Z",
+          "userName": "Mosas123",
+          "issueNumber": 118148,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "13.3",
+      "repository": "Chariz",
+      "date": "2020-03-01T11:16:22Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 71,
+        "good": 10,
+        "bad": 0,
+        "total": 14,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Doesn’t work if you have iPad-style/grid switcher tweaks installed",
+          "date": "2020-03-01T11:16:22Z",
+          "userName": "ibrokeupmcr",
+          "issueNumber": 118162,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone12,5",
+          "issues": "Tweak works prefect",
+          "date": "2020-03-01T14:05:46Z",
+          "userName": "sm260t",
+          "issueNumber": 118174,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone12,5",
+          "issues": "",
+          "date": "2020-03-01T13:57:20Z",
+          "userName": "MBehr2",
+          "issueNumber": 118173,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-03-02T11:09:25Z",
+          "userName": "TheExo27",
+          "issueNumber": 118338,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone12,1",
+          "issues": "Clear button is within the Battery Icon",
+          "date": "2020-03-02T19:39:57Z",
+          "userName": "StiviiK",
+          "issueNumber": 118384,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-03-09T02:38:35Z",
+          "userName": "Simplygriffo",
+          "issueNumber": 119066,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,2",
+          "issues": "Not working for Grid Switcher!",
+          "date": "2020-04-02T07:56:04Z",
+          "userName": "anonypublic",
+          "issueNumber": 120702,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone12,3",
+          "issues": "",
+          "date": "2020-04-02T15:58:50Z",
+          "userName": "FrostyNL",
+          "issueNumber": 120766,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,5",
+          "issues": "no clear Symbol. Please Support! ",
+          "date": "2020-04-04T12:24:13Z",
+          "userName": "schmidde90",
+          "issueNumber": 120880,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-04-06T22:48:50Z",
+          "userName": "SavageAUS",
+          "issueNumber": 121024,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone12,5",
+          "issues": "",
+          "date": "2020-04-11T14:49:53Z",
+          "userName": "exotico1",
+          "issueNumber": 121514,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone12,5",
+          "issues": "",
+          "date": "2020-04-12T17:25:53Z",
+          "userName": "ty199x",
+          "issueNumber": 121644,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-04-26T05:45:39Z",
+          "userName": "seitaneddy",
+          "issueNumber": 122450,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2020-04-28T14:13:42Z",
+          "userName": "Pachi23",
+          "issueNumber": 122644,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "13.3.1",
+      "repository": "Chariz",
+      "date": "2020-03-01T17:42:01Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 2,
+        "bad": 0,
+        "total": 4,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "iPhone 7",
+          "date": "2020-03-04T23:25:21Z",
+          "userName": "43865",
+          "issueNumber": 118666,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-03-26T23:25:01Z",
+          "userName": "wickdj",
+          "issueNumber": 120421,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "iPhone 7 Plus (GSM)",
+          "date": "2020-04-02T07:32:00Z",
+          "userName": "Lumln0us",
+          "issueNumber": 120685,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2020-05-02T07:45:32Z",
+          "userName": "CrisantoSJ",
+          "issueNumber": 122814,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "13.0",
+      "repository": "Chariz",
+      "date": "2020-03-02T05:37:36Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone12,1",
+          "issues": "",
+          "date": "2020-03-02T05:37:36Z",
+          "userName": "nelsonbrett55",
+          "issueNumber": 118329,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "12.4",
+      "repository": "Chariz",
+      "date": "2020-03-03T16:52:10Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone6,1",
+          "issues": "Only for iOS 13 and above",
+          "date": "2020-03-03T16:52:10Z",
+          "userName": "s0m3guy2004",
+          "issueNumber": 118540,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "13.2",
+      "repository": "repo.chariz.com",
+      "date": "2020-03-07T13:14:52Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2020-03-07T13:14:52Z",
+          "userName": "SwissChes",
+          "issueNumber": 118877,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "13.1.3",
+      "repository": "Chariz",
+      "date": "2020-03-13T23:14:32Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-03-13T23:14:32Z",
+          "userName": "joekenda404",
+          "issueNumber": 119536,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "13.1",
+      "repository": "Chariz",
+      "date": "2020-03-23T09:43:33Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2020-03-23T09:43:33Z",
+          "userName": "issasilver66",
+          "issueNumber": 120142,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "13.4.1",
+      "repository": "Chariz",
+      "date": "2020-04-16T20:46:09Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 60,
+        "good": 3,
+        "bad": 0,
+        "total": 5,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2020-04-16T20:46:09Z",
+          "userName": "Thugnificent7",
+          "issueNumber": 121923,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "« Quit all » dont working",
+          "date": "2020-04-16T21:58:09Z",
+          "userName": "Zechad",
+          "issueNumber": 121933,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2020-04-18T09:40:30Z",
+          "userName": "darkside-ai",
+          "issueNumber": 122000,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2020-04-18T20:19:16Z",
+          "userName": "darkmoon980",
+          "issueNumber": 122061,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2020-04-21T07:12:28Z",
+          "userName": "mk-vip",
+          "issueNumber": 122156,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "13.4",
+      "repository": "Chariz",
+      "date": "2020-04-23T18:00:15Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-04-23T18:00:15Z",
+          "userName": "bewarteli",
+          "issueNumber": 122296,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

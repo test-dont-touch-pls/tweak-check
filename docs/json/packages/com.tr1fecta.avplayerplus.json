@@ -1,0 +1,103 @@
+{
+  "id": "com.tr1fecta.avplayerplus",
+  "name": "AVPlayerPlus",
+  "latest": "1.0",
+  "repository": "Packix",
+  "url": "http://cydia.saurik.com/package/com.tr1fecta.avplayerplus/",
+  "shortDescription": "A tweak to add extra functionality to the AVPlayer in iOS, IOS 11 and up are supported.",
+  "category": "Tweaks",
+  "author": "Tr1Fecta",
+  "commercial": false,
+  "date": "2019-10-08T03:21:18Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-10-08T03:21:18Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 4,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-10-08T03:21:18Z",
+          "userName": "anonypublic",
+          "issueNumber": 101928,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2019-10-08T10:51:27Z",
+          "userName": "Demon7485",
+          "issueNumber": 101943,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone11,8",
+          "issues": "Not work on XR",
+          "date": "2019-10-08T15:17:00Z",
+          "userName": "obito26m",
+          "issueNumber": 101946,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-10-15T08:03:50Z",
+          "userName": "robonxt",
+          "issueNumber": 102294,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "13.4.1",
+      "repository": "Packix",
+      "date": "2020-04-13T09:32:10Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2020-04-13T09:32:10Z",
+          "userName": "zairo45",
+          "issueNumber": 121690,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

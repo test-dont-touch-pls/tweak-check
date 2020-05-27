@@ -1,0 +1,187 @@
+{
+  "id": "com.leftyfl1p.carbackground13",
+  "name": "Canvas (iOS 13)",
+  "latest": "1.0",
+  "repository": "Packix",
+  "url": "http://cydia.saurik.com/package/com.leftyfl1p.carbackground13/",
+  "shortDescription": "CarPlay Wallpapers",
+  "category": "Tweaks",
+  "author": "leftyfl1p",
+  "commercial": false,
+  "date": "2019-11-22T05:25:16Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "13.2.2",
+      "repository": "Packix",
+      "date": "2019-11-22T05:25:16Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-22T05:25:16Z",
+          "userName": "wolfiefrick",
+          "issueNumber": 107707,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "crashes the settings app once i tap on the canvas tweak",
+          "date": "2019-12-02T07:56:11Z",
+          "userName": "db00st",
+          "issueNumber": 109153,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "13.2.3",
+      "repository": "Packix",
+      "date": "2019-11-22T11:52:18Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-22T11:43:57Z",
+          "userName": "hellraizer02",
+          "issueNumber": 107728,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-12-09T01:21:00Z",
+          "userName": "anghios",
+          "issueNumber": 109962,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-11-28T23:39:37Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone6,1",
+          "issues": "Use iOS 11 - iOS 12 version",
+          "date": "2019-11-28T23:39:37Z",
+          "userName": "s0m3guy2004",
+          "issueNumber": 108741,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "13.3",
+      "repository": "Packix",
+      "date": "2020-01-06T13:30:58Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-01-06T13:30:58Z",
+          "userName": "rio-doro",
+          "issueNumber": 112845,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "13.1.3",
+      "repository": "Packix",
+      "date": "2020-01-26T01:01:24Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-01-26T01:01:24Z",
+          "userName": "konijnendans",
+          "issueNumber": 114114,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "id": "net.if0x.cybackup10",
+  "name": "CyBackup iOS 10-12",
+  "latest": "0.0.6-beta5",
+  "repository": "if0x’s beta repo",
+  "url": "http://cydia.saurik.com/package/net.if0x.cybackup10/",
+  "shortDescription": "Backup installed tweaks as .debs and make a .zip Backup folder in \"/CyBackup\". To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)",
+  "category": "Tweaks",
+  "author": "@if0xxx",
+  "commercial": false,
+  "date": "2019-03-16T14:33:48Z",
+  "versions": [
+    {
+      "tweakVersion": "0.0.4-alpha5",
+      "iOSVersion": "12.1.2",
+      "repository": "if0x’s beta repo",
+      "date": "2019-03-16T14:33:48Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-03-16T14:33:48Z",
+          "userName": "The-Hacker894",
+          "issueNumber": 78068,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.4-alpha5",
+      "iOSVersion": "12.1.1",
+      "repository": "if0x’s beta repo",
+      "date": "2019-03-18T22:53:59Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-03-18T22:53:59Z",
+          "userName": "yonigold1",
+          "issueNumber": 78990,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.5-alpha1",
+      "iOSVersion": "13.2.3",
+      "repository": "if0x’s beta repo",
+      "date": "2019-12-01T12:25:31Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "Should work on all devices/iOS 13 versions. If not let me know",
+          "date": "2019-12-01T12:25:31Z",
+          "userName": "if0x",
+          "issueNumber": 109068,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.5-beta3",
+      "iOSVersion": "13.2.3",
+      "repository": "if0x’s beta repo",
+      "date": "2019-12-01T15:41:25Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "Works on all versions of iOS 13",
+          "date": "2019-12-01T15:41:25Z",
+          "userName": "if0x",
+          "issueNumber": 109093,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.6-beta1",
+      "iOSVersion": "13.2.3",
+      "repository": "if0x’s beta repo",
+      "date": "2019-12-02T17:43:01Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-12-02T17:43:01Z",
+          "userName": "if0x",
+          "issueNumber": 109224,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.6-beta5",
+      "iOSVersion": "13.3",
+      "repository": "if0x’s beta repo",
+      "date": "2019-12-20T20:38:10Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-12-20T20:38:10Z",
+          "userName": "Gismo567",
+          "issueNumber": 111328,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}
