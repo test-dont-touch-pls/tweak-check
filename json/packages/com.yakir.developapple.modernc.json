@@ -1,0 +1,271 @@
+{
+  "id": "com.yakir.developapple.modernc",
+  "name": "ModernC",
+  "latest": "1.0",
+  "repository": "BigBoss",
+  "url": "http://cydia.saurik.com/package/com.yakir.developapple.modernc/",
+  "shortDescription": "The most perfect look for Cydia Each time a tweak list and most popular themes are updated, both free and paid",
+  "category": "Tweaks",
+  "author": "DevelopApple",
+  "commercial": false,
+  "date": "2019-04-17T17:10:34Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "12.0",
+      "repository": "BigBoss",
+      "date": "2019-04-17T17:10:34Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Cant click stuff. Never changes ",
+          "date": "2019-04-17T17:10:34Z",
+          "userName": "chriscegz",
+          "issueNumber": 84705,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,5",
+          "issues": "Looks nice, but main page is broken with links not working, content never changes",
+          "date": "2019-04-18T01:37:30Z",
+          "userName": "FounderHawk",
+          "issueNumber": 84762,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "12.1.1",
+      "repository": "BigBoss",
+      "date": "2019-04-17T17:35:40Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad7,1",
+          "issues": "",
+          "date": "2019-04-17T17:35:40Z",
+          "userName": "RiPx88",
+          "issueNumber": 84708,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "12.1",
+      "repository": "BigBoss",
+      "date": "2019-04-18T11:42:09Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "Works!",
+          "date": "2019-04-18T11:42:09Z",
+          "userName": "KillerWasp",
+          "issueNumber": 84797,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "13.2.2",
+      "repository": "BigBoss",
+      "date": "2019-11-20T16:17:15Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "Haven’t looked deep into it but I think it’s working",
+          "date": "2019-11-20T16:17:15Z",
+          "userName": "Atopaz21",
+          "issueNumber": 107261,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "13.2.3",
+      "repository": "BigBoss",
+      "date": "2019-11-22T17:40:18Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-22T17:40:18Z",
+          "userName": "Contonion",
+          "issueNumber": 107770,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "13.2",
+      "repository": "BigBoss",
+      "date": "2020-01-04T17:15:56Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2020-01-04T17:15:56Z",
+          "userName": "thepotato132",
+          "issueNumber": 112639,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "13.3",
+      "repository": "BigBoss",
+      "date": "2020-01-15T14:34:50Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2020-01-15T14:34:50Z",
+          "userName": "JuanK1980",
+          "issueNumber": 113442,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "12.4",
+      "repository": "BigBoss",
+      "date": "2020-03-03T12:42:18Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone6,1",
+          "issues": "Works, but doesn’t look good on small screens",
+          "date": "2020-03-03T12:42:18Z",
+          "userName": "s0m3guy2004",
+          "issueNumber": 118530,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

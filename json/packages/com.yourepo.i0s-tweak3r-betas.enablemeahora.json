@@ -1,0 +1,324 @@
+{
+  "id": "com.yourepo.i0s-tweak3r-betas.enablemeahora",
+  "name": "EnableMeAhora",
+  "latest": "1.0.2",
+  "repository": "i0s-tweak3r-betas Source - YouRepo",
+  "url": "http://cydia.saurik.com/package/com.yourepo.i0s-tweak3r-betas.enablemeahora/",
+  "shortDescription": "An awesome tweak to custom color and shape your switches in Settings app, Music, Timer and alarms, Flex3, Spotify and several other apps. System wide coming soon. Includes color pickers for all main elements, with options from super minimal to bright, bold and beautiful. Also has slider options for background and thumb colors, plus option to hide displayed value for cleaner look. Supports iOS 11-13.3 all devices.",
+  "category": "Tweaks",
+  "author": "i0s_tweak3r",
+  "commercial": false,
+  "date": "2019-02-03T16:11:56Z",
+  "versions": [
+    {
+      "tweakVersion": "0.1.1-1",
+      "iOSVersion": "11.4",
+      "repository": "i0s-tweak3r-betas Source - YouRepo",
+      "date": "2019-02-03T16:11:56Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-02-03T16:11:56Z",
+          "userName": "Tweaker177",
+          "issueNumber": 58541,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1.1-1",
+      "iOSVersion": "12.1.2",
+      "repository": "i0s-tweak3r-betas Source - YouRepo",
+      "date": "2019-02-27T21:54:53Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-02-27T21:54:53Z",
+          "userName": "Tweaker177",
+          "issueNumber": 68944,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1.1-1",
+      "iOSVersion": "12.0.1",
+      "repository": "i0s-tweak3r-betas Source - YouRepo",
+      "date": "2019-04-12T03:18:12Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,1",
+          "issues": "",
+          "date": "2019-04-12T03:18:12Z",
+          "userName": "Tweaker177",
+          "issueNumber": 83914,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1.2-6",
+      "iOSVersion": "12.1.2",
+      "repository": "i0s-tweak3r-betas Source - YouRepo",
+      "date": "2019-05-08T05:40:13Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-05-08T05:40:13Z",
+          "userName": "Tweaker177",
+          "issueNumber": 87345,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1.2-6",
+      "iOSVersion": "11.4",
+      "repository": "i0s-tweak3r-betas Source - YouRepo",
+      "date": "2019-05-08T05:36:31Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-05-08T05:36:31Z",
+          "userName": "Tweaker177",
+          "issueNumber": 87344,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1.3-2",
+      "iOSVersion": "12.4",
+      "repository": "i0s-tweak3r-betas Source - YouRepo",
+      "date": "2019-09-16T23:48:36Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-09-16T23:48:36Z",
+          "userName": "Tweaker177",
+          "issueNumber": 100253,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0-3",
+      "iOSVersion": "12.4.3",
+      "repository": "i0s-tweak3r-betas Source - YouRepo",
+      "date": "2019-11-18T03:30:04Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,1",
+          "issues": "",
+          "date": "2019-11-18T03:30:04Z",
+          "userName": "Tweaker177",
+          "issueNumber": 106676,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.2",
+      "iOSVersion": "13.2.2",
+      "repository": "i0s-tweak3r-betas Source - YouRepo",
+      "date": "2019-12-02T20:42:36Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-12-02T20:42:36Z",
+          "userName": "Tweaker177",
+          "issueNumber": 109233,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.2",
+      "iOSVersion": "12.4",
+      "repository": "i0s-tweak3r-betas Source - YouRepo",
+      "date": "2019-12-02T20:40:54Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-12-02T20:40:54Z",
+          "userName": "Tweaker177",
+          "issueNumber": 109232,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.2",
+      "iOSVersion": "12.4.3",
+      "repository": "i0s-tweak3r-betas Source - YouRepo",
+      "date": "2019-12-10T09:12:13Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,1",
+          "issues": "",
+          "date": "2019-12-10T09:12:13Z",
+          "userName": "Tweaker177",
+          "issueNumber": 110196,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

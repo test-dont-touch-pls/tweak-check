@@ -1,0 +1,138 @@
+{
+  "id": "my.platykor.beautyfold",
+  "name": "BeautyFold",
+  "latest": "1.6.1",
+  "repository": "BigBoss",
+  "url": "http://cydia.saurik.com/package/my.platykor.beautyfold/",
+  "shortDescription": "Stylish ten icons  for your folders. (ios12)",
+  "category": "Tweaks",
+  "author": "Plat-Ykor",
+  "commercial": false,
+  "date": "2019-11-06T20:39:00Z",
+  "versions": [
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "12.4",
+      "repository": "BigBoss",
+      "date": "2019-11-06T20:39:00Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-11-06T20:39:00Z",
+          "userName": "Kounteya",
+          "issueNumber": 103890,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "13.2.2",
+      "repository": "Packix",
+      "date": "2019-11-16T04:55:58Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Icons not displayed correctly ",
+          "date": "2019-11-16T04:55:58Z",
+          "userName": "megatech1966",
+          "issueNumber": 106162,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.6",
+      "iOSVersion": "13.3",
+      "repository": "BigBoss",
+      "date": "2020-02-21T04:08:17Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-02-21T04:08:17Z",
+          "userName": "sillwiu",
+          "issueNumber": 116970,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.6.1",
+      "iOSVersion": "13.3",
+      "repository": "Packix",
+      "date": "2020-02-26T00:58:46Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,1",
+          "issues": "causes springboard to crash into safe mode ",
+          "date": "2020-02-26T00:58:46Z",
+          "userName": "ali95hasan",
+          "issueNumber": 117570,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

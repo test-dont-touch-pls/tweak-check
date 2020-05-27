@@ -1,0 +1,54 @@
+{
+  "id": "com.tweakios.easypoweroption13",
+  "name": "EasyPowerOption13",
+  "latest": "0.0.1-1+debug",
+  "repository": "TweakiOS's Cydia Repo",
+  "url": "http://cydia.saurik.com/package/com.tweakios.easypoweroption13/",
+  "shortDescription": "add more options for powerdown slider, for iOS13.",
+  "category": "Tweaks",
+  "author": "TweakiOS",
+  "commercial": false,
+  "date": "2020-02-23T13:41:11Z",
+  "versions": [
+    {
+      "tweakVersion": "0.0.1-1+debug",
+      "iOSVersion": "13.3",
+      "repository": "TweakiOS's Cydia Repo",
+      "date": "2020-02-23T13:41:11Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone11,2",
+          "issues": "on A12 device",
+          "date": "2020-02-23T13:41:11Z",
+          "userName": "omiinaya",
+          "issueNumber": 117348,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone12,3",
+          "issues": "Just click on slider and you will see the options. Works on 11 Pro",
+          "date": "2020-02-26T19:06:32Z",
+          "userName": "ilyamodder",
+          "issueNumber": 117712,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "id": "com.nrkvv.snsnoad",
+  "name": "SnsNoAd",
+  "latest": "0.2.3",
+  "repository": "m156@nrkvv",
+  "url": "http://cydia.saurik.com/package/com.nrkvv.snsnoad/",
+  "shortDescription": "SNS no AD Tweats!",
+  "category": "Tweaks",
+  "author": "m156nrkvv",
+  "commercial": false,
+  "date": "2018-08-05T14:29:21Z",
+  "versions": [
+    {
+      "tweakVersion": "0.2.0",
+      "iOSVersion": "11.3.1",
+      "repository": "m156@nrkvv",
+      "date": "2018-08-05T14:29:21Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2018-08-05T14:29:21Z",
+          "userName": "SlashNephy",
+          "issueNumber": 39165,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.2.2",
+      "iOSVersion": "12.1.1",
+      "repository": "m156nrkvv.g2.xrea.com",
+      "date": "2019-03-13T06:09:22Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2019-03-13T06:09:22Z",
+          "userName": "SlashNephy",
+          "issueNumber": 76999,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.2.3",
+      "iOSVersion": "12.4",
+      "repository": "m156nrkvv.g2.xrea.com",
+      "date": "2019-11-10T08:19:37Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad5,4",
+          "issues": "Works great ",
+          "date": "2019-11-10T08:19:37Z",
+          "userName": "Deveda",
+          "issueNumber": 104037,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.2.3",
+      "iOSVersion": "13.2.2",
+      "repository": "m156nrkvv.g2.xrea.com",
+      "date": "2019-11-11T12:03:28Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "Blocks promoted tweets on twitter version 7.6",
+          "date": "2019-11-11T12:03:28Z",
+          "userName": "capitanstuped",
+          "issueNumber": 104581,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

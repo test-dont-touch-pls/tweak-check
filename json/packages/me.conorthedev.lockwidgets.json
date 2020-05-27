@@ -1,0 +1,573 @@
+{
+  "id": "me.conorthedev.lockwidgets",
+  "name": "LockWidgets",
+  "latest": "2.0",
+  "repository": "Dynastic Repo",
+  "url": "http://cydia.saurik.com/package/me.conorthedev.lockwidgets/",
+  "shortDescription": "Access your favourite widgets, directly on your lockscreen — Introducing LockWidgets by ConorTheDev",
+  "category": "Tweaks",
+  "author": "ConorTheDev",
+  "commercial": false,
+  "date": "2019-11-20T20:34:01Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "13.2.2",
+      "repository": "Dynastic Repo",
+      "date": "2019-11-20T20:34:01Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-11-20T20:34:01Z",
+          "userName": "1supercooldude",
+          "issueNumber": 107319,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "13.2.2",
+      "repository": "Dynastic Repo",
+      "date": "2019-11-21T00:29:18Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
+        "bad": 0,
+        "total": 5,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Settings crash",
+          "date": "2019-11-21T00:29:18Z",
+          "userName": "1supercooldude",
+          "issueNumber": 107365,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "Settings work that fool just crazy",
+          "date": "2019-11-21T01:31:36Z",
+          "userName": "FloreSuave97",
+          "issueNumber": 107370,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-21T06:42:50Z",
+          "userName": "sebsi1",
+          "issueNumber": 107434,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-11-27T10:12:59Z",
+          "userName": "mastercreeper66",
+          "issueNumber": 108502,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,3",
+          "issues": "Settings of this tweak are crashing",
+          "date": "2019-12-03T08:41:46Z",
+          "userName": "Srcuso",
+          "issueNumber": 109316,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "12.4.3",
+      "repository": "Dynastic Repo",
+      "date": "2019-11-21T00:12:24Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-11-21T00:12:24Z",
+          "userName": "alexmen14",
+          "issueNumber": 107356,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "13.2.3",
+      "repository": "Dynastic Repo",
+      "date": "2019-11-20T23:30:50Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 3,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-20T23:30:50Z",
+          "userName": "Bananastudios",
+          "issueNumber": 107341,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-11-21T01:32:36Z",
+          "userName": "morgancordry",
+          "issueNumber": 107372,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "installs but crashes settings app, cannot change preferences",
+          "date": "2019-12-05T05:04:03Z",
+          "userName": "donowop",
+          "issueNumber": 109503,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "12.4",
+      "repository": "Dynastic Repo",
+      "date": "2019-11-22T04:13:57Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-11-22T04:13:57Z",
+          "userName": "burkybang",
+          "issueNumber": 107691,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "12.2",
+      "repository": "Dynastic Repo",
+      "date": "2019-11-26T14:34:54Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-11-26T14:34:54Z",
+          "userName": "Skodal99",
+          "issueNumber": 108418,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "12.4",
+      "repository": "Dynastic Repo",
+      "date": "2019-12-15T00:00:39Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone10,2",
+          "issues": "Safe mode when choosing widgets",
+          "date": "2019-12-15T00:00:39Z",
+          "userName": "burkybang",
+          "issueNumber": 110672,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.1",
+      "iOSVersion": "12.4",
+      "repository": "Dynastic Repo",
+      "date": "2019-12-15T07:16:01Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-12-15T07:16:01Z",
+          "userName": "burkybang",
+          "issueNumber": 110686,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.1",
+      "iOSVersion": "12.4.1",
+      "repository": "Dynastic Repo",
+      "date": "2019-12-17T20:17:25Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-12-17T20:17:25Z",
+          "userName": "bernaction",
+          "issueNumber": 111005,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.1",
+      "iOSVersion": "13.2.3",
+      "repository": "Dynastic Repo",
+      "date": "2019-12-20T04:02:26Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-12-23T13:01:09Z",
+          "userName": "Michael1999US",
+          "issueNumber": 111601,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.0",
+      "iOSVersion": "13.2.3",
+      "repository": "Dynastic Repo",
+      "date": "2020-01-01T23:16:04Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2020-01-01T23:16:04Z",
+          "userName": "maskycry",
+          "issueNumber": 112403,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-12-23T22:17:09Z",
+          "userName": "jucadesousa",
+          "issueNumber": 111678,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.0",
+      "iOSVersion": "13.3",
+      "repository": "Dynastic Repo",
+      "date": "2019-12-30T03:06:57Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-12-30T03:06:57Z",
+          "userName": "MySQL-Syntax",
+          "issueNumber": 112130,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.0",
+      "iOSVersion": "13.2.2",
+      "repository": "Dynastic Repo",
+      "date": "2019-12-23T16:45:40Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-12-23T16:45:40Z",
+          "userName": "Nixuge",
+          "issueNumber": 111652,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.1",
+      "iOSVersion": "13.3",
+      "repository": "Dynastic Repo",
+      "date": "2019-12-21T12:54:29Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-12-21T12:54:29Z",
+          "userName": "IceCoolTech",
+          "issueNumber": 111386,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0",
+      "iOSVersion": "13.3.1",
+      "repository": "Dynastic Repo",
+      "date": "2020-03-19T06:54:33Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-03-19T06:54:33Z",
+          "userName": "affake256",
+          "issueNumber": 119937,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0",
+      "iOSVersion": "13.3",
+      "repository": "Dynastic Repo",
+      "date": "2020-03-29T12:46:59Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2020-03-29T12:46:59Z",
+          "userName": "Brickme",
+          "issueNumber": 120515,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

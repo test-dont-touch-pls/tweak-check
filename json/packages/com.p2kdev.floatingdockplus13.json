@@ -1,0 +1,990 @@
+{
+  "id": "com.p2kdev.floatingdockplus13",
+  "name": "FloatingDockPlus13",
+  "latest": "1.1.7",
+  "repository": "Packix",
+  "url": "http://cydia.saurik.com/package/com.p2kdev.floatingdockplus13/",
+  "shortDescription": "Use your Dock like a PRO!",
+  "category": "Tweaks",
+  "author": "P2KDev",
+  "commercial": true,
+  "date": "2019-11-18T20:26:39Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "13.2.2",
+      "repository": "Packix",
+      "date": "2019-11-18T20:26:39Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "It’s buggy but it works",
+          "date": "2019-11-18T20:26:39Z",
+          "userName": "ThyGiant",
+          "issueNumber": 106845,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-11-18T16:01:08Z",
+          "userName": "morgancordry",
+          "issueNumber": 106801,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.2",
+      "iOSVersion": "13.3",
+      "repository": "Packix",
+      "date": "2019-11-19T22:18:04Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-11-19T22:18:04Z",
+          "userName": "hharr-46",
+          "issueNumber": 107149,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.2",
+      "iOSVersion": "13.2.2",
+      "repository": "Packix",
+      "date": "2019-11-20T00:22:13Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-20T00:22:13Z",
+          "userName": "Ic0nic0de",
+          "issueNumber": 107165,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.3",
+      "iOSVersion": "13.2.2",
+      "repository": "Packix",
+      "date": "2019-11-24T11:41:59Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-24T11:41:59Z",
+          "userName": "GRehm",
+          "issueNumber": 108041,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "13.2.3",
+      "repository": "Packix",
+      "date": "2019-11-24T18:05:01Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-24T18:05:01Z",
+          "userName": "johnnyy1337",
+          "issueNumber": 108103,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "13.3",
+      "repository": "Packix",
+      "date": "2019-11-25T01:07:03Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-11-25T01:07:03Z",
+          "userName": "hharr-46",
+          "issueNumber": 108155,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.1",
+      "iOSVersion": "13.3",
+      "repository": "Packix",
+      "date": "2019-11-26T22:18:20Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-11-26T22:18:20Z",
+          "userName": "hharr-46",
+          "issueNumber": 108458,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.1",
+      "iOSVersion": "13.2.2",
+      "repository": "Packix",
+      "date": "2019-11-27T13:28:35Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-27T13:28:35Z",
+          "userName": "Ic0nic0de",
+          "issueNumber": 108513,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.2",
+      "iOSVersion": "13.3",
+      "repository": "Packix",
+      "date": "2019-11-27T22:20:10Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-11-27T22:20:10Z",
+          "userName": "hharr-46",
+          "issueNumber": 108572,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.2",
+      "iOSVersion": "13.2.3",
+      "repository": "Packix",
+      "date": "2019-12-01T00:52:07Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-12-01T00:52:07Z",
+          "userName": "ThyGiant",
+          "issueNumber": 109017,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.2",
+      "iOSVersion": "13.2.2",
+      "repository": "Packix",
+      "date": "2019-12-03T23:44:39Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-12-03T23:44:39Z",
+          "userName": "Ic0nic0de",
+          "issueNumber": 109381,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-12-04T05:04:33Z",
+          "userName": "FloreSuave97",
+          "issueNumber": 109412,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.3",
+      "iOSVersion": "13.2.2",
+      "repository": "Packix",
+      "date": "2019-12-16T18:14:25Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-12-16T18:14:25Z",
+          "userName": "GRehm",
+          "issueNumber": 110893,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.3",
+      "iOSVersion": "13.3",
+      "repository": "Packix",
+      "date": "2019-12-18T21:59:33Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 75,
+        "good": 3,
+        "bad": 0,
+        "total": 4,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-12-18T21:59:33Z",
+          "userName": "kadir1009",
+          "issueNumber": 111096,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "iPhone X  13.3 safe mode",
+          "date": "2020-01-01T13:10:24Z",
+          "userName": "anwarkey",
+          "issueNumber": 112352,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "Doesn’t Support IPhone X But It Works",
+          "date": "2020-01-03T17:41:58Z",
+          "userName": "Te1ectro",
+          "issueNumber": 112564,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-01-06T03:34:19Z",
+          "userName": "DpwnZ",
+          "issueNumber": 112825,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.3",
+      "iOSVersion": "13.2.3",
+      "repository": "Packix",
+      "date": "2019-12-19T12:06:27Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-12-19T12:06:27Z",
+          "userName": "hharr-46",
+          "issueNumber": 111195,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.5",
+      "iOSVersion": "13.3",
+      "repository": "Packix",
+      "date": "2020-01-07T00:20:00Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 4,
+        "bad": 0,
+        "total": 4,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-01-07T00:20:00Z",
+          "userName": "RobyRew",
+          "issueNumber": 112887,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-01-16T07:38:05Z",
+          "userName": "kurtbain250",
+          "issueNumber": 113482,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-02-14T15:15:10Z",
+          "userName": "syto203",
+          "issueNumber": 115546,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "Handoff icon appears even if disabled in settings. Also shows a different icon I.e. using chrome on MacBook, safari icon shows up on iPhone X ",
+          "date": "2020-02-13T22:44:18Z",
+          "userName": "onisimus",
+          "issueNumber": 115508,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.5",
+      "iOSVersion": "13.2.3",
+      "repository": "Packix",
+      "date": "2020-01-12T14:49:41Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2020-01-12T14:49:41Z",
+          "userName": "hharr-46",
+          "issueNumber": 113236,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.5",
+      "iOSVersion": "13.3.1",
+      "repository": "Packix",
+      "date": "2020-02-10T14:08:46Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad7,5",
+          "issues": "",
+          "date": "2020-02-10T14:08:46Z",
+          "userName": "AppleTweaker420",
+          "issueNumber": 115230,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Crashes to safe mode when opening switcher sometimes",
+          "date": "2020-03-01T23:23:56Z",
+          "userName": "Wolf7ech",
+          "issueNumber": 118279,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.5",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2020-03-03T09:31:55Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone6,1",
+          "issues": "For iOS 13 and up only",
+          "date": "2020-03-03T09:31:55Z",
+          "userName": "s0m3guy2004",
+          "issueNumber": 118506,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.5",
+      "iOSVersion": "13.2",
+      "repository": "Packix",
+      "date": "2020-03-06T21:43:38Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-03-06T21:43:38Z",
+          "userName": "J0N3S1N",
+          "issueNumber": 118826,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.6",
+      "iOSVersion": "13.3.1",
+      "repository": "Packix",
+      "date": "2020-03-16T08:47:38Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "Switcher crashing",
+          "date": "2020-03-16T08:47:38Z",
+          "userName": "Wolf7ech",
+          "issueNumber": 119778,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.6",
+      "iOSVersion": "13.3",
+      "repository": "Packix",
+      "date": "2020-03-16T20:58:16Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,2",
+          "issues": "",
+          "date": "2020-03-16T20:58:16Z",
+          "userName": "djjuny",
+          "issueNumber": 119812,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.6",
+      "iOSVersion": "13.4",
+      "repository": "Packix",
+      "date": "2020-03-26T01:02:21Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2020-03-26T01:02:21Z",
+          "userName": "Bentley0928",
+          "issueNumber": 120326,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.6",
+      "iOSVersion": "13.4.1",
+      "repository": "Packix",
+      "date": "2020-04-09T03:00:50Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2020-04-09T03:00:50Z",
+          "userName": "AppleTweaker420",
+          "issueNumber": 121245,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-04-13T09:54:56Z",
+          "userName": "Wolf7ech",
+          "issueNumber": 121692,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.7",
+      "iOSVersion": "13.3",
+      "repository": "Packix",
+      "date": "2020-04-14T11:00:53Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2020-04-14T11:00:53Z",
+          "userName": "AppleTweaker420",
+          "issueNumber": 121793,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-05-09T01:53:32Z",
+          "userName": "arbitrarily",
+          "issueNumber": 123202,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.7",
+      "iOSVersion": "13.4",
+      "repository": "Packix",
+      "date": "2020-04-16T14:52:17Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2020-04-16T14:52:17Z",
+          "userName": "Barny13",
+          "issueNumber": 121901,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.7",
+      "iOSVersion": "13.3.1",
+      "repository": "Packix",
+      "date": "2020-04-18T07:17:03Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad7,5",
+          "issues": "",
+          "date": "2020-04-18T07:17:03Z",
+          "userName": "AppleTweaker420",
+          "issueNumber": 121995,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.7",
+      "iOSVersion": "13.4.1",
+      "repository": "Packix",
+      "date": "2020-04-25T22:07:28Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-04-25T22:07:28Z",
+          "userName": "VQN2ZAst",
+          "issueNumber": 122426,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2020-04-26T00:34:10Z",
+          "userName": "AppleTweaker420",
+          "issueNumber": 122434,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.7",
+      "iOSVersion": "13.5",
+      "repository": "Packix",
+      "date": "2020-05-02T16:11:20Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2020-05-02T16:11:20Z",
+          "userName": "AppleTweaker420",
+          "issueNumber": 122859,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

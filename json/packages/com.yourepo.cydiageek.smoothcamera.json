@@ -1,0 +1,103 @@
+{
+  "id": "com.yourepo.cydiageek.smoothcamera",
+  "name": "smoothCamera",
+  "latest": "1.0.0",
+  "repository": "CydiaGeek Source - YouRepo",
+  "url": "http://cydia.saurik.com/package/com.yourepo.cydiageek.smoothcamera/",
+  "shortDescription": "Transparent Top/Bottom Bars Camera with Vertical UI layout Style!",
+  "category": "Tweaks",
+  "author": "CydiaGeek",
+  "commercial": false,
+  "date": "2019-09-28T00:57:21Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "12.4",
+      "repository": "CydiaGeek Source - YouRepo",
+      "date": "2019-09-28T00:57:21Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 3,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-09-24T10:37:55Z",
+          "userName": "Barny13",
+          "issueNumber": 100757,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-09-23T00:10:14Z",
+          "userName": "YasGaG4",
+          "issueNumber": 100625,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-09-17T16:24:18Z",
+          "userName": "UA3",
+          "issueNumber": 100293,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "13.3",
+      "repository": "YouRepo",
+      "date": "2020-02-23T18:37:20Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone11,6",
+          "issues": "Icons are smushed together on the side. Cannot flip camera",
+          "date": "2020-02-23T18:37:20Z",
+          "userName": "tuckasso",
+          "issueNumber": 117374,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2020-02-29T11:35:18Z",
+          "userName": "KhaosHD99",
+          "issueNumber": 118041,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

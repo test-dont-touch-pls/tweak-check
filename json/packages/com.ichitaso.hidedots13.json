@@ -1,0 +1,218 @@
+{
+  "id": "com.ichitaso.hidedots13",
+  "name": "HidePageDots13",
+  "latest": "0.0.1",
+  "repository": "ichitaso repository",
+  "url": "http://cydia.saurik.com/package/com.ichitaso.hidedots13/",
+  "shortDescription": "Hides page dots for iOS 13",
+  "category": "Tweaks",
+  "author": "ichitaso",
+  "commercial": false,
+  "date": "2019-12-09T23:41:53Z",
+  "versions": [
+    {
+      "tweakVersion": "0.0.1",
+      "iOSVersion": "13.2.3",
+      "repository": "ichitaso repository",
+      "date": "2019-12-09T23:41:53Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-12-09T23:41:53Z",
+          "userName": "BrianLeek",
+          "issueNumber": 110102,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.1",
+      "iOSVersion": "13.3",
+      "repository": "ichitaso repository",
+      "date": "2020-02-10T23:36:23Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
+        "good": 2,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-02-10T23:36:23Z",
+          "userName": "itsyasso",
+          "issueNumber": 115311,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2020-02-20T09:36:07Z",
+          "userName": "i-Mobilka",
+          "issueNumber": 116826,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,4",
+          "issues": "Not hiding dots on LS at all. Use HideDots from BigBoss instead.",
+          "date": "2020-04-14T22:06:31Z",
+          "userName": "farafalil",
+          "issueNumber": 121807,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.1",
+      "iOSVersion": "12.4",
+      "repository": "ichitaso repository",
+      "date": "2020-03-03T09:19:18Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone6,1",
+          "issues": "",
+          "date": "2020-03-03T09:19:18Z",
+          "userName": "s0m3guy2004",
+          "issueNumber": 118486,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.1",
+      "iOSVersion": "13.3.1",
+      "repository": "ichitaso repository",
+      "date": "2020-03-17T14:19:23Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2020-03-17T14:19:23Z",
+          "userName": "Bentley0928",
+          "issueNumber": 119854,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.1",
+      "iOSVersion": "13.4",
+      "repository": "ichitaso repository",
+      "date": "2020-03-26T01:02:04Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2020-03-26T01:02:04Z",
+          "userName": "Bentley0928",
+          "issueNumber": 120325,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.1",
+      "iOSVersion": "13.4.1",
+      "repository": "ichitaso repository",
+      "date": "2020-04-16T22:23:50Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2020-04-16T22:23:50Z",
+          "userName": "Zechad",
+          "issueNumber": 121938,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

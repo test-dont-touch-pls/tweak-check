@@ -1,0 +1,325 @@
+{
+  "id": "com.c1d3r.scrollviewscrubber",
+  "name": "ScrollViewScrubber",
+  "latest": "1.2",
+  "repository": "c1d3r's repo",
+  "url": "http://cydia.saurik.com/package/com.c1d3r.scrollviewscrubber/",
+  "shortDescription": "Adds a blue grabber to the side of most scrollviews!",
+  "category": "Tweaks",
+  "author": "c1d3r",
+  "commercial": false,
+  "date": "2019-06-24T22:26:31Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0-1",
+      "iOSVersion": "12.1.1",
+      "repository": "c1d3r's repo",
+      "date": "2019-06-24T22:26:31Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone10,2",
+          "issues": "Crashes some apps",
+          "date": "2019-06-24T22:26:31Z",
+          "userName": "burkybang",
+          "issueNumber": 90516,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,5",
+          "issues": "Crashes some apps like Safari",
+          "date": "2019-06-24T23:37:51Z",
+          "userName": "starmega",
+          "issueNumber": 90525,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2",
+      "iOSVersion": "12.1.2",
+      "repository": "c1d3r's repo",
+      "date": "2019-07-13T03:56:48Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone10,3",
+          "issues": "Causes UI problem(white out) in in-app-browser",
+          "date": "2019-07-13T03:56:48Z",
+          "userName": "ycrack",
+          "issueNumber": 91152,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2",
+      "iOSVersion": "12.2",
+      "repository": "c1d3r's repo",
+      "date": "2019-07-20T22:44:06Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-07-20T22:44:06Z",
+          "userName": "ponzu07",
+          "issueNumber": 92091,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2",
+      "iOSVersion": "12.1.1",
+      "repository": "c1d3r's repo",
+      "date": "2019-08-04T03:59:15Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 3,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-08-04T03:59:15Z",
+          "userName": "burkybang",
+          "issueNumber": 93463,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,3",
+          "issues": "Crashes some apps, like chrome, messages, probably many more",
+          "date": "2019-08-22T12:57:03Z",
+          "userName": "swang530",
+          "issueNumber": 96791,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2019-08-24T21:55:57Z",
+          "userName": "edmechem",
+          "issueNumber": 97318,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2",
+      "iOSVersion": "12.4",
+      "repository": "c1d3r's repo",
+      "date": "2019-08-21T22:46:36Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
+        "bad": 0,
+        "total": 5,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-08-21T22:46:36Z",
+          "userName": "starmega",
+          "issueNumber": 96630,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-09-22T18:26:40Z",
+          "userName": "JN20x2",
+          "issueNumber": 100594,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "iPhone 7 Plus, iOS 12.4, works great, thanks a lot ",
+          "date": "2019-10-23T04:37:40Z",
+          "userName": "electroverti",
+          "issueNumber": 102991,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone6,1",
+          "issues": "",
+          "date": "2019-10-30T16:01:37Z",
+          "userName": "s0m3guy2004",
+          "issueNumber": 103503,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,1",
+          "issues": "",
+          "date": "2019-11-23T13:32:46Z",
+          "userName": "soum91",
+          "issueNumber": 107875,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2",
+      "iOSVersion": "13.3",
+      "repository": "c1d3r's repo",
+      "date": "2020-01-16T08:27:37Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone9,3",
+          "issues": "Breaks switcher: can’t select or dismiss apps from switcher; otherwise works well",
+          "date": "2020-01-16T08:27:37Z",
+          "userName": "shotnine",
+          "issueNumber": 113505,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2",
+      "iOSVersion": "13.3.1",
+      "repository": "c1d3r's repo",
+      "date": "2020-02-10T07:53:50Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2020-02-10T07:53:50Z",
+          "userName": "43865",
+          "issueNumber": 115172,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2",
+      "iOSVersion": "13.4.1",
+      "repository": "c1d3r's repo",
+      "date": "2020-04-13T04:27:08Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2020-04-13T04:27:08Z",
+          "userName": "keymastrion",
+          "issueNumber": 121680,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

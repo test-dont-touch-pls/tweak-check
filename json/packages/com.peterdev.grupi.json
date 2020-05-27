@@ -1,0 +1,249 @@
+{
+  "id": "com.peterdev.grupi",
+  "name": "Grupi",
+  "latest": "1.0.3",
+  "repository": "Packix",
+  "url": "http://cydia.saurik.com/package/com.peterdev.grupi/",
+  "shortDescription": "Grouped Notifications but better (iOS 11 - 13)",
+  "category": "Tweaks",
+  "author": "Soongyu Kwon & Timeloop",
+  "commercial": true,
+  "date": "2020-01-13T07:22:05Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0.0.1",
+      "iOSVersion": "13.2.3",
+      "repository": "Packix",
+      "date": "2020-01-13T07:22:05Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-01-13T07:22:05Z",
+          "userName": "nicomaro",
+          "issueNumber": 113281,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.2",
+      "iOSVersion": "13.3",
+      "repository": "Packix",
+      "date": "2020-02-06T00:48:12Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-02-06T00:48:12Z",
+          "userName": "MBehr2",
+          "issueNumber": 114757,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.2.1",
+      "iOSVersion": "13.3",
+      "repository": "Packix",
+      "date": "2020-02-25T12:11:23Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone12,1",
+          "issues": "",
+          "date": "2020-02-25T12:11:23Z",
+          "userName": "Hybes",
+          "issueNumber": 117525,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.3",
+      "iOSVersion": "13.3",
+      "repository": "Packix",
+      "date": "2020-02-29T20:41:38Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 3,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone12,5",
+          "issues": "",
+          "date": "2020-02-29T21:48:59Z",
+          "userName": "MBehr2",
+          "issueNumber": 118105,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-03-09T02:38:55Z",
+          "userName": "Simplygriffo",
+          "issueNumber": 119067,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "But missing important features which are available in free Axon",
+          "date": "2020-04-28T03:13:07Z",
+          "userName": "anonypublic",
+          "issueNumber": 122620,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.3",
+      "iOSVersion": "13.3.1",
+      "repository": "Packix",
+      "date": "2020-03-02T03:44:31Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2020-03-02T03:44:31Z",
+          "userName": "thatloudpacc",
+          "issueNumber": 118318,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.3",
+      "iOSVersion": "12.1.2",
+      "repository": "Packix",
+      "date": "2020-04-02T10:03:10Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2020-04-02T10:03:10Z",
+          "userName": "qtokr",
+          "issueNumber": 120725,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.3",
+      "iOSVersion": "13.4.1",
+      "repository": "Packix",
+      "date": "2020-04-19T09:49:52Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-04-19T09:49:52Z",
+          "userName": "wickdj",
+          "issueNumber": 122082,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

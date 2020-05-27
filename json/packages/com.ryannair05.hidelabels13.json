@@ -1,0 +1,209 @@
+{
+  "id": "com.ryannair05.hidelabels13",
+  "name": "HideLabels13",
+  "latest": "1.0.0",
+  "repository": "Packix",
+  "url": "http://cydia.saurik.com/package/com.ryannair05.hidelabels13/",
+  "shortDescription": "Hide icon labels on iOS 13!",
+  "category": "Tweaks",
+  "author": "Ryan Nair",
+  "commercial": false,
+  "date": "2019-11-17T06:32:08Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "13.2.2",
+      "repository": "Packix",
+      "date": "2019-11-17T06:32:08Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-11-17T06:32:08Z",
+          "userName": "nrgbistro",
+          "issueNumber": 106488,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-11-17T15:20:20Z",
+          "userName": "maximusprimate",
+          "issueNumber": 106545,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "13.3",
+      "repository": "Packix",
+      "date": "2019-11-19T22:19:51Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-11-19T22:19:51Z",
+          "userName": "hharr-46",
+          "issueNumber": 107152,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-11-28T23:41:14Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone6,1",
+          "issues": "Only compatible with iOS 13 and newer",
+          "date": "2019-11-28T23:41:14Z",
+          "userName": "s0m3guy2004",
+          "issueNumber": 108743,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "13.2.3",
+      "repository": "Packix",
+      "date": "2019-11-29T11:19:13Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-11-29T11:19:13Z",
+          "userName": "saxon48",
+          "issueNumber": 108801,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "13.3.1",
+      "repository": "Packix",
+      "date": "2020-03-11T12:44:16Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2020-03-11T12:44:16Z",
+          "userName": "alillyyy",
+          "issueNumber": 119318,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "13.4.1",
+      "repository": "Packix",
+      "date": "2020-04-09T16:26:35Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2020-04-09T16:26:35Z",
+          "userName": "temp1122-sys",
+          "issueNumber": 121343,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

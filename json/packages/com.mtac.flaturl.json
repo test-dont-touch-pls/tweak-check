@@ -1,0 +1,178 @@
+{
+  "id": "com.mtac.flaturl",
+  "name": "FlatURL",
+  "latest": "1.0.0",
+  "repository": "Packix",
+  "url": "http://cydia.saurik.com/package/com.mtac.flaturl/",
+  "shortDescription": "Remove the background of Safari's URL bar",
+  "category": "Tweaks",
+  "author": "MTAC",
+  "commercial": false,
+  "date": "2019-11-26T00:00:58Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "13.2",
+      "repository": "Packix",
+      "date": "2019-11-26T00:00:58Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-11-26T00:00:58Z",
+          "userName": "luisjimenez6245",
+          "issueNumber": 108334,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "13.2.2",
+      "repository": "Packix",
+      "date": "2019-11-26T09:10:36Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2019-11-26T09:10:36Z",
+          "userName": "twolfer",
+          "issueNumber": 108392,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-11-28T23:35:38Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone6,1",
+          "issues": "iOS 13 and above only",
+          "date": "2019-11-28T23:35:38Z",
+          "userName": "s0m3guy2004",
+          "issueNumber": 108738,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "13.2.3",
+      "repository": "Packix",
+      "date": "2019-12-01T23:02:22Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-12-01T23:02:22Z",
+          "userName": "gitflee",
+          "issueNumber": 109110,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-12-09T23:42:40Z",
+          "userName": "BrianLeek",
+          "issueNumber": 110106,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "13.3",
+      "repository": "Packix",
+      "date": "2019-12-19T07:24:56Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-12-19T07:24:56Z",
+          "userName": "Popcorncandy09",
+          "issueNumber": 111150,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

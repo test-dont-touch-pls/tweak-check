@@ -1,0 +1,107 @@
+{
+  "id": "com.peterpan.verboserespring",
+  "name": "Verbose Respring",
+  "latest": "0.0.4",
+  "repository": "Peter Pan",
+  "url": "http://cydia.saurik.com/package/com.peterpan.verboserespring/",
+  "shortDescription": "A (Fake) Verbose Respring i created for fun",
+  "category": "Themes",
+  "author": "Peter Pan",
+  "commercial": false,
+  "date": "2019-10-11T12:19:12Z",
+  "versions": [
+    {
+      "tweakVersion": "0.0.1",
+      "iOSVersion": "12.4",
+      "repository": "Peter Pan",
+      "date": "2019-10-11T12:19:12Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-10-11T12:19:12Z",
+          "userName": "charalez",
+          "issueNumber": 102123,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.4",
+      "iOSVersion": "12.4",
+      "repository": "Peter Pan",
+      "date": "2019-10-12T12:35:50Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-10-12T12:35:50Z",
+          "userName": "charalez",
+          "issueNumber": 102149,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.4",
+      "iOSVersion": "13.3",
+      "repository": "YouRepo",
+      "date": "2020-02-29T11:00:45Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,5",
+          "issues": "This theme isn’t working.",
+          "date": "2020-02-29T11:00:45Z",
+          "userName": "efe-star",
+          "issueNumber": 118037,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

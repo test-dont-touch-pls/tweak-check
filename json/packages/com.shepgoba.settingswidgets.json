@@ -1,0 +1,107 @@
+{
+  "id": "com.shepgoba.settingswidgets",
+  "name": "SettingsWidgets",
+  "latest": "1.1.2",
+  "repository": "shepgoba's repo",
+  "url": "http://cydia.saurik.com/package/com.shepgoba.settingswidgets/",
+  "shortDescription": "Bring good looking widgets to the front page of settings!",
+  "category": "Tweaks",
+  "author": "shepgoba",
+  "commercial": false,
+  "date": "2020-05-05T06:18:36Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0.2",
+      "iOSVersion": "12.2",
+      "repository": "shepgoba's repo",
+      "date": "2020-05-05T06:18:36Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-05-05T06:14:41Z",
+          "userName": "st3xd3v",
+          "issueNumber": 123051,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.2",
+      "iOSVersion": "13.3",
+      "repository": "shepgoba's repo",
+      "date": "2020-05-06T18:27:55Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-05-06T18:27:55Z",
+          "userName": "Magicalrudedude",
+          "issueNumber": 123107,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.2",
+      "iOSVersion": "13.3.1",
+      "repository": "shepgoba's repo",
+      "date": "2020-05-07T13:39:54Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2020-05-07T13:39:54Z",
+          "userName": "shadowscott",
+          "issueNumber": 123142,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

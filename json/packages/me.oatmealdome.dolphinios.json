@@ -1,0 +1,435 @@
+{
+  "id": "me.oatmealdome.dolphinios",
+  "name": "DolphiniOS",
+  "latest": "2.1.1-4",
+  "repository": "OatmealDome's Repo",
+  "url": "http://cydia.saurik.com/package/me.oatmealdome.dolphinios/",
+  "shortDescription": "A GameCube and Wii emulator for iOS",
+  "category": "Games",
+  "author": "OatmealDome",
+  "commercial": false,
+  "date": "2019-12-16T05:10:27Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0.7",
+      "iOSVersion": "12.4",
+      "repository": "OatmealDome's Repo",
+      "date": "2019-12-16T05:10:27Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2019-12-16T05:10:27Z",
+          "userName": "BritishWater",
+          "issueNumber": 110846,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2019-12-16T20:22:18Z",
+          "userName": "rummdiggy123",
+          "issueNumber": 110902,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.8",
+      "iOSVersion": "12.4",
+      "repository": "OatmealDome's Repo",
+      "date": "2019-12-17T01:41:15Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2019-12-17T01:41:15Z",
+          "userName": "Rangalord",
+          "issueNumber": 110932,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.8",
+      "iOSVersion": "13.3",
+      "repository": "OatmealDome's Repo",
+      "date": "2019-12-18T21:29:53Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-12-18T21:29:53Z",
+          "userName": "arm64nerd",
+          "issueNumber": 111086,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-12-18T21:18:22Z",
+          "userName": "egigoka",
+          "issueNumber": 111068,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.2-1",
+      "iOSVersion": "13.3",
+      "repository": "OatmealDome's Repo",
+      "date": "2020-01-04T04:18:21Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2020-01-04T04:18:21Z",
+          "userName": "SpencerGraffunder",
+          "issueNumber": 112604,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.2-1",
+      "iOSVersion": "12.4",
+      "repository": "OatmealDome's Repo",
+      "date": "2020-01-05T00:12:35Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2020-01-05T00:12:35Z",
+          "userName": "smacpats",
+          "issueNumber": 112680,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.2-1",
+      "iOSVersion": "13.2.2",
+      "repository": "OatmealDome's Repo",
+      "date": "2020-01-13T22:04:54Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-01-13T22:04:54Z",
+          "userName": "Piteriuz",
+          "issueNumber": 113343,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.1-3",
+      "iOSVersion": "13.2.2",
+      "repository": "OatmealDome's Repo",
+      "date": "2020-01-19T15:59:22Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-01-19T15:59:22Z",
+          "userName": "Piteriuz",
+          "issueNumber": 113664,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.2-3",
+      "iOSVersion": "13.2.2",
+      "repository": "OatmealDome's Repo",
+      "date": "2020-01-22T22:22:57Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-01-22T22:22:57Z",
+          "userName": "Piteriuz",
+          "issueNumber": 113883,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.2-3",
+      "iOSVersion": "13.3",
+      "repository": "OatmealDome's Repo",
+      "date": "2020-01-29T17:37:49Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2020-01-29T17:37:49Z",
+          "userName": "SpencerGraffunder",
+          "issueNumber": 114451,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.2-4",
+      "iOSVersion": "13.3",
+      "repository": "iOS Emulators",
+      "date": "2020-02-19T07:59:11Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone12,1",
+          "issues": "",
+          "date": "2020-02-19T07:59:11Z",
+          "userName": "ImAzazel",
+          "issueNumber": 116669,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.2-3",
+      "iOSVersion": "13.3.1",
+      "repository": "OatmealDome's Repo",
+      "date": "2020-03-13T02:38:10Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "Works on iOS 13.3.1",
+          "date": "2020-03-13T02:38:10Z",
+          "userName": "CrisantoSJ",
+          "issueNumber": 119446,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.2-3",
+      "iOSVersion": "12.4",
+      "repository": "OatmealDome's Repo",
+      "date": "2020-04-16T20:59:26Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-04-16T20:59:26Z",
+          "userName": "bellmaker",
+          "issueNumber": 121927,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.1.1-4",
+      "iOSVersion": "13.3.1",
+      "repository": "OatmealDome's Repo",
+      "date": "2020-05-02T04:34:21Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2020-05-02T04:34:21Z",
+          "userName": "CrisantoSJ",
+          "issueNumber": 122799,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

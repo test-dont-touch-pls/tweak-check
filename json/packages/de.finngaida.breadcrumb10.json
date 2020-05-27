@@ -1,0 +1,76 @@
+{
+  "id": "de.finngaida.breadcrumb10",
+  "name": "Breadcrumb10",
+  "latest": "1.0.2",
+  "repository": "BigBoss",
+  "url": "http://cydia.saurik.com/package/de.finngaida.breadcrumb10/",
+  "shortDescription": "Use the better iOS 10 breadcrumbs in the status bar",
+  "category": "Tweaks",
+  "author": "Finn Gaida",
+  "commercial": false,
+  "date": "2018-03-16T20:35:57Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0.2",
+      "iOSVersion": "9.3.3",
+      "repository": "BigBoss",
+      "date": "2018-03-16T20:35:57Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2018-03-16T20:35:57Z",
+          "userName": "zencowboy007",
+          "issueNumber": 6875,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.2",
+      "iOSVersion": "12.4",
+      "repository": "BigBoss",
+      "date": "2019-12-13T00:20:13Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone6,1",
+          "issues": "iOS 12 already has this",
+          "date": "2019-12-13T00:20:13Z",
+          "userName": "s0m3guy2004",
+          "issueNumber": 110471,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

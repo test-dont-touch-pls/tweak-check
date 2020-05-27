@@ -1,0 +1,147 @@
+{
+  "id": "com.gilesgc.youplayer",
+  "name": "YouPlayer",
+  "latest": "1.0.0",
+  "repository": "gilesgc repo",
+  "url": "http://cydia.saurik.com/package/com.gilesgc.youplayer/",
+  "shortDescription": "Customize the YouTube video player icon and colors",
+  "category": "Tweaks",
+  "author": "gilesgc",
+  "commercial": false,
+  "date": "2019-07-27T15:00:27Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "12.1.4",
+      "repository": "gilesgc repo",
+      "date": "2019-07-27T15:00:27Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad7,6",
+          "issues": "",
+          "date": "2019-07-27T15:00:27Z",
+          "userName": "gatekeeper1122",
+          "issueNumber": 92910,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "12.4",
+      "repository": "gilesgc repo",
+      "date": "2019-08-20T16:07:18Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-08-20T16:07:18Z",
+          "userName": "mid9",
+          "issueNumber": 95936,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2019-09-25T02:17:00Z",
+          "userName": "Closet0taku",
+          "issueNumber": 100838,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "12.2",
+      "repository": "(null)",
+      "date": "2019-09-15T16:09:51Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "Works fine for me all u have to use snapper 2 tweak to get the perfect picture u want unless u have another way to crop pictures fast",
+          "date": "2019-09-15T16:09:51Z",
+          "userName": "stuie1",
+          "issueNumber": 100128,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "13.3",
+      "repository": "gilesgc repo",
+      "date": "2019-12-15T19:11:11Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,1",
+          "issues": "Do nothing",
+          "date": "2019-12-15T19:11:11Z",
+          "userName": "mid9",
+          "issueNumber": 110755,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

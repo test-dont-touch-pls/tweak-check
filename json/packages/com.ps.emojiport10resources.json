@@ -1,0 +1,360 @@
+{
+  "id": "com.ps.emojiport10resources",
+  "name": "EmojiPort Resources (iOS 10+)",
+  "latest": "1.0.5",
+  "repository": "PoomSmart's Repo",
+  "url": "http://cydia.saurik.com/package/com.ps.emojiport10resources/",
+  "shortDescription": "Necessary resources for EmojiPort iOS 10 and higher.",
+  "category": "Tweaks",
+  "author": "PoomSmart",
+  "commercial": false,
+  "date": "2019-05-14T18:44:56Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "10.1.1",
+      "repository": "PoomSmart's Repo",
+      "date": "2019-05-14T18:44:56Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-05-14T18:44:56Z",
+          "userName": "edmechem",
+          "issueNumber": 88107,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "11.3.1",
+      "repository": "PoomSmart's Repo",
+      "date": "2019-05-11T15:42:58Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-05-11T15:42:58Z",
+          "userName": "smacpats",
+          "issueNumber": 87732,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "12.0.1",
+      "repository": "PoomSmart's Repo",
+      "date": "2019-06-08T12:12:30Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,1",
+          "issues": "",
+          "date": "2019-06-08T12:12:30Z",
+          "userName": "bewl87",
+          "issueNumber": 89810,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "12.0",
+      "repository": "PoomSmart's Repo",
+      "date": "2019-06-14T00:16:47Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-06-14T00:16:47Z",
+          "userName": "charalez",
+          "issueNumber": 90106,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.3~b2",
+      "iOSVersion": "12.4",
+      "repository": "PoomSmart's Repo",
+      "date": "2019-10-12T22:20:28Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-10-12T22:20:28Z",
+          "userName": "burkybang",
+          "issueNumber": 102167,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-10-17T10:19:51Z",
+          "userName": "eloyaldea",
+          "issueNumber": 102483,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.3~b2",
+      "iOSVersion": "12.2",
+      "repository": "PoomSmart's Repo",
+      "date": "2019-10-21T09:57:07Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2019-10-21T09:57:07Z",
+          "userName": "FaisalBiyari",
+          "issueNumber": 102901,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.3~b3",
+      "iOSVersion": "12.4",
+      "repository": "(null)",
+      "date": "2019-10-26T10:26:04Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-10-26T10:26:04Z",
+          "userName": "eloyaldea",
+          "issueNumber": 103160,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-10-29T02:30:53Z",
+          "userName": "burkybang",
+          "issueNumber": 103337,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.4",
+      "iOSVersion": "12.4",
+      "repository": "PoomSmart's Repo",
+      "date": "2019-11-02T12:04:03Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-02T12:04:03Z",
+          "userName": "eloyaldea",
+          "issueNumber": 103662,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.5",
+      "iOSVersion": "12.4",
+      "repository": "PoomSmart's Repo",
+      "date": "2019-11-03T11:04:42Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 3,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-03T11:04:42Z",
+          "userName": "eloyaldea",
+          "issueNumber": 103737,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-11-05T21:37:06Z",
+          "userName": "burkybang",
+          "issueNumber": 103873,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-11-12T00:36:59Z",
+          "userName": "fillupontacos",
+          "issueNumber": 104885,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.5",
+      "iOSVersion": "12.4.4",
+      "repository": "PoomSmart's Repo",
+      "date": "2020-01-25T19:53:04Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone6,2",
+          "issues": "",
+          "date": "2020-01-25T19:53:04Z",
+          "userName": "UnderEu",
+          "issueNumber": 114093,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

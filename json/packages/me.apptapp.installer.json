@@ -1,0 +1,1570 @@
+{
+  "id": "me.apptapp.installer",
+  "name": "Installer",
+  "latest": "5.0.3-3",
+  "repository": "(null)",
+  "url": "http://cydia.saurik.com/package/me.apptapp.installer/",
+  "shortDescription": "The fastest package manager built specifically for iOS!",
+  "category": "Application",
+  "author": "SynnyG",
+  "commercial": false,
+  "date": "2018-09-06T07:13:59Z",
+  "versions": [
+    {
+      "tweakVersion": "5.0",
+      "iOSVersion": "11.3.1",
+      "repository": "(null)",
+      "date": "2018-09-06T07:13:59Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-09-06T07:13:59Z",
+          "userName": "CloneVince",
+          "issueNumber": 49452,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0b6",
+      "iOSVersion": "12.1.2",
+      "repository": "Local Repository",
+      "date": "2019-07-11T06:18:57Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2019-07-11T06:18:57Z",
+          "userName": "CloneVince",
+          "issueNumber": 90985,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0b5",
+      "iOSVersion": "12.1.1",
+      "repository": "AppTapp repo",
+      "date": "2019-07-11T10:49:56Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-07-11T10:49:56Z",
+          "userName": "dbledeezy",
+          "issueNumber": 90987,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0b6",
+      "iOSVersion": "11.3.1",
+      "repository": "AppTapp repo",
+      "date": "2019-07-17T01:25:21Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-07-17T01:25:21Z",
+          "userName": "smacpats",
+          "issueNumber": 91635,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0b6",
+      "iOSVersion": "12.1.1",
+      "repository": "AppTapp repo",
+      "date": "2019-07-21T20:47:54Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2019-07-21T20:47:54Z",
+          "userName": "edmechem",
+          "issueNumber": 92192,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0b7",
+      "iOSVersion": "12.1.1",
+      "repository": "AppTapp repo",
+      "date": "2019-07-29T10:52:29Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-07-29T10:52:29Z",
+          "userName": "MattieThurlow96",
+          "issueNumber": 93035,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone11,6",
+          "issues": "Everything is broken. Barely works. Crashes non stop.",
+          "date": "2019-08-07T11:51:58Z",
+          "userName": "eskimo",
+          "issueNumber": 93641,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0b7",
+      "iOSVersion": "12.1.4",
+      "repository": "AppTapp repo",
+      "date": "2019-08-07T07:32:29Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone7,2",
+          "issues": "Can crash and don’t work but you can open it",
+          "date": "2019-08-07T07:32:29Z",
+          "userName": "TomerGamerTV",
+          "issueNumber": 93630,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0b8~2",
+      "iOSVersion": "12.1.1",
+      "repository": "AppTapp repo",
+      "date": "2019-08-13T19:52:21Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone11,6",
+          "issues": "Had to refresh all repos. \"...\" menu (for any particular tweak) doesn't work - shows blank items then dismisses. ",
+          "date": "2019-08-13T19:52:21Z",
+          "userName": "edmechem",
+          "issueNumber": 93890,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0b8~2",
+      "iOSVersion": "12.4",
+      "repository": "AppTapp repo",
+      "date": "2019-08-19T03:20:15Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 3,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-08-19T03:20:15Z",
+          "userName": "Hzllaga",
+          "issueNumber": 94450,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,4",
+          "issues": "Very buggy",
+          "date": "2019-08-19T13:49:40Z",
+          "userName": "SgtBreadStick",
+          "issueNumber": 95014,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-08-25T21:28:35Z",
+          "userName": "smacpats",
+          "issueNumber": 97570,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0b8~2",
+      "iOSVersion": "12.2",
+      "repository": "AppTapp repo",
+      "date": "2019-08-21T16:38:46Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-08-21T16:38:46Z",
+          "userName": "zdevcon",
+          "issueNumber": 96368,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0b9",
+      "iOSVersion": "11.4",
+      "repository": "AppTapp repo",
+      "date": "2019-10-11T00:49:59Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-10-11T00:49:59Z",
+          "userName": "DerSnitzki",
+          "issueNumber": 102099,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0b9",
+      "iOSVersion": "12.4",
+      "repository": "AppTapp repo",
+      "date": "2019-10-12T15:27:34Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-10-12T15:27:34Z",
+          "userName": "MKhaliiFa",
+          "issueNumber": 102153,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0b9",
+      "iOSVersion": "12.2",
+      "repository": "AppTapp repo",
+      "date": "2019-10-21T09:57:29Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2019-10-21T09:57:29Z",
+          "userName": "FaisalBiyari",
+          "issueNumber": 102902,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0b10",
+      "iOSVersion": "12.4",
+      "repository": "AppTapp repo",
+      "date": "2019-10-25T15:55:05Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-10-25T15:55:05Z",
+          "userName": "timonline",
+          "issueNumber": 103129,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0b11",
+      "iOSVersion": "12.1.1",
+      "repository": "AppTapp repo",
+      "date": "2019-11-02T09:23:53Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2019-11-02T09:23:53Z",
+          "userName": "ann0see",
+          "issueNumber": 103649,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0b11",
+      "iOSVersion": "12.4",
+      "repository": "AppTapp repo",
+      "date": "2019-11-03T09:40:14Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-11-03T09:40:14Z",
+          "userName": "porumbelu",
+          "issueNumber": 103728,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0b12",
+      "iOSVersion": "12.4",
+      "repository": "(null)",
+      "date": "2019-11-11T16:43:30Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2019-11-11T16:43:30Z",
+          "userName": "Brickme",
+          "issueNumber": 104678,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0b12 (Installierte Version: 5.0b12)",
+      "iOSVersion": "12.1.1",
+      "repository": "Lokale Quelle",
+      "date": "2019-11-20T19:44:00Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2019-11-20T19:44:00Z",
+          "userName": "ann0see",
+          "issueNumber": 107302,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0b12",
+      "iOSVersion": "12.1.1",
+      "repository": "Lokale Quelle",
+      "date": "2019-11-30T21:46:23Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2019-11-30T21:46:23Z",
+          "userName": "ann0see",
+          "issueNumber": 108998,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0rc2",
+      "iOSVersion": "13.3",
+      "repository": "AppTapp Beta Repository",
+      "date": "2019-12-08T00:42:19Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-12-08T00:42:19Z",
+          "userName": "charalez",
+          "issueNumber": 109851,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0rc3-1",
+      "iOSVersion": "13.3",
+      "repository": "AppTapp Beta Repository",
+      "date": "2019-12-08T15:14:08Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-12-08T15:14:08Z",
+          "userName": "charalez",
+          "issueNumber": 109900,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0rc3-2",
+      "iOSVersion": "13.3",
+      "repository": "AppTapp Beta Repository",
+      "date": "2019-12-09T12:26:59Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-12-09T12:26:59Z",
+          "userName": "hharr-46",
+          "issueNumber": 110023,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0rc5",
+      "iOSVersion": "13.3",
+      "repository": "AppTapp Beta Repository",
+      "date": "2019-12-12T17:20:25Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-12-12T17:20:25Z",
+          "userName": "charalez",
+          "issueNumber": 110450,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0rc6",
+      "iOSVersion": "13.3",
+      "repository": "AppTapp Beta Repository",
+      "date": "2019-12-14T20:09:42Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-12-14T20:09:42Z",
+          "userName": "charalez",
+          "issueNumber": 110668,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0rc6-1",
+      "iOSVersion": "13.3",
+      "repository": "(null)",
+      "date": "2019-12-15T14:52:42Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-12-15T14:52:42Z",
+          "userName": "arm64nerd",
+          "issueNumber": 110730,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0rc7",
+      "iOSVersion": "13.3",
+      "repository": "AppTapp Beta Repository",
+      "date": "2019-12-18T01:36:03Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-12-18T01:36:03Z",
+          "userName": "charalez",
+          "issueNumber": 111021,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0rc8",
+      "iOSVersion": "13.3",
+      "repository": "AppTapp Beta Repository",
+      "date": "2019-12-20T01:32:31Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-12-20T01:32:31Z",
+          "userName": "charalez",
+          "issueNumber": 111275,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0rc10",
+      "iOSVersion": "12.2",
+      "repository": "AppTapp Beta Repository",
+      "date": "2019-12-30T18:36:23Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-12-30T18:36:23Z",
+          "userName": "delon5",
+          "issueNumber": 112181,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0rc9",
+      "iOSVersion": "13.3",
+      "repository": "AppTapp Beta Repository",
+      "date": "2019-12-29T03:52:19Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-12-23T05:58:52Z",
+          "userName": "kurtbain250",
+          "issueNumber": 111570,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0rc10",
+      "iOSVersion": "13.3",
+      "repository": "AppTapp Beta Repository",
+      "date": "2020-01-06T17:36:27Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2020-01-06T17:36:27Z",
+          "userName": "joek1ng4312",
+          "issueNumber": 112859,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0rc10-2",
+      "iOSVersion": "13.3",
+      "repository": "AppTapp Beta Repository",
+      "date": "2020-01-08T09:57:47Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2020-01-08T09:57:47Z",
+          "userName": "charalez",
+          "issueNumber": 112982,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0.1",
+      "iOSVersion": "13.2.3",
+      "repository": "AppTapp Repository",
+      "date": "2020-01-19T05:27:17Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad5,2",
+          "issues": "",
+          "date": "2020-01-19T05:27:17Z",
+          "userName": "misagh72",
+          "issueNumber": 113642,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2020-01-16T05:17:30Z",
+          "userName": "porumbelu",
+          "issueNumber": 113473,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0.1",
+      "iOSVersion": "13.3",
+      "repository": "(null)",
+      "date": "2020-01-19T02:07:42Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2020-01-19T02:07:42Z",
+          "userName": "kadir1009",
+          "issueNumber": 113626,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-01-16T07:39:49Z",
+          "userName": "kurtbain250",
+          "issueNumber": 113489,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0.1",
+      "iOSVersion": "12.4",
+      "repository": "AppTapp Repository",
+      "date": "2020-01-17T05:17:45Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-01-17T05:17:45Z",
+          "userName": "offswitch43",
+          "issueNumber": 113551,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "A12X IOS 12.4 Working",
+          "date": "2020-01-17T02:21:30Z",
+          "userName": "NewGithubber35",
+          "issueNumber": 113547,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0.0",
+      "iOSVersion": "13.2.3",
+      "repository": "AppTapp Repository",
+      "date": "2020-01-15T04:23:09Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2020-01-15T04:23:09Z",
+          "userName": "hharr-46",
+          "issueNumber": 113419,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0rc11-1",
+      "iOSVersion": "13.3",
+      "repository": "AppTapp Beta Repository",
+      "date": "2020-01-12T15:10:07Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-01-12T15:10:07Z",
+          "userName": "arm64nerd",
+          "issueNumber": 113246,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2020-01-11T00:50:16Z",
+          "userName": "charalez",
+          "issueNumber": 113093,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0rc11",
+      "iOSVersion": "13.3",
+      "repository": "AppTapp Beta Repository",
+      "date": "2020-01-10T22:56:19Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2020-01-10T22:56:19Z",
+          "userName": "charalez",
+          "issueNumber": 113091,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0.2.2",
+      "iOSVersion": "13.3",
+      "repository": "AppTapp Repository",
+      "date": "2020-02-16T02:18:43Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
+        "bad": 0,
+        "total": 5,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2020-02-16T02:18:43Z",
+          "userName": "Nefilins",
+          "issueNumber": 115636,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone12,5",
+          "issues": "",
+          "date": "2020-02-16T00:34:24Z",
+          "userName": "kyle1262",
+          "issueNumber": 115620,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-02-20T09:41:26Z",
+          "userName": "ScArFLiX",
+          "issueNumber": 116832,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2020-02-20T09:37:26Z",
+          "userName": "i-Mobilka",
+          "issueNumber": 116829,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone12,5",
+          "issues": "",
+          "date": "2020-02-20T20:57:53Z",
+          "userName": "margelani",
+          "issueNumber": 116931,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0.2",
+      "iOSVersion": "13.3",
+      "repository": "AppTapp Beta Repository",
+      "date": "2020-02-08T21:14:19Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2020-02-08T21:14:19Z",
+          "userName": "TheElectricalOutlet",
+          "issueNumber": 114902,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0.2.3",
+      "iOSVersion": "13.3",
+      "repository": "AppTapp Repository",
+      "date": "2020-03-05T19:08:59Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone12,5",
+          "issues": "",
+          "date": "2020-03-05T19:08:59Z",
+          "userName": "defrt",
+          "issueNumber": 118750,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0.2.4",
+      "iOSVersion": "13.3.1",
+      "repository": "AppTapp Repository",
+      "date": "2020-03-28T16:11:37Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2020-03-28T16:11:37Z",
+          "userName": "keymastrion",
+          "issueNumber": 120467,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0.2.4",
+      "iOSVersion": "13.3",
+      "repository": "AppTapp Repository",
+      "date": "2020-03-29T00:14:28Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone12,3",
+          "issues": "",
+          "date": "2020-03-29T00:14:28Z",
+          "userName": "Scott003",
+          "issueNumber": 120488,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0.2.4",
+      "iOSVersion": "13.4",
+      "repository": "AppTapp Repository",
+      "date": "2020-04-02T18:18:36Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2020-04-02T18:18:36Z",
+          "userName": "keymastrion",
+          "issueNumber": 120787,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0.2.4",
+      "iOSVersion": "13.4.1",
+      "repository": "AppTapp Repository",
+      "date": "2020-04-08T23:23:51Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2020-04-08T23:23:51Z",
+          "userName": "UnderEu",
+          "issueNumber": 121153,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0.3-2",
+      "iOSVersion": "13.4.1",
+      "repository": "(null)",
+      "date": "2020-04-14T22:10:29Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2020-04-14T22:10:29Z",
+          "userName": "UnderEu",
+          "issueNumber": 121813,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0.3-2",
+      "iOSVersion": "13.3",
+      "repository": "AppTapp Repository",
+      "date": "2020-04-24T01:16:54Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPad8,1",
+          "issues": "",
+          "date": "2020-04-24T01:16:54Z",
+          "userName": "Ahplla",
+          "issueNumber": 122308,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0.3-3",
+      "iOSVersion": "13.4.1",
+      "repository": "(null)",
+      "date": "2020-05-02T04:48:31Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2020-05-02T04:48:31Z",
+          "userName": "BBaoVanC",
+          "issueNumber": 122808,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

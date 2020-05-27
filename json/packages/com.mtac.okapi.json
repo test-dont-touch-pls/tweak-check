@@ -1,0 +1,351 @@
+{
+  "id": "com.mtac.okapi",
+  "name": "Okapi",
+  "latest": "1.1.7-1",
+  "repository": "Packix",
+  "url": "http://cydia.saurik.com/package/com.mtac.okapi/",
+  "shortDescription": "Enhance your Zebra experience",
+  "category": "Tweaks",
+  "author": "MTAC",
+  "commercial": false,
+  "date": "2019-09-30T02:21:46Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0.8-1",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-09-30T02:21:46Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-09-30T02:21:46Z",
+          "userName": "JN20x2",
+          "issueNumber": 101317,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.8-5",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-09-30T23:46:40Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-09-30T23:46:40Z",
+          "userName": "JN20x2",
+          "issueNumber": 101384,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.0-10",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-10-29T04:52:05Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2019-10-29T04:52:05Z",
+          "userName": "ivanchau14",
+          "issueNumber": 103344,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPad7,1",
+          "issues": "Buggy",
+          "date": "2019-10-30T15:40:52Z",
+          "userName": "cnassaney",
+          "issueNumber": 103502,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.3-1",
+      "iOSVersion": "13.2.2",
+      "repository": "Packix",
+      "date": "2019-11-10T17:16:44Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPad7,1",
+          "issues": "",
+          "date": "2019-11-10T17:16:44Z",
+          "userName": "cnassaney",
+          "issueNumber": 104105,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-19T12:05:23Z",
+          "userName": "tweakcompatibleaccount",
+          "issueNumber": 107001,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.2-1",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-11-05T15:56:39Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Random bugs and glitches only when using this tweak",
+          "date": "2019-11-05T15:56:39Z",
+          "userName": "d34dbre4kr",
+          "issueNumber": 103865,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.3-1",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-11-14T14:15:05Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-11-14T14:15:05Z",
+          "userName": "Lucas25Pedrosa",
+          "issueNumber": 105753,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.5-1",
+      "iOSVersion": "13.2.3",
+      "repository": "Packix",
+      "date": "2019-12-07T06:20:10Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Partially works latest Zebra v1.0-beta30",
+          "date": "2019-12-07T06:20:10Z",
+          "userName": "kn0w0ne",
+          "issueNumber": 109757,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.7-1",
+      "iOSVersion": "12.4.1",
+      "repository": "Packix",
+      "date": "2019-12-31T17:37:38Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-12-31T07:26:17Z",
+          "userName": "santidan07",
+          "issueNumber": 112237,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.7-1",
+      "iOSVersion": "13.3",
+      "repository": "Packix",
+      "date": "2019-12-27T14:44:14Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-12-23T18:38:57Z",
+          "userName": "p1neapplecfw",
+          "issueNumber": 111661,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,4",
+          "issues": "I can’t open zebra at all",
+          "date": "2020-03-21T20:24:26Z",
+          "userName": "farafalil",
+          "issueNumber": 120068,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.7-1",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-12-24T11:31:42Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2019-12-24T11:31:42Z",
+          "userName": "SlightlyPeckish",
+          "issueNumber": 111711,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

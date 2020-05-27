@@ -1,0 +1,2164 @@
+{
+  "packages": [
+    {
+      "id": "com.fortysixandtwo.alkaline",
+      "name": "Alkaline",
+      "latest": "1.3",
+      "repository": "ModMyi (Archive)",
+      "url": "http://cydia.saurik.com/package/com.fortysixandtwo.alkaline/",
+      "shortDescription": "Themeable status bar battery replacement for iOS 7.",
+      "category": "Tweaks",
+      "author": "magn2o",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.3",
+          "iOSVersion": "13.1.1",
+          "repository": "ModMyi (Archive)",
+          "date": "2020-03-23T17:40:12Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.ps.amber",
+      "name": "Amber",
+      "latest": "0.0.3.4",
+      "repository": "PoomSmart's Repo",
+      "url": "http://cydia.saurik.com/package/com.ps.amber/",
+      "shortDescription": "Amber-ify your LED torch.",
+      "category": "Tweaks",
+      "author": "PoomSmart",
+      "commercial": false,
+      "date": "2018-07-11T06:24:58Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.3.4",
+          "iOSVersion": "13.1.1",
+          "repository": "PoomSmart's Repo",
+          "date": "2020-04-22T09:45:13Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.cokepokes.appstoreplusplus",
+      "name": "AppStore++",
+      "latest": "0.9.9-9",
+      "repository": "cokepokes.github.io",
+      "url": "http://cydia.saurik.com/package/com.cokepokes.appstoreplusplus/",
+      "shortDescription": "Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1",
+      "category": "Tweaks",
+      "author": "CokePokes",
+      "commercial": false,
+      "date": "2018-07-23T02:27:18Z",
+      "versions": [
+        {
+          "tweakVersion": "0.9.8-9",
+          "iOSVersion": "13.1.1",
+          "repository": "cokepokes.github.io",
+          "date": "2020-03-23T02:56:59Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.justinpetkovic.cameratools",
+      "name": "Camera Tools",
+      "latest": "1.4",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.justinpetkovic.cameratools/",
+      "shortDescription": "Customization toolbox for Camera.",
+      "category": "Tweaks",
+      "author": "Justin Petkovic",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.4",
+          "iOSVersion": "13.1.1",
+          "repository": "BigBoss",
+          "date": "2019-11-16T04:56:48Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.opa334.ccsupport",
+      "name": "CCSupport",
+      "latest": "1.2.2",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.opa334.ccsupport/",
+      "shortDescription": "Support tweak for CC modules!",
+      "category": "Tweaks",
+      "author": "opa334",
+      "commercial": false,
+      "date": "2018-05-01T04:23:51Z",
+      "versions": [
+        {
+          "tweakVersion": "1.2.2",
+          "iOSVersion": "13.1.1",
+          "repository": "BigBoss",
+          "date": "2020-04-22T09:48:31Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.twickd.mtac.cleantabs13",
+      "name": "CleanTabs13",
+      "latest": "1.0.1-1",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.twickd.mtac.cleantabs13/",
+      "shortDescription": "Clean up your tab bars",
+      "category": "Tweaks",
+      "author": "MTAC",
+      "commercial": false,
+      "date": "2020-01-08T09:51:58Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.1-1",
+          "iOSVersion": "13.1.1",
+          "repository": "(null)",
+          "date": "2020-04-22T09:45:46Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.noisyflake.cleardock12",
+      "name": "ClearDock12",
+      "latest": "1.0.0",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.noisyflake.cleardock12/",
+      "shortDescription": "Hide the dock background",
+      "category": "Tweaks",
+      "author": "NoisyFlake",
+      "commercial": false,
+      "date": "2019-09-01T19:45:31Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0",
+          "iOSVersion": "13.1.1",
+          "repository": "Packix",
+          "date": "2019-11-16T04:56:30Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.i0stweak3r.roundedcorners",
+      "name": "Cornuicopia",
+      "latest": "1.0.5-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.i0stweak3r.roundedcorners/",
+      "shortDescription": "An awesome tweak to round corners in card/ deck/ grid switcher, screen edges inside apps, videos, Control Center modules, sliders and buttons, Notifications, Widgets, page dots and more. All devices including A12 are compatible, from iOS 10-13.x,",
+      "category": "Tweaks",
+      "author": "i0s_tweak3r",
+      "commercial": false,
+      "date": "2018-10-11T17:01:28Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.4-3",
+          "iOSVersion": "13.1.1",
+          "repository": "BigBoss",
+          "date": "2019-11-16T04:56:13Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.r333d.cylinder",
+      "name": "Cylinder",
+      "latest": "1.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.r333d.cylinder/",
+      "shortDescription": "Make your icons dance",
+      "category": "Tweaks",
+      "author": "Reed Weichler",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.1",
+          "iOSVersion": "13.1.1",
+          "repository": "BigBoss",
+          "date": "2019-12-03T15:40:57Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.demy076.dismissanywhere",
+      "name": "DismissAnywhere",
+      "latest": "1.4",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.demy076.dismissanywhere/",
+      "shortDescription": "dismiss a popup by tapping anywhere",
+      "category": "Tweaks",
+      "author": "Demy Kromhof",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.4",
+          "iOSVersion": "13.1.1",
+          "repository": "BigBoss",
+          "date": "2019-11-18T23:37:36Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.neoney.dockspring",
+      "name": "DockSpring",
+      "latest": "1.0.0",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.neoney.dockspring/",
+      "shortDescription": "Respring your device by swiping the dock up.",
+      "category": "Tweaks",
+      "author": "neoney",
+      "commercial": false,
+      "date": "2020-04-22T09:47:55Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0",
+          "iOSVersion": "13.1.1",
+          "repository": "Packix",
+          "date": "2020-04-22T09:47:55Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "me.conorthedev.dotto+",
+      "name": "dotto+",
+      "latest": "1.0.1",
+      "repository": "Dynastic Repo",
+      "url": "http://cydia.saurik.com/package/me.conorthedev.dotto+/",
+      "shortDescription": "Notifications, your style. — # dotto+",
+      "category": "Tweaks",
+      "author": "ConorTheDev & Mirac",
+      "commercial": false,
+      "date": "2020-04-08T05:02:11Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.1",
+          "iOSVersion": "13.1.1",
+          "repository": "Dynastic Repo",
+          "date": "2020-04-22T09:47:40Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.conorthedev.dragspring",
+      "name": "Dragspring",
+      "latest": "1.2.1",
+      "repository": "ConorTheDev",
+      "url": "http://cydia.saurik.com/package/com.conorthedev.dragspring/",
+      "shortDescription": "Drag down from the top of settings to respring!",
+      "category": "Tweaks",
+      "author": "ConorTheDev",
+      "commercial": false,
+      "date": "2019-04-15T08:51:06Z",
+      "versions": [
+        {
+          "tweakVersion": "1.2.1",
+          "iOSVersion": "13.1.1",
+          "repository": "Packix",
+          "date": "2020-02-18T03:42:51Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.imkpatil.ezswipe",
+      "name": "EZSwipe",
+      "latest": "1.1",
+      "repository": "Kiran Patil's Repo",
+      "url": "http://cydia.saurik.com/package/com.imkpatil.ezswipe/",
+      "shortDescription": "Give your hand a rest by using gestures instead!",
+      "category": "Tweaks",
+      "author": "Kiran Patil",
+      "commercial": false,
+      "date": "2018-03-16T01:52:48Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1",
+          "iOSVersion": "13.1.1",
+          "repository": "Packix",
+          "date": "2019-11-16T04:55:34Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.xandesign.felicity",
+      "name": "Felicity",
+      "latest": "5.3",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.xandesign.felicity/",
+      "shortDescription": "An intense and happy theme. — “Felicity” means intense happiness and joy ~ and thats exactly what this theme brings to your device.",
+      "category": "Themes",
+      "author": "XanDesign",
+      "commercial": false,
+      "date": "2018-07-07T20:38:45Z",
+      "versions": [
+        {
+          "tweakVersion": "5.0",
+          "iOSVersion": "13.1.1",
+          "repository": "Packix",
+          "date": "2019-11-16T04:55:06Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.shiarahmed.filza",
+      "name": "Filza File Manager",
+      "latest": "3.7.0-18",
+      "repository": "Shiar's Repo",
+      "url": "http://cydia.saurik.com/package/com.shiarahmed.filza/",
+      "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
+      "category": "Utilities",
+      "author": "TIGI Software",
+      "commercial": false,
+      "date": "2019-03-11T11:15:01Z",
+      "versions": [
+        {
+          "tweakVersion": "3.7.0-18",
+          "iOSVersion": "13.1.1",
+          "repository": "OLD. Please add shiarahmed.xrepo.co/",
+          "date": "2020-04-22T09:45:28Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.tigisoftware.filza",
+      "name": "Filza File Manager",
+      "latest": "3.7.4-12",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.tigisoftware.filza/",
+      "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
+      "category": "Utilities",
+      "author": "TIGI Software",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "3.6.4",
+          "iOSVersion": "13.1.1",
+          "repository": "BigBoss",
+          "date": "2019-11-16T04:54:53Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "3.7.2-6",
+          "iOSVersion": "13.1.1",
+          "repository": "Together Repo",
+          "date": "2019-11-18T23:38:11Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.p2kdev.fivedock13",
+      "name": "FiveDock13",
+      "latest": "1.0",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.p2kdev.fivedock13/",
+      "shortDescription": "Five Icons on your Dock!",
+      "category": "Tweaks",
+      "author": "P2KDev",
+      "commercial": false,
+      "date": "2019-11-16T18:11:50Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "13.1.1",
+          "repository": "Packix",
+          "date": "2019-11-18T23:38:51Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.aditkamath.flame",
+      "name": "Flame",
+      "latest": "1.3",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.aditkamath.flame/",
+      "shortDescription": "Make Cydia Yours",
+      "category": "Tweaks",
+      "author": "Adit Kamath",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.3",
+          "iOSVersion": "13.1.1",
+          "repository": "BigBoss",
+          "date": "2019-11-16T04:54:40Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "co.hurouftech.flatcleancydia",
+      "name": "FlatClean Cydia",
+      "latest": "1.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/co.hurouftech.flatcleancydia/",
+      "shortDescription": "Remove Cydia separator, modern button and move text to center!",
+      "category": "Tweaks",
+      "author": "@HuroufTech",
+      "commercial": false,
+      "date": "2020-04-19T09:45:31Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "13.1.1",
+          "repository": "BigBoss",
+          "date": "2020-04-22T09:48:47Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.icraze.gestures13",
+      "name": "Gestures13",
+      "latest": "1.1",
+      "repository": "iCraze's Repo",
+      "url": "http://cydia.saurik.com/package/com.icraze.gestures13/",
+      "shortDescription": "Enable iPhone X Gestures On All Devices! (iOS 13)",
+      "category": "Tweaks",
+      "author": "iCraze",
+      "commercial": false,
+      "date": "2019-11-11T15:55:59Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "13.1.1",
+          "repository": "BigBoss",
+          "date": "2019-11-11T17:51:25Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.julioverne.goodwifi",
+      "name": "GoodWiFi",
+      "latest": "0.0~beta5a",
+      "repository": "julioverne's Repo",
+      "url": "http://twitter.com/ijulioverne",
+      "shortDescription": "Better WiFi Preferences",
+      "category": "Tweaks",
+      "author": "julioverne",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.0~beta5",
+          "iOSVersion": "13.1.1",
+          "repository": "julioverne's Repo",
+          "date": "2019-11-16T04:54:21Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.chashmeet.hidestatusbaritems",
+      "name": "HideStatusBarItems",
+      "latest": "1.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.chashmeet.hidestatusbaritems/",
+      "shortDescription": "Hide specific elements in the status bar.",
+      "category": "Tweaks",
+      "author": "Chashmeet Singh",
+      "commercial": false,
+      "date": "2018-07-19T18:23:25Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.1",
+          "iOSVersion": "13.1.1",
+          "repository": "BigBoss",
+          "date": "2019-11-16T04:54:06Z",
+          "outcome": {
+            "calculatedStatus": "Likely working",
+            "percentage": 50,
+            "good": 1,
+            "bad": 0,
+            "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ca.menushka.hideyourapps",
+      "name": "HideYourApps",
+      "latest": "1.2.1",
+      "repository": "repo.menushka.ca",
+      "url": "http://cydia.saurik.com/package/ca.menushka.hideyourapps/",
+      "shortDescription": "Hide apps from your Home screen — Supports iOS 11 and 12.",
+      "category": "Tweaks",
+      "author": "Menushka Weeratunga",
+      "commercial": false,
+      "date": "2019-05-18T19:05:17Z",
+      "versions": [
+        {
+          "tweakVersion": "1.2.1",
+          "iOSVersion": "13.1.1",
+          "repository": "Dynastic Repo",
+          "date": "2019-11-16T04:53:01Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.3.0",
+          "iOSVersion": "13.1.1",
+          "repository": "Together Repo",
+          "date": "2019-11-18T23:39:24Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "me.kritanta.homeplus",
+      "name": "HomePlus Beta",
+      "latest": "0.4.9-beta",
+      "repository": "Kritanta",
+      "url": "http://cydia.saurik.com/package/me.kritanta.homeplus/",
+      "shortDescription": "Dynamic, live homescreen layout with an intuitive UI",
+      "category": "Tweaks",
+      "author": "Kritanta",
+      "commercial": false,
+      "date": "2019-11-13T15:09:02Z",
+      "versions": [
+        {
+          "tweakVersion": "0.1.3",
+          "iOSVersion": "13.1.1",
+          "repository": "(null)",
+          "date": "2019-11-17T22:06:03Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "nl.d4ni.hotspotusage",
+      "name": "HotspotUsage",
+      "latest": "0.2",
+      "repository": "D4ni's Repo",
+      "url": "http://cydia.saurik.com/package/nl.d4ni.hotspotusage/",
+      "shortDescription": "Show the used download and upload data in the statusbar while tethering.",
+      "category": "Tweaks",
+      "author": "D4ni",
+      "commercial": false,
+      "date": "2019-06-15T10:58:54Z",
+      "versions": [
+        {
+          "tweakVersion": "0.2",
+          "iOSVersion": "13.1.1",
+          "repository": "D4ni's Repo",
+          "date": "2020-04-14T13:09:40Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.exile90.icleanerpro",
+      "name": "iCleaner Pro",
+      "latest": "7.8.2",
+      "repository": "Karen's Repo",
+      "url": "http://ib-soft.net/icleaner",
+      "shortDescription": "The first real iOS system cleaner & optimizer",
+      "category": "Utilities",
+      "author": "Ivano Bilenchi",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "7.7.5",
+          "iOSVersion": "13.1.1",
+          "repository": "Ivano Bilenchi's Repo",
+          "date": "2019-11-16T04:52:43Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.aohuiliu.ipadbar13",
+      "name": "iPadBar13",
+      "latest": "1.1.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.aohuiliu.ipadbar13/",
+      "shortDescription": "Awesome Status Bar!",
+      "category": "Tweaks",
+      "author": "AohuiLiu",
+      "commercial": false,
+      "date": "2020-04-21T05:05:25Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1.1",
+          "iOSVersion": "13.1.1",
+          "repository": "BigBoss",
+          "date": "2020-04-21T05:05:25Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.cunstuck.locationfakerx",
+      "name": "LocationFakerX",
+      "latest": "2.0-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.cunstuck.locationfakerx/",
+      "shortDescription": "change your Location in any App",
+      "category": "Tweaks",
+      "author": "CUNSTUCK",
+      "commercial": false,
+      "date": "2019-09-04T05:53:35Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4-1",
+          "iOSVersion": "13.1.1",
+          "repository": "BigBoss",
+          "date": "2019-11-18T23:40:13Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.wizages.bae",
+      "name": "MakeRespringsGreatAgain",
+      "latest": "2.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.wizages.bae/",
+      "shortDescription": "On resprings it brings back the apple logo which makes resprings great again!",
+      "category": "Tweaks",
+      "author": "wizages",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0",
+          "iOSVersion": "13.1.1",
+          "repository": "Packix",
+          "date": "2019-11-18T23:40:40Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.golddavid.manila",
+      "name": "Manila",
+      "latest": "1.1.1",
+      "repository": "David Goldman's Repo",
+      "url": "http://cydia.saurik.com/package/com.golddavid.manila/",
+      "shortDescription": "3D Touch on Folders to launch apps",
+      "category": "Tweaks",
+      "author": "David Goldman",
+      "commercial": false,
+      "date": "2018-03-02T01:22:03Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1.0",
+          "iOSVersion": "13.1.1",
+          "repository": "Packix",
+          "date": "2019-11-18T23:40:56Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "fr.coupaings.passcodetext",
+      "name": "PasscodeText",
+      "latest": "0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/fr.coupaings.passcodetext/",
+      "shortDescription": "Tweak to change the passcode text.",
+      "category": "Tweaks",
+      "author": "Funsky (Coupaings)",
+      "commercial": false,
+      "date": "2018-08-17T13:39:49Z",
+      "versions": [
+        {
+          "tweakVersion": "0.1",
+          "iOSVersion": "13.1.1",
+          "repository": "BigBoss",
+          "date": "2019-11-16T04:51:28Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.opa334.powerloghelperdfix",
+      "name": "powerlogHelperdFix",
+      "latest": "1.0",
+      "repository": "opa334's Repo",
+      "url": "http://cydia.saurik.com/package/com.opa334.powerloghelperdfix/",
+      "shortDescription": "Block tweak injection into powerlogHelperd!",
+      "category": "Tweaks",
+      "author": "opa334",
+      "commercial": false,
+      "date": "2019-11-16T23:14:00Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "13.1.1",
+          "repository": "(null)",
+          "date": "2019-11-17T03:45:55Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.muirey03.powermodule",
+      "name": "PowerModule",
+      "latest": "1.3.1",
+      "repository": "Stable Auxilium Repo",
+      "url": "http://cydia.saurik.com/package/com.muirey03.powermodule/",
+      "shortDescription": "Group different utility actions into one control center module (iOS 11/12 only)",
+      "category": "Control Center (Modules)",
+      "author": "Muirey03",
+      "commercial": false,
+      "date": "2018-06-01T13:56:55Z",
+      "versions": [
+        {
+          "tweakVersion": "1.3.1",
+          "iOSVersion": "13.1.1",
+          "repository": "Packix",
+          "date": "2020-04-22T09:48:14Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.sassoty.pulltorespring",
+      "name": "PullToRespring",
+      "latest": "1.2",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.sassoty.pulltorespring/",
+      "shortDescription": "Pull down in Settings to respring",
+      "category": "Tweaks",
+      "author": "Noah Saso",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.2",
+          "iOSVersion": "13.1.1",
+          "repository": "BigBoss",
+          "date": "2019-11-16T04:51:10Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.matchstic.reprovision",
+      "name": "ReProvision",
+      "latest": "0.5.2~EOL",
+      "repository": "Matchstic",
+      "url": "http://cydia.saurik.com/package/com.matchstic.reprovision/",
+      "shortDescription": "Re-sign applications on your device",
+      "category": "System",
+      "author": "Matt Clarke",
+      "commercial": false,
+      "date": "2018-08-12T19:47:47Z",
+      "versions": [
+        {
+          "tweakVersion": "0.5~experimental8",
+          "iOSVersion": "13.1.1",
+          "repository": "repo.incendo.ws",
+          "date": "2019-12-03T15:39:52Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "org.thebigboss.romanpasscode",
+      "name": "RomanPasscode",
+      "latest": "2.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.romanpasscode/",
+      "shortDescription": "Roman numbers in Passcode",
+      "category": "Tweaks",
+      "author": "Orangebananaspy",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.1",
+          "iOSVersion": "13.1.1",
+          "repository": "BigBoss",
+          "date": "2019-11-18T23:41:15Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "co.hurouftech.safarifeatures",
+      "name": "Safari Features",
+      "latest": "1.1-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/co.hurouftech.safarifeatures/",
+      "shortDescription": "Enabled iPad Safari TabBar in iPhone only iOS 13!",
+      "category": "Tweaks",
+      "author": "@HuroufTech",
+      "commercial": false,
+      "date": "2020-04-14T22:08:01Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1-1",
+          "iOSVersion": "13.1.1",
+          "repository": "BigBoss",
+          "date": "2020-04-22T09:49:11Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.kurrt.safeshutdown",
+      "name": "SafeShutdown",
+      "latest": "1.60",
+      "repository": "Kurrt's Repo",
+      "url": "http://cydia.saurik.com/package/com.kurrt.safeshutdown/",
+      "shortDescription": "Avoid re-jailbreaking when battery runs out.",
+      "category": "Tweaks",
+      "author": "Kurrt",
+      "commercial": false,
+      "date": "2018-09-11T17:40:12Z",
+      "versions": [
+        {
+          "tweakVersion": "1.55",
+          "iOSVersion": "13.1.1",
+          "repository": "BigBoss",
+          "date": "2019-11-16T04:45:58Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.noisyflake.shortcutenabler",
+      "name": "ShortcutEnabler",
+      "latest": "1.2.1",
+      "repository": "NoisyFlake",
+      "url": "http://cydia.saurik.com/package/com.noisyflake.shortcutenabler/",
+      "shortDescription": "Enable and move the lockscreen flashlight / camera buttons on all devices.",
+      "category": "Tweaks",
+      "author": "NoisyFlake",
+      "commercial": false,
+      "date": "2019-03-03T18:10:46Z",
+      "versions": [
+        {
+          "tweakVersion": "1.2.0",
+          "iOSVersion": "13.1.1",
+          "repository": "Packix",
+          "date": "2019-11-16T04:50:52Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.2.1",
+          "iOSVersion": "13.1.1",
+          "repository": "Packix",
+          "date": "2019-11-18T23:41:35Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.creaturecoding.shuffle",
+      "name": "shuffle",
+      "latest": "0.8.0b",
+      "repository": "CreatureSurvive's Repo",
+      "url": "http://cydia.saurik.com/package/com.creaturecoding.shuffle/",
+      "shortDescription": "Mix up your preferences",
+      "category": "Tweaks",
+      "author": "CreatureSurvive",
+      "commercial": false,
+      "date": "2018-05-21T18:26:27Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.4",
+          "iOSVersion": "13.1.1",
+          "repository": "CreatureCoding",
+          "date": "2019-11-16T04:50:29Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.expetelek.simplepasscodebuttons",
+      "name": "SimplePasscodeButtons",
+      "latest": "0.0.4",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.expetelek.simplepasscodebuttons/",
+      "shortDescription": "hides letters/numbers on passcode buttons",
+      "category": "Tweaks",
+      "author": "Adam Spindler",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.0.4",
+          "iOSVersion": "13.1.1",
+          "repository": "BigBoss",
+          "date": "2019-11-16T04:49:57Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.smokin1337.smarterlpm",
+      "name": "SmarterLPM",
+      "latest": "1.0.4",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.smokin1337.smarterlpm/",
+      "shortDescription": "A smarter low power mode !!",
+      "category": "Tweaks",
+      "author": "smokin1337",
+      "commercial": false,
+      "date": "2020-03-22T09:55:43Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.4",
+          "iOSVersion": "13.1.1",
+          "repository": "Packix",
+          "date": "2020-04-22T09:47:19Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.smokin1337.smartlpm",
+      "name": "SmartLPM",
+      "latest": "1.3.0-1",
+      "repository": "smokin1337's Repo",
+      "url": "http://cydia.saurik.com/package/com.smokin1337.smartlpm/",
+      "shortDescription": "A smarter low power mode. Low power while device is locked. Turn low power mode on automatically at the battery level you specify. Enable low power while charging.",
+      "category": "Tweaks",
+      "author": "smokin1337",
+      "commercial": false,
+      "date": "2018-03-04T23:57:05Z",
+      "versions": [
+        {
+          "tweakVersion": "1.3.0-1",
+          "iOSVersion": "13.1.1",
+          "repository": "Packix",
+          "date": "2019-11-16T04:49:42Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.spark.snowboard",
+      "name": "Snowboard",
+      "latest": "1.2.87~Beta2",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.spark.snowboard/",
+      "shortDescription": "Snowboard theming engine",
+      "category": "Tweaks",
+      "author": "Spark & Dennis D. Bednarz",
+      "commercial": false,
+      "date": "2018-09-19T04:13:11Z",
+      "versions": [
+        {
+          "tweakVersion": "1.2.66~Beta1",
+          "iOSVersion": "13.1.1",
+          "repository": "SparkDev",
+          "date": "2019-11-16T04:49:26Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.2.67~Beta1",
+          "iOSVersion": "13.1.1",
+          "repository": "SparkDev",
+          "date": "2019-11-18T23:41:53Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.2.74~Beta1",
+          "iOSVersion": "13.1.1",
+          "repository": "SparkDev",
+          "date": "2019-12-03T15:40:29Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.pw5a29.speedintensifier",
+      "name": "Speed Intensifier",
+      "latest": "10.1-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.pw5a29.speedintensifier/",
+      "shortDescription": "Speeds up iOS Animations",
+      "category": "Tweaks",
+      "author": "pw5a29",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "10.1-1",
+          "iOSVersion": "13.1.1",
+          "repository": "BigBoss",
+          "date": "2019-11-16T04:49:06Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.iadam1n.statusswitcher",
+      "name": "StatusSwitcher",
+      "latest": "1.1.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.iadam1n.statusswitcher/",
+      "shortDescription": "Show status bar in app switcher.",
+      "category": "Tweaks",
+      "author": "iAdam1n and andywiik",
+      "commercial": false,
+      "date": "2018-03-02T06:51:30Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1.1",
+          "iOSVersion": "13.1.1",
+          "repository": "BigBoss",
+          "date": "2019-11-18T23:42:17Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.saurik.substrate.safemode",
+      "name": "Substrate Safe Mode",
+      "latest": "0.9.6003",
+      "repository": "Cydia/Telesphoreo",
+      "url": "http://cydia.saurik.com/package/com.saurik.substrate.safemode/",
+      "shortDescription": "safe mode safety extension (safe)",
+      "category": "Tweaks",
+      "author": "Jay Freeman (saurik)",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.9.6003",
+          "iOSVersion": "13.1.1",
+          "repository": "apt.bingner.com",
+          "date": "2019-11-16T04:48:51Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "org.thebigboss.swipeformore",
+      "name": "SwipeForMore",
+      "latest": "1.1.7",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.swipeformore/",
+      "shortDescription": "Manage packages via swipe.",
+      "category": "Tweaks",
+      "author": "PoomSmart",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.1.7",
+          "iOSVersion": "13.1.1",
+          "repository": "BigBoss",
+          "date": "2019-11-16T04:48:23Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.1.10",
+          "iOSVersion": "13.1.1",
+          "repository": "Together Repo",
+          "date": "2019-11-18T23:42:59Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch.mdaus.sylph",
+      "name": "Sylph",
+      "latest": "1.3~Beta.1",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/ch.mdaus.sylph/",
+      "shortDescription": "Customize your LS music player",
+      "category": "Tweaks",
+      "author": "Max Dausch",
+      "commercial": false,
+      "date": "2018-07-30T08:56:50Z",
+      "versions": [
+        {
+          "tweakVersion": "1.3~Beta.1",
+          "iOSVersion": "13.1.1",
+          "repository": "Together Repo",
+          "date": "2019-11-18T23:42:40Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.cpdigitaldarkroom.taptapflip",
+      "name": "TapTapFlip",
+      "latest": "1.5",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/com.cpdigitaldarkroom.taptapflip/",
+      "shortDescription": "Double tap to flip camera",
+      "category": "Tweaks",
+      "author": "CP Digital Darkroom",
+      "commercial": false,
+      "date": "2018-02-28T00:26:03Z",
+      "versions": [
+        {
+          "tweakVersion": "1.5",
+          "iOSVersion": "13.1.1",
+          "repository": "Packix",
+          "date": "2019-11-16T04:48:09Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.spark.taptickeys",
+      "name": "TapticKeys [Member]",
+      "latest": "3.0.9-1",
+      "repository": "Spark's Beta Repo",
+      "url": "http://cydia.saurik.com/package/com.spark.taptickeys/",
+      "shortDescription": "Taptic feedback on keyboard presses",
+      "category": "Tweaks",
+      "author": "Spark",
+      "commercial": false,
+      "date": "2018-03-01T20:04:34Z",
+      "versions": [
+        {
+          "tweakVersion": "3.0.9-1",
+          "iOSVersion": "13.1.1",
+          "repository": "SparkDev",
+          "date": "2019-11-16T04:47:52Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.mrgcgamer.translock",
+      "name": "TransLock",
+      "latest": "1.0.4",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.mrgcgamer.translock/",
+      "shortDescription": "A new clean look for your passcode screen",
+      "category": "Tweaks",
+      "author": "MrGcGamer",
+      "commercial": false,
+      "date": "2019-11-10T19:25:04Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.4",
+          "iOSVersion": "13.1.1",
+          "repository": "Packix",
+          "date": "2020-04-22T09:44:54Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.alex.tweakcount2",
+      "name": "Tweak Count 2",
+      "latest": "1.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.alex.tweakcount2/",
+      "shortDescription": "count of installed tweaks in Cydia",
+      "category": "Tweaks",
+      "author": "Alexandre",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.0.1",
+          "iOSVersion": "13.1.1",
+          "repository": "BigBoss",
+          "date": "2019-11-16T04:47:33Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bz.jed.tweakcompatible",
+      "name": "tweakCompatible",
+      "latest": "0.1.5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/bz.jed.tweakcompatible/",
+      "shortDescription": "Adds a way to check tweak compatibility in cydia",
+      "category": "Tweaks",
+      "author": "treAson",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.1.5",
+          "iOSVersion": "13.1.1",
+          "repository": "BigBoss",
+          "date": "2019-11-16T03:44:30Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "wallpaperloader",
+      "name": "WallpaperLoader",
+      "latest": "1.0",
+      "repository": "Skitty's Repo",
+      "url": "http://cydia.saurik.com/package/wallpaperloader/",
+      "shortDescription": "Add more default wallpapers!",
+      "category": "Tweaks",
+      "author": "Skitty",
+      "commercial": false,
+      "date": "2019-11-14T23:35:34Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "13.1.1",
+          "repository": "Skitty's Repo",
+          "date": "2020-04-22T09:46:19Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.malcolmhall.wifipasswords",
+      "name": "WiFi Passwords",
+      "latest": "3.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.malcolmhall.wifipasswords/",
+      "shortDescription": "shows previously entered wifi passwords",
+      "category": "Utilities",
+      "author": "Malcolm Hall",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "3.0.1",
+          "iOSVersion": "13.1.1",
+          "repository": "BigBoss",
+          "date": "2019-11-16T04:46:56Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.unlimapps.ytpp",
+      "name": "YouTube ++",
+      "latest": "1.4r-106",
+      "repository": "beta.unlimapps.com",
+      "url": "https://beta.unlimapps.com/",
+      "shortDescription": "Download all YouTube Videos! Continue background playback and much more!!!",
+      "category": "Tweaks",
+      "author": "UnlimApps Inc",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.4r-106",
+          "iOSVersion": "13.1.1",
+          "repository": "UnlimApps",
+          "date": "2019-11-11T07:25:01Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "xyz.willy.zebra",
+      "name": "Zebra (BETA)",
+      "latest": "1.1~beta6",
+      "repository": "xTM3x Repo",
+      "url": "http://cydia.saurik.com/package/xyz.willy.zebra/",
+      "shortDescription": "A Useful Package Manager",
+      "category": "Packaging",
+      "author": "Wilson Styres",
+      "commercial": false,
+      "date": "2019-04-17T11:11:51Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0~beta27-1",
+          "iOSVersion": "13.1.1",
+          "repository": "(null)",
+          "date": "2019-11-16T04:46:34Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.0~beta23",
+          "iOSVersion": "13.1.1",
+          "repository": "Zebra Repo",
+          "date": "2019-11-17T01:20:45Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.alexzielenski.zeppelin",
+      "name": "Zeppelin",
+      "latest": "2.1.0-12",
+      "repository": "ModMyi (Archive)",
+      "url": "http://cydia.saurik.com/package/com.alexzielenski.zeppelin/",
+      "shortDescription": "Replaces carrier text with an image!",
+      "category": "Tweaks",
+      "author": "Alex Zielenski",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.1.0-12",
+          "iOSVersion": "13.1.1",
+          "repository": "ModMyi (Archive)",
+          "date": "2020-03-23T17:36:37Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

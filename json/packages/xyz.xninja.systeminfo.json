@@ -1,0 +1,6667 @@
+{
+  "id": "xyz.xninja.systeminfo",
+  "name": "System Info",
+  "latest": "2.7.2",
+  "repository": "BigBoss",
+  "url": "http://cydia.saurik.com/package/xyz.xninja.systeminfo/",
+  "shortDescription": "System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc",
+  "category": "Tweaks",
+  "author": "ARX8x",
+  "commercial": false,
+  "versions": [
+    {
+      "tweakVersion": "1.2.1",
+      "iOSVersion": "10.2.1",
+      "repository": "BigBoss",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2017-12-27T23:05:04Z",
+          "userName": "tw9ak",
+          "issueNumber": 199,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone6,1",
+          "issues": "",
+          "date": "2018-04-15T16:54:30Z",
+          "userName": "CydiaUser420",
+          "issueNumber": 9990,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.1",
+      "iOSVersion": "10.1.1",
+      "repository": "BigBoss",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 3,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2017-12-28T00:03:13Z",
+          "userName": "lfstyles",
+          "issueNumber": 231,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPad4,4",
+          "issues": "Saving SHSH doesn't work and setting Boot-nonce generator isn't made yet",
+          "date": "2018-01-08T17:07:22Z",
+          "userName": "Goldvag",
+          "issueNumber": 941,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-03-03T03:12:55Z",
+          "userName": "kurtbain250",
+          "issueNumber": 3258,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.1",
+      "iOSVersion": "10.0.2",
+      "repository": "BigBoss",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2017-12-28T15:51:17Z",
+          "userName": "Galfinite",
+          "issueNumber": 376,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.1",
+      "iOSVersion": "10.2",
+      "repository": "BigBoss",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-01-04T02:38:48Z",
+          "userName": "saj0vie",
+          "issueNumber": 795,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-767+debug",
+      "iOSVersion": "11.1.2",
+      "repository": "ARX8x's repo",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 3,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad6,11",
+          "issues": "",
+          "date": "2018-02-27T18:44:53Z",
+          "userName": "josephwalden13",
+          "issueNumber": 1360,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-02-28T20:26:58Z",
+          "userName": "ios11iphone6s",
+          "issueNumber": 1805,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-03-02T09:49:21Z",
+          "userName": "mastercreeper66",
+          "issueNumber": 2679,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.1",
+      "iOSVersion": "11.0.1",
+      "repository": "BigBoss",
+      "date": "2018-02-28T09:17:45Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone6,2",
+          "issues": "",
+          "date": "2018-02-28T09:17:45Z",
+          "userName": "notexe",
+          "issueNumber": 1557,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2018-03-06T09:52:55Z",
+          "userName": "nihongithub",
+          "issueNumber": 4466,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.1",
+      "iOSVersion": "11.1.2",
+      "repository": "BigBoss",
+      "date": "2018-02-28T19:57:07Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 10,
+        "bad": 0,
+        "total": 10,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-02-28T19:57:07Z",
+          "userName": "magoa001",
+          "issueNumber": 1798,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-03-02T00:33:25Z",
+          "userName": "bobthejellyfish1",
+          "issueNumber": 2289,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-03-02T12:31:17Z",
+          "userName": "oneking99",
+          "issueNumber": 2762,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2018-03-02T13:51:52Z",
+          "userName": "paddelweeb",
+          "issueNumber": 2792,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-03-02T22:40:43Z",
+          "userName": "dariow2000",
+          "issueNumber": 3136,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-03-05T22:36:36Z",
+          "userName": "BotchedBortion",
+          "issueNumber": 4273,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-03-08T23:09:05Z",
+          "userName": "abuelhusein",
+          "issueNumber": 5132,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2018-03-18T01:24:47Z",
+          "userName": "calmchar",
+          "issueNumber": 7137,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-04-08T11:31:51Z",
+          "userName": "MattieThurlow96",
+          "issueNumber": 9286,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-04-09T09:11:15Z",
+          "userName": "tommoses",
+          "issueNumber": 9386,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-767+debug",
+      "iOSVersion": "11.0.3",
+      "repository": "ARX8x's repo",
+      "date": "2018-03-01T21:16:31Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad6,11",
+          "issues": "",
+          "date": "2018-03-01T21:16:31Z",
+          "userName": "greenking2000",
+          "issueNumber": 2161,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-952+debug",
+      "iOSVersion": "10.3.3",
+      "repository": "ARX8x's repo",
+      "date": "2018-03-04T20:00:14Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-03-04T20:00:14Z",
+          "userName": "DarkZone-World",
+          "issueNumber": 3847,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-877+debug",
+      "iOSVersion": "10.3.3",
+      "repository": "ARX8x's repo",
+      "date": "2018-03-05T16:32:40Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-03-05T16:32:40Z",
+          "userName": "AngryKiller",
+          "issueNumber": 4147,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.1",
+      "iOSVersion": "11.1.1",
+      "repository": "BigBoss",
+      "date": "2018-03-05T17:50:14Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-03-05T17:50:14Z",
+          "userName": "4nk0",
+          "issueNumber": 4204,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.1",
+      "iOSVersion": "10.3.1",
+      "repository": "BigBoss",
+      "date": "2018-03-12T06:30:17Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2018-03-12T06:30:17Z",
+          "userName": "xksb",
+          "issueNumber": 5827,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-877+debug",
+      "iOSVersion": "11.1",
+      "repository": "ARX8x's repo",
+      "date": "2018-03-13T08:13:46Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2018-03-13T08:13:46Z",
+          "userName": "nanerasingh",
+          "issueNumber": 6113,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-877+debug",
+      "iOSVersion": "11.1.2",
+      "repository": "ARX8x's repo",
+      "date": "2018-03-13T17:14:58Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-03-13T17:14:58Z",
+          "userName": "Reinauld",
+          "issueNumber": 6175,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-03-19T08:03:51Z",
+          "userName": "mchamp90",
+          "issueNumber": 7386,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.1",
+      "iOSVersion": "11.0.2",
+      "repository": "apt.thebigboss.org",
+      "date": "2018-03-16T07:40:11Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-03-16T07:40:11Z",
+          "userName": "DavidNC1978",
+          "issueNumber": 6762,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1010+debug",
+      "iOSVersion": "11.1.2",
+      "repository": "ARX8x's repo",
+      "date": "2018-03-21T11:12:50Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-03-21T11:12:50Z",
+          "userName": "evilexecutable",
+          "issueNumber": 7785,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-04-06T14:19:55Z",
+          "userName": "Smethan",
+          "issueNumber": 9003,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.1",
+      "iOSVersion": "11.0.3",
+      "repository": "apt.thebigboss.org",
+      "date": "2018-03-29T03:06:36Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2018-03-29T03:06:36Z",
+          "userName": "ClydeHarrington",
+          "issueNumber": 8546,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-04-12T03:26:25Z",
+          "userName": "BrayChura",
+          "issueNumber": 9696,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1211+debug",
+      "iOSVersion": "11.1.2",
+      "repository": "ARX8x's repo",
+      "date": "2018-04-08T21:03:19Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2018-04-08T21:03:19Z",
+          "userName": "dallasgroot",
+          "issueNumber": 9322,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-04-09T14:41:25Z",
+          "userName": "mchamp90",
+          "issueNumber": 9461,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1216+debug",
+      "iOSVersion": "11.1",
+      "repository": "ARX8x's repo",
+      "date": "2018-04-13T13:24:23Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2018-04-13T13:24:23Z",
+          "userName": "gokmenecer",
+          "issueNumber": 9755,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.1",
+      "iOSVersion": "7.1.2",
+      "repository": "BigBoss",
+      "date": "2018-04-15T16:56:49Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 1,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Not working"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone3,3",
+          "issues": "",
+          "date": "2018-04-15T16:56:49Z",
+          "userName": "CydiaUser420",
+          "issueNumber": 9991,
+          "arch32": true
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.1",
+      "iOSVersion": "9.0.2",
+      "repository": "BigBoss",
+      "date": "2018-04-15T16:54:07Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 1,
+          "good": 1,
+          "bad": 0,
+          "percentage": 100,
+          "calculatedStatus": "Working"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPod5,1",
+          "issues": "",
+          "date": "2018-04-15T16:54:07Z",
+          "userName": "CydiaUser420",
+          "issueNumber": 9989,
+          "arch32": true
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0",
+      "iOSVersion": "11.1.2",
+      "repository": "BigBoss",
+      "date": "2018-04-23T16:36:48Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-04-23T16:36:48Z",
+          "userName": "underd0se",
+          "issueNumber": 10719,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0",
+      "iOSVersion": "10.2",
+      "repository": "BigBoss",
+      "date": "2018-04-23T15:53:17Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad5,4",
+          "issues": "",
+          "date": "2018-04-23T15:53:17Z",
+          "userName": "CydiaUser420",
+          "issueNumber": 10709,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "10.2",
+      "repository": "BigBoss",
+      "date": "2018-04-23T18:09:19Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad5,4",
+          "issues": "",
+          "date": "2018-04-23T18:09:19Z",
+          "userName": "CydiaUser420",
+          "issueNumber": 10731,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone6,1",
+          "issues": "",
+          "date": "2018-06-07T20:02:30Z",
+          "userName": "leuldereje",
+          "issueNumber": 12377,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "7.1.2",
+      "repository": "BigBoss",
+      "date": "2018-04-23T20:14:24Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 1,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Not working"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone3,3",
+          "issues": "Crashes settings.app when clicking about,  older versions used to work so idk what happened",
+          "date": "2018-04-23T20:14:24Z",
+          "userName": "CydiaUser420",
+          "issueNumber": 10738,
+          "arch32": true
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "11.1.2",
+      "repository": "apt.thebigboss.org",
+      "date": "2018-04-23T20:15:19Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 6,
+        "bad": 0,
+        "total": 6,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-04-23T20:15:19Z",
+          "userName": "tommoses",
+          "issueNumber": 10742,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-04-23T22:16:17Z",
+          "userName": "MattieThurlow96",
+          "issueNumber": 10756,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2018-05-03T04:50:23Z",
+          "userName": "whitehouse2",
+          "issueNumber": 11198,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-05-27T07:29:05Z",
+          "userName": "will2535",
+          "issueNumber": 12095,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-08-10T03:26:52Z",
+          "userName": "S0N-0F-A-S0N",
+          "issueNumber": 41331,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-09-26T22:11:01Z",
+          "userName": "oixs",
+          "issueNumber": 51590,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "10.2.1",
+      "repository": "BigBoss",
+      "date": "2018-04-24T02:34:10Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone6,1",
+          "issues": "",
+          "date": "2018-04-24T02:34:10Z",
+          "userName": "CydiaUser420",
+          "issueNumber": 10761,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.1",
+      "iOSVersion": "11.1.2",
+      "repository": "(null)",
+      "date": "2018-04-25T09:57:44Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-04-25T09:57:44Z",
+          "userName": "MattieThurlow96",
+          "issueNumber": 10843,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "11.0.3",
+      "repository": "apt.thebigboss.org",
+      "date": "2018-04-26T18:01:39Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPod7,1",
+          "issues": "",
+          "date": "2018-04-26T18:01:39Z",
+          "userName": "survive9",
+          "issueNumber": 10946,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1216+debug",
+      "iOSVersion": "11.1.2",
+      "repository": "ARX8x's repo",
+      "date": "2018-04-28T11:17:31Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-04-28T11:17:31Z",
+          "userName": "Zidapi82",
+          "issueNumber": 11005,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "11.1",
+      "repository": "BigBoss",
+      "date": "2018-04-29T13:03:02Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-04-29T13:03:02Z",
+          "userName": "darkmoon980",
+          "issueNumber": 11026,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1216+debug",
+      "iOSVersion": "10.3.3",
+      "repository": "ARX8x's repo",
+      "date": "2018-05-22T18:08:57Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 1,
+          "good": 1,
+          "bad": 0,
+          "percentage": 100,
+          "calculatedStatus": "Working"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone6,1",
+          "issues": "",
+          "date": "2018-05-22T18:08:57Z",
+          "userName": "nrlwilda",
+          "issueNumber": 11951,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone5,2",
+          "issues": "",
+          "date": "2018-10-27T22:43:26Z",
+          "userName": "JaRxY",
+          "issueNumber": 54098,
+          "arch32": true
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1216+debug",
+      "iOSVersion": "10.3.1",
+      "repository": "ARX8x's repo",
+      "date": "2018-05-24T17:09:44Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-05-24T17:09:44Z",
+          "userName": "debugevery",
+          "issueNumber": 12006,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "11.3.1",
+      "repository": "BigBoss",
+      "date": "2018-07-07T13:02:08Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 39,
+        "bad": 0,
+        "total": 39,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2018-07-07T13:02:08Z",
+          "userName": "larsjuhw",
+          "issueNumber": 13180,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-07-07T14:28:42Z",
+          "userName": "lilquezzi",
+          "issueNumber": 13238,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-07-07T17:29:56Z",
+          "userName": "lucky13820",
+          "issueNumber": 13607,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-07-07T17:51:41Z",
+          "userName": "Erwinjbk",
+          "issueNumber": 13635,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad7,4",
+          "issues": "",
+          "date": "2018-07-07T21:31:59Z",
+          "userName": "Stone-D",
+          "issueNumber": 14122,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-07-07T21:38:29Z",
+          "userName": "oscarf200106",
+          "issueNumber": 14148,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-07-07T22:32:21Z",
+          "userName": "iHassan2000",
+          "issueNumber": 14355,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-07-08T03:29:11Z",
+          "userName": "pietronis",
+          "issueNumber": 14977,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2018-07-08T04:15:15Z",
+          "userName": "vburnin8tor",
+          "issueNumber": 15053,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-07-08T08:39:56Z",
+          "userName": "moonshinejeff",
+          "issueNumber": 15593,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-07-08T19:18:01Z",
+          "userName": "lucalunetta",
+          "issueNumber": 16617,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-07-08T22:57:04Z",
+          "userName": "mllrr96",
+          "issueNumber": 17220,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-07-09T03:18:22Z",
+          "userName": "Galfinite",
+          "issueNumber": 17734,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-07-09T06:21:22Z",
+          "userName": "CrimsonCharcoal",
+          "issueNumber": 18021,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-07-09T10:26:02Z",
+          "userName": "Reiza1993",
+          "issueNumber": 18372,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-07-09T15:00:07Z",
+          "userName": "Jesperflodin1",
+          "issueNumber": 18873,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-07-09T17:56:21Z",
+          "userName": "OrdinaryGir1",
+          "issueNumber": 19186,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-07-09T22:21:53Z",
+          "userName": "Y0usefmahdi",
+          "issueNumber": 19584,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-07-10T02:35:20Z",
+          "userName": "asimcard",
+          "issueNumber": 19975,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2018-07-10T11:32:33Z",
+          "userName": "cydiareviews",
+          "issueNumber": 20467,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-07-10T14:49:17Z",
+          "userName": "dCatarinap",
+          "issueNumber": 20638,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2018-07-11T02:04:01Z",
+          "userName": "Neosnc",
+          "issueNumber": 21523,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "100% Working iPhone 6S+ 11.3.1",
+          "date": "2018-07-11T06:42:05Z",
+          "userName": "SentientEnigma",
+          "issueNumber": 21855,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2018-07-11T07:13:57Z",
+          "userName": "akumar95",
+          "issueNumber": 21928,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-07-11T18:57:53Z",
+          "userName": "AxW420",
+          "issueNumber": 23198,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-07-12T19:22:13Z",
+          "userName": "rt50631",
+          "issueNumber": 24525,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-07-13T23:15:56Z",
+          "userName": "sanchesanetto",
+          "issueNumber": 25798,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone6,2",
+          "issues": "",
+          "date": "2018-07-14T08:36:34Z",
+          "userName": "Adatrem",
+          "issueNumber": 26212,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-07-14T10:12:33Z",
+          "userName": "ric9989",
+          "issueNumber": 26304,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-07-17T17:29:31Z",
+          "userName": "LegitTest",
+          "issueNumber": 28847,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-07-18T19:49:42Z",
+          "userName": "tommoses",
+          "issueNumber": 29526,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-07-20T21:39:53Z",
+          "userName": "darkmoon980",
+          "issueNumber": 30721,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone6,1",
+          "issues": "",
+          "date": "2018-08-06T01:47:29Z",
+          "userName": "DrChameleon7",
+          "issueNumber": 39413,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-08-07T02:22:16Z",
+          "userName": "poorkid",
+          "issueNumber": 39770,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-08-16T07:22:50Z",
+          "userName": "luckyshahh",
+          "issueNumber": 44174,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-08-28T16:47:48Z",
+          "userName": "jenyaxo",
+          "issueNumber": 47857,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2018-10-10T03:55:43Z",
+          "userName": "lmsldeepak",
+          "issueNumber": 52630,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-11-06T01:01:54Z",
+          "userName": "tomhmoses",
+          "issueNumber": 54757,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-02-02T00:19:09Z",
+          "userName": "ThyGiant",
+          "issueNumber": 58137,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "10.3.3",
+      "repository": "BigBoss",
+      "date": "2018-07-07T15:02:14Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad6,11",
+          "issues": "",
+          "date": "2018-07-07T15:02:14Z",
+          "userName": "lilquezzi",
+          "issueNumber": 13342,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1216+debug",
+      "iOSVersion": "11.3.1",
+      "repository": "ARX8x's repo",
+      "date": "2018-07-07T19:42:13Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 5,
+        "bad": 0,
+        "total": 5,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2018-07-07T19:42:13Z",
+          "userName": "smacpats",
+          "issueNumber": 13803,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-07-08T05:08:02Z",
+          "userName": "notdan-swim",
+          "issueNumber": 15176,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2018-07-10T08:17:48Z",
+          "userName": "Zidapi82",
+          "issueNumber": 20283,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,4",
+          "issues": "Setting nonce doesn’t work",
+          "date": "2018-07-10T23:03:03Z",
+          "userName": "chase-joel",
+          "issueNumber": 21258,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2018-07-12T22:38:07Z",
+          "userName": "Farzadsv",
+          "issueNumber": 24682,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "11.2.1",
+      "repository": "BigBoss",
+      "date": "2018-07-08T07:23:25Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2018-07-08T07:23:25Z",
+          "userName": "Wustafa",
+          "issueNumber": 15428,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "11.2.5",
+      "repository": "BigBoss",
+      "date": "2018-07-11T13:51:59Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-07-11T13:51:59Z",
+          "userName": "jessicalong127",
+          "issueNumber": 22640,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-03-05T04:04:21Z",
+          "userName": "parisphan",
+          "issueNumber": 72667,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "11.3",
+      "repository": "BigBoss",
+      "date": "2018-07-13T22:58:23Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-07-13T22:58:23Z",
+          "userName": "0x426f6f6d",
+          "issueNumber": 25760,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad7,5",
+          "issues": "",
+          "date": "2018-08-07T11:44:10Z",
+          "userName": "tommoses",
+          "issueNumber": 39968,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "11.4",
+      "repository": "BigBoss",
+      "date": "2018-07-15T21:31:33Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2018-07-15T21:31:33Z",
+          "userName": "toogoodbruh",
+          "issueNumber": 27557,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-07-17T09:58:36Z",
+          "userName": "jeffreyS89",
+          "issueNumber": 28519,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.2",
+      "iOSVersion": "11.4",
+      "repository": "(null)",
+      "date": "2018-07-21T10:07:23Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-07-21T10:07:23Z",
+          "userName": "MattieThurlow96",
+          "issueNumber": 31177,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1216+debug",
+      "iOSVersion": "11.4",
+      "repository": "ARX8x's repo",
+      "date": "2018-07-25T16:37:00Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone10,5",
+          "issues": "Set nonce \"\"ot working / ERROR",
+          "date": "2018-07-25T16:37:00Z",
+          "userName": "Fatalico",
+          "issueNumber": 33823,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "11.2.6",
+      "repository": "BigBoss",
+      "date": "2018-07-27T04:00:55Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2018-07-27T04:00:55Z",
+          "userName": "d3vCr0w",
+          "issueNumber": 34556,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-07-29T23:43:48Z",
+          "userName": "btpp2010",
+          "issueNumber": 35585,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1216+debug",
+      "iOSVersion": "11.3",
+      "repository": "ARX8x's repo",
+      "date": "2018-07-30T03:53:37Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPod7,1",
+          "issues": "",
+          "date": "2018-07-30T03:53:37Z",
+          "userName": "BrianLeek",
+          "issueNumber": 35845,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "3.2.1",
+      "iOSVersion": "11.4",
+      "repository": "(null)",
+      "date": "2018-07-30T23:03:11Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-07-30T23:03:11Z",
+          "userName": "MattieThurlow96",
+          "issueNumber": 36652,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "11.2",
+      "repository": "BigBoss",
+      "date": "2018-07-31T06:23:15Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "Helpful.",
+          "date": "2018-07-31T06:23:15Z",
+          "userName": "Masterm1me",
+          "issueNumber": 36851,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1216+debug",
+      "iOSVersion": "9.3.3",
+      "repository": "ARX8x's repo",
+      "date": "2018-08-04T03:09:40Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-08-04T03:09:40Z",
+          "userName": "joshuaseltzer",
+          "issueNumber": 38588,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "11.2.2",
+      "repository": "BigBoss",
+      "date": "2018-08-08T16:35:55Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-08-08T16:35:55Z",
+          "userName": "Ash-MT",
+          "issueNumber": 40475,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "10.3.1",
+      "repository": "BigBoss",
+      "date": "2018-08-09T16:45:46Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-08-09T16:45:46Z",
+          "userName": "farbix",
+          "issueNumber": 41100,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "9.3.3",
+      "repository": "BigBoss",
+      "date": "2018-08-13T16:58:32Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-08-13T16:58:29Z",
+          "userName": "S0N-0F-A-S0N",
+          "issueNumber": 43095,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "11.1.1",
+      "repository": "BigBoss",
+      "date": "2018-08-13T20:27:50Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone6,1",
+          "issues": "",
+          "date": "2018-08-13T20:27:50Z",
+          "userName": "sietec",
+          "issueNumber": 43205,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-09-19T05:28:17Z",
+          "userName": "ActiveXre",
+          "issueNumber": 50886,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "10.1.1",
+      "repository": "BigBoss",
+      "date": "2018-08-15T07:55:35Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-08-15T07:55:35Z",
+          "userName": "DrFaf",
+          "issueNumber": 43843,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "10.0.2",
+      "repository": "BigBoss",
+      "date": "2018-08-23T11:19:06Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad4,4",
+          "issues": "",
+          "date": "2018-08-23T11:19:06Z",
+          "userName": "andy9744",
+          "issueNumber": 46471,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1216+debug",
+      "iOSVersion": "11.2.6",
+      "repository": "ARX8x's repo",
+      "date": "2018-08-24T03:20:51Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone6,2",
+          "issues": "",
+          "date": "2018-08-24T03:20:51Z",
+          "userName": "tomhop99",
+          "issueNumber": 46705,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1216+debug",
+      "iOSVersion": "10.2",
+      "repository": "(null)",
+      "date": "2018-09-01T16:44:34Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-09-01T16:44:34Z",
+          "userName": "Seu07",
+          "issueNumber": 48523,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "4.2.1",
+      "iOSVersion": "11.4",
+      "repository": "(null)",
+      "date": "2018-09-25T10:20:33Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-09-25T10:20:33Z",
+          "userName": "MattieThurlow96",
+          "issueNumber": 51491,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "10.3",
+      "repository": "BigBoss",
+      "date": "2018-10-26T08:46:55Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone6,2",
+          "issues": "",
+          "date": "2018-10-26T08:46:55Z",
+          "userName": "supersmart07",
+          "issueNumber": 53986,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "11.4.1",
+      "repository": "BigBoss",
+      "date": "2019-01-31T19:58:53Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-01-31T19:58:53Z",
+          "userName": "Ectalite",
+          "issueNumber": 57959,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1216+debug",
+      "iOSVersion": "11.4.1",
+      "repository": "ARX8x's repo",
+      "date": "2019-02-01T14:16:16Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-02-01T14:16:16Z",
+          "userName": "AshleyDodd",
+          "issueNumber": 58092,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-02-19T07:11:34Z",
+          "userName": "DavidNC1978",
+          "issueNumber": 59625,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "12.1.1",
+      "repository": "BigBoss",
+      "date": "2019-02-22T23:18:15Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 96,
+        "good": 27,
+        "bad": 0,
+        "total": 28,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone9,2",
+          "issues": "Resolution change does not work",
+          "date": "2019-02-22T23:18:15Z",
+          "userName": "psychic2ombie",
+          "issueNumber": 59869,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-02-23T03:01:39Z",
+          "userName": "xstecky",
+          "issueNumber": 60537,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2019-02-23T04:03:52Z",
+          "userName": "wireman642",
+          "issueNumber": 60739,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-02-24T20:54:18Z",
+          "userName": "zzVertigo",
+          "issueNumber": 65338,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "Can see the information in settings",
+          "date": "2019-02-25T03:41:32Z",
+          "userName": "gittchan",
+          "issueNumber": 65937,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad6,3",
+          "issues": "",
+          "date": "2019-02-26T16:21:14Z",
+          "userName": "nathanielcwm",
+          "issueNumber": 67779,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,4",
+          "issues": "Boot nonce displays N/A",
+          "date": "2019-02-27T04:14:34Z",
+          "userName": "Meus-Artis",
+          "issueNumber": 68276,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-03-01T10:11:23Z",
+          "userName": "CGuti11",
+          "issueNumber": 70064,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": " Resolution does not set. Everything else works",
+          "date": "2019-03-02T05:37:39Z",
+          "userName": "MerkD814",
+          "issueNumber": 70605,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone6,1",
+          "issues": "",
+          "date": "2019-03-04T21:37:44Z",
+          "userName": "AppleTweaker420",
+          "issueNumber": 72311,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-03-05T18:37:59Z",
+          "userName": "rourien",
+          "issueNumber": 73183,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone6,1",
+          "issues": "",
+          "date": "2019-03-06T04:23:13Z",
+          "userName": "DrChameleon7",
+          "issueNumber": 73555,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-03-06T23:47:17Z",
+          "userName": "ActiveXre",
+          "issueNumber": 74083,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-03-07T16:36:09Z",
+          "userName": "exelsis",
+          "issueNumber": 74501,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-03-08T12:06:43Z",
+          "userName": "MattieThurlow96",
+          "issueNumber": 74833,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-03-09T08:55:52Z",
+          "userName": "TC-Checker",
+          "issueNumber": 75333,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-03-09T18:45:35Z",
+          "userName": "BrianLeek",
+          "issueNumber": 75508,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-03-10T12:53:04Z",
+          "userName": "cydiareviews",
+          "issueNumber": 75864,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-03-10T19:56:14Z",
+          "userName": "magicbandz",
+          "issueNumber": 76039,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone6,1",
+          "issues": "",
+          "date": "2019-03-10T23:18:28Z",
+          "userName": "Fiaccus",
+          "issueNumber": 76139,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-03-13T20:30:34Z",
+          "userName": "silentshotghost",
+          "issueNumber": 77194,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-03-17T19:28:15Z",
+          "userName": "d3vCr0w",
+          "issueNumber": 78537,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-03-20T18:14:37Z",
+          "userName": "rwkearns",
+          "issueNumber": 79528,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-04-07T12:59:36Z",
+          "userName": "RaduGabriell",
+          "issueNumber": 83222,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-04-08T11:15:19Z",
+          "userName": "gofustylugs",
+          "issueNumber": 83457,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-04-12T12:22:38Z",
+          "userName": "Nixuge",
+          "issueNumber": 83945,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "When the tweak starts to save the blobs, it crashes ",
+          "date": "2019-04-26T17:56:51Z",
+          "userName": "Frenchy7513",
+          "issueNumber": 85625,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad7,1",
+          "issues": "",
+          "date": "2019-04-30T12:12:57Z",
+          "userName": "RiPx88",
+          "issueNumber": 86090,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "12.1.2",
+      "repository": "BigBoss",
+      "date": "2019-02-23T00:56:27Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 7,
+        "bad": 0,
+        "total": 7,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-02-23T00:56:27Z",
+          "userName": "HeraKumi",
+          "issueNumber": 60134,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-02-23T01:09:49Z",
+          "userName": "techguy9",
+          "issueNumber": 60162,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-02-24T03:14:25Z",
+          "userName": "leiferickson09",
+          "issueNumber": 63535,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-02-26T20:23:09Z",
+          "userName": "juanillo62gm",
+          "issueNumber": 68003,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-03-01T07:39:33Z",
+          "userName": "Arpsdeux",
+          "issueNumber": 70001,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-03-07T22:02:28Z",
+          "userName": "zirdum",
+          "issueNumber": 74598,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-03-23T19:45:52Z",
+          "userName": "andrearug",
+          "issueNumber": 80254,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "12.0",
+      "repository": "BigBoss",
+      "date": "2019-02-23T02:41:04Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-02-23T02:41:04Z",
+          "userName": "suvrat29",
+          "issueNumber": 60423,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1216+debug",
+      "iOSVersion": "12.1.1",
+      "repository": "ARX8x's repo",
+      "date": "2019-02-23T03:59:58Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-02-23T03:59:58Z",
+          "userName": "Fenasii",
+          "issueNumber": 60715,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "12.1",
+      "repository": "BigBoss",
+      "date": "2019-02-23T04:39:15Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 5,
+        "bad": 0,
+        "total": 5,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-02-23T04:39:15Z",
+          "userName": "igormclven",
+          "issueNumber": 60819,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-02-23T11:21:53Z",
+          "userName": "CyberiumShadow",
+          "issueNumber": 61840,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-02-24T21:21:26Z",
+          "userName": "dunklesToast",
+          "issueNumber": 65404,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-02-27T22:13:47Z",
+          "userName": "Zach999",
+          "issueNumber": 68985,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad7,5",
+          "issues": "",
+          "date": "2019-03-04T10:43:34Z",
+          "userName": "Zach999",
+          "issueNumber": 72009,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "12.0.1",
+      "repository": "BigBoss",
+      "date": "2019-02-23T08:54:51Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-02-23T08:54:51Z",
+          "userName": "HeyItsMeNobody",
+          "issueNumber": 61488,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1216+debug",
+      "iOSVersion": "12.1",
+      "repository": "ARX8x's repo",
+      "date": "2019-02-27T10:51:24Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-02-27T10:51:24Z",
+          "userName": "bobfatherx",
+          "issueNumber": 68527,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1216+debug",
+      "iOSVersion": "12.1.2",
+      "repository": "ARX8x's repo",
+      "date": "2019-02-28T15:12:56Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-02-28T15:12:56Z",
+          "userName": "Juvencus",
+          "issueNumber": 69439,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1219+debug",
+      "iOSVersion": "12.1.1",
+      "repository": "ARX8x's repo",
+      "date": "2019-03-02T03:33:07Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-03-02T03:33:07Z",
+          "userName": "yonigold1",
+          "issueNumber": 70567,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1219+debug",
+      "iOSVersion": "12.1",
+      "repository": "ARX8x's repo",
+      "date": "2019-03-03T04:10:54Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-03-03T04:10:54Z",
+          "userName": "jonyBoyVard",
+          "issueNumber": 71179,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1219+debug",
+      "iOSVersion": "12.1.2",
+      "repository": "ARX8x's repo",
+      "date": "2019-03-04T20:05:19Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-03-04T20:05:19Z",
+          "userName": "FaZeIlLuMiNaTi",
+          "issueNumber": 72243,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1219+debug",
+      "iOSVersion": "10.2",
+      "repository": "ARX8x's repo",
+      "date": "2019-03-05T00:25:57Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-03-05T00:25:57Z",
+          "userName": "gochart420",
+          "issueNumber": 72443,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1219+debug",
+      "iOSVersion": "10.3.3",
+      "repository": "ARX8x's repo",
+      "date": "2019-03-05T18:36:03Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-03-05T18:36:03Z",
+          "userName": "DarkZone-World",
+          "issueNumber": 73177,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.1.0",
+      "iOSVersion": "12.1.1",
+      "repository": "ARX8x's repo",
+      "date": "2019-03-07T08:27:23Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-03-07T08:22:53Z",
+          "userName": "S2D187",
+          "issueNumber": 74331,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.1.1",
+      "iOSVersion": "12.1.2",
+      "repository": "ARX8x's repo",
+      "date": "2019-03-08T08:45:34Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-03-08T08:45:34Z",
+          "userName": "thanhx18",
+          "issueNumber": 74787,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.1.1",
+      "iOSVersion": "11.3.1",
+      "repository": "ARX8x's repo",
+      "date": "2019-03-08T10:24:50Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-03-08T10:24:50Z",
+          "userName": "blanxd",
+          "issueNumber": 74808,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.1.1-2+debug",
+      "iOSVersion": "12.1.1",
+      "repository": "ARX8x's repo",
+      "date": "2019-03-08T22:02:42Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-03-08T22:02:42Z",
+          "userName": "xIzaiah",
+          "issueNumber": 75123,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.1.2-1+debug",
+      "iOSVersion": "12.1.1",
+      "repository": "ARX8x's repo",
+      "date": "2019-03-09T20:24:20Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-03-09T20:24:20Z",
+          "userName": "johnnyy1337",
+          "issueNumber": 75543,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.1.2-2+debug",
+      "iOSVersion": "12.1.2",
+      "repository": "ARX8x's repo",
+      "date": "2019-03-10T11:32:07Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone6,1",
+          "issues": "",
+          "date": "2019-03-10T11:32:07Z",
+          "userName": "hendraariawan",
+          "issueNumber": 75849,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Do not hide demons, incorrect display of battery capacity.",
+          "date": "2019-03-14T12:04:38Z",
+          "userName": "i-Mobilka",
+          "issueNumber": 77357,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.1.2-2+debug",
+      "iOSVersion": "12.0.1",
+      "repository": "ARX8x's repo",
+      "date": "2019-03-10T14:43:51Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-03-10T14:43:51Z",
+          "userName": "BitGrub",
+          "issueNumber": 75889,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPad7,5",
+          "issues": "Hide daemons option is not working. Wrong displayed battery capacity on iPhone X, iPad 2018.",
+          "date": "2019-03-14T12:03:49Z",
+          "userName": "youngpretty",
+          "issueNumber": 77356,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.1.2-2+debug",
+      "iOSVersion": "12.1.1",
+      "repository": "ARX8x's repo",
+      "date": "2019-03-10T21:33:36Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-03-10T21:33:36Z",
+          "userName": "Fenasii",
+          "issueNumber": 76077,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.2.1",
+      "iOSVersion": "12.1.1",
+      "repository": "(null)",
+      "date": "2019-03-11T11:31:39Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-03-11T11:31:39Z",
+          "userName": "MattieThurlow96",
+          "issueNumber": 76310,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.1.2-2+debug",
+      "iOSVersion": "11.1.2",
+      "repository": "ARX8x's repo",
+      "date": "2019-03-11T23:28:03Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad5,3",
+          "issues": "",
+          "date": "2019-03-11T23:28:03Z",
+          "userName": "TonyRL",
+          "issueNumber": 76561,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.0-2+debug",
+      "iOSVersion": "12.1.2",
+      "repository": "ARX8x's repo",
+      "date": "2019-03-14T15:42:37Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
+        "good": 2,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Demons do not hide.",
+          "date": "2019-03-14T15:42:37Z",
+          "userName": "i-Mobilka",
+          "issueNumber": 77435,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-03-14T22:45:51Z",
+          "userName": "a100900900",
+          "issueNumber": 77560,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-03-17T17:33:11Z",
+          "userName": "The-Hacker894",
+          "issueNumber": 78492,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.0-2+debug",
+      "iOSVersion": "12.0.1",
+      "repository": "ARX8x's repo",
+      "date": "2019-03-14T15:31:22Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPad7,5",
+          "issues": "Hide daemons option is not working. Wrong displayed battery capacity on iPhone X, iPad 2018.",
+          "date": "2019-03-14T15:31:22Z",
+          "userName": "youngpretty",
+          "issueNumber": 77432,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "Works fully",
+          "date": "2019-03-14T17:47:00Z",
+          "userName": "BitGrub",
+          "issueNumber": 77466,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.0-2+debug",
+      "iOSVersion": "12.1.1",
+      "repository": "ARX8x's repo",
+      "date": "2019-03-15T12:57:27Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-03-15T12:57:27Z",
+          "userName": "pikes4ever",
+          "issueNumber": 77737,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "9.3.5",
+      "repository": "BigBoss",
+      "date": "2019-03-18T12:16:15Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 1,
+          "good": 1,
+          "bad": 0,
+          "percentage": 100,
+          "calculatedStatus": "Working"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad2,5",
+          "issues": "",
+          "date": "2019-03-18T12:16:15Z",
+          "userName": "mcdmcdmcdmcd",
+          "issueNumber": 78840,
+          "arch32": true
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.0-19+debug",
+      "iOSVersion": "12.1.1",
+      "repository": "ARX8x's repo",
+      "date": "2019-03-18T22:55:45Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-03-18T22:55:45Z",
+          "userName": "yonigold1",
+          "issueNumber": 78993,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-03-19T02:56:02Z",
+          "userName": "ethanm10",
+          "issueNumber": 79026,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.0-19+debug",
+      "iOSVersion": "12.0.1",
+      "repository": "ARX8x's repo",
+      "date": "2019-03-19T03:03:25Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-03-19T03:03:25Z",
+          "userName": "BitGrub",
+          "issueNumber": 79032,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPad7,5",
+          "issues": "Displays wrong battery capacity and can’t hide daemons",
+          "date": "2019-04-09T05:13:12Z",
+          "userName": "youngpretty",
+          "issueNumber": 83554,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.0-19+debug",
+      "iOSVersion": "12.1.2",
+      "repository": "ARX8x's repo",
+      "date": "2019-03-19T10:48:21Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
+        "bad": 0,
+        "total": 5,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Daemons do not hide. Incorrect display of information about the capacity of the battery.",
+          "date": "2019-03-19T10:48:21Z",
+          "userName": "i-Mobilka",
+          "issueNumber": 79135,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-03-19T13:13:58Z",
+          "userName": "FaZeIlLuMiNaTi",
+          "issueNumber": 79158,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-03-21T12:13:10Z",
+          "userName": "gochart420",
+          "issueNumber": 79723,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-03-24T07:01:28Z",
+          "userName": "thanhx18",
+          "issueNumber": 80332,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-04-01T04:34:52Z",
+          "userName": "andrearug",
+          "issueNumber": 82210,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.0-19+debug",
+      "iOSVersion": "11.3.1",
+      "repository": "ARX8x's repo",
+      "date": "2019-03-30T12:37:13Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-03-30T12:37:13Z",
+          "userName": "gochart420",
+          "issueNumber": 81819,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.1-9+debug",
+      "iOSVersion": "12.0.1",
+      "repository": "ARX8x's repo",
+      "date": "2019-04-17T11:45:06Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPad7,5",
+          "issues": "Displays wrong capacity for iPad 2018; iPhone X. “Hide Daemons” isn’t working. Fix it!",
+          "date": "2019-04-17T11:45:06Z",
+          "userName": "youngpretty",
+          "issueNumber": 84662,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-04-18T05:23:07Z",
+          "userName": "BitGrub",
+          "issueNumber": 84767,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.1-9+debug",
+      "iOSVersion": "12.1.1",
+      "repository": "ARX8x's repo",
+      "date": "2019-04-17T18:36:02Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-04-17T18:36:02Z",
+          "userName": "johnnyy1337",
+          "issueNumber": 84711,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.1-9+debug",
+      "iOSVersion": "12.1.2",
+      "repository": "ARX8x's repo",
+      "date": "2019-04-18T00:48:41Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Mostly ok, doesn’t hide daemons in battery",
+          "date": "2019-04-18T00:48:41Z",
+          "userName": "andrearug",
+          "issueNumber": 84760,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-04-21T11:42:12Z",
+          "userName": "a100900900",
+          "issueNumber": 85090,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.1-10+debug",
+      "iOSVersion": "12.1.2",
+      "repository": "ARX8x's repo",
+      "date": "2019-04-26T13:46:11Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-04-26T13:46:11Z",
+          "userName": "atifchy",
+          "issueNumber": 85615,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-05-03T03:50:31Z",
+          "userName": "andrearug",
+          "issueNumber": 86614,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.1-10+debug",
+      "iOSVersion": "12.1.1",
+      "repository": "ARX8x's repo",
+      "date": "2019-04-26T23:16:04Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-04-26T23:16:04Z",
+          "userName": "mastercreeper66",
+          "issueNumber": 85638,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2019-08-28T15:29:10Z",
+          "userName": "filoh",
+          "issueNumber": 98126,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "9.2",
+      "repository": "BigBoss",
+      "date": "2019-05-20T08:21:57Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone6,1",
+          "issues": "",
+          "date": "2019-05-20T08:21:57Z",
+          "userName": "smknmofo",
+          "issueNumber": 88632,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "12.1.4",
+      "repository": "BigBoss",
+      "date": "2019-07-12T15:04:02Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-07-12T15:04:02Z",
+          "userName": "delibey44",
+          "issueNumber": 91061,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,1",
+          "issues": "",
+          "date": "2019-07-30T14:38:00Z",
+          "userName": "1poo",
+          "issueNumber": 93107,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "12.2",
+      "repository": "BigBoss",
+      "date": "2019-07-14T13:21:07Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 83,
+        "good": 5,
+        "bad": 0,
+        "total": 6,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2019-07-14T13:21:07Z",
+          "userName": "Diolum",
+          "issueNumber": 91350,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-07-18T04:36:20Z",
+          "userName": "ROK5TAR",
+          "issueNumber": 91845,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-07-23T23:40:55Z",
+          "userName": "Supersonicboss1",
+          "issueNumber": 92572,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-07-25T14:25:25Z",
+          "userName": "yur1xpp",
+          "issueNumber": 92760,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-07-31T16:03:49Z",
+          "userName": "Neosnc",
+          "issueNumber": 93212,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2019-10-04T15:14:23Z",
+          "userName": "radrach23",
+          "issueNumber": 101643,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.1-10+debug",
+      "iOSVersion": "12.2",
+      "repository": "ARX8x's repo",
+      "date": "2019-07-21T13:07:51Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2019-07-21T13:07:51Z",
+          "userName": "xXG0DLessXx",
+          "issueNumber": 92132,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "12.1.3",
+      "repository": "BigBoss",
+      "date": "2019-07-21T17:08:32Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-07-21T17:08:32Z",
+          "userName": "Jhoisaac",
+          "issueNumber": 92161,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.1-10+debug",
+      "iOSVersion": "12.4",
+      "repository": "ARX8x's repo",
+      "date": "2019-08-18T18:58:31Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 5,
+        "bad": 0,
+        "total": 5,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2019-08-18T18:58:31Z",
+          "userName": "xXG0DLessXx",
+          "issueNumber": 94115,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "Battery % is bugged, everything else is working.",
+          "date": "2019-08-20T16:46:33Z",
+          "userName": "Stoppels",
+          "issueNumber": 95948,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-08-22T14:04:56Z",
+          "userName": "sadalhayat",
+          "issueNumber": 96823,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,3",
+          "issues": "Information about the current battery capacity is not displayed correctly.  Shows 100mA of 2701mA.",
+          "date": "2019-08-27T14:26:27Z",
+          "userName": "i-Mobilka",
+          "issueNumber": 97892,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-09-12T17:28:16Z",
+          "userName": "andrearug",
+          "issueNumber": 99930,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "12.4",
+      "repository": "BigBoss",
+      "date": "2019-08-18T18:49:02Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 78,
+        "good": 11,
+        "bad": 0,
+        "total": 14,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone6,2",
+          "issues": "",
+          "date": "2019-08-18T18:49:02Z",
+          "userName": "UnderEu",
+          "issueNumber": 94095,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2019-08-19T18:40:47Z",
+          "userName": "altbrace",
+          "issueNumber": 95267,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-08-21T16:41:47Z",
+          "userName": "burkybang",
+          "issueNumber": 96378,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "Battery information not correctly showed ",
+          "date": "2019-08-31T19:06:12Z",
+          "userName": "tudoapampa",
+          "issueNumber": 98740,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-09-16T03:40:15Z",
+          "userName": "Broxin",
+          "issueNumber": 100168,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone11,2",
+          "issues": "Shows nothing on A12",
+          "date": "2019-10-01T11:56:07Z",
+          "userName": "Ash-MT",
+          "issueNumber": 101432,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-10-18T12:58:28Z",
+          "userName": "laith222",
+          "issueNumber": 102616,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone11,6",
+          "issues": "A12 12.4 XS AX NOT UPDATED FOR ARM64e",
+          "date": "2019-10-20T13:22:18Z",
+          "userName": "NewGithubber35",
+          "issueNumber": 102738,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone11,2",
+          "issues": "",
+          "date": "2019-10-23T21:25:22Z",
+          "userName": "jpell01",
+          "issueNumber": 103055,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "Working ",
+          "date": "2019-10-26T21:47:45Z",
+          "userName": "JerGisi",
+          "issueNumber": 103198,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-11-03T16:08:50Z",
+          "userName": "skebby11",
+          "issueNumber": 103748,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-11-03T23:16:30Z",
+          "userName": "JN20x2",
+          "issueNumber": 103771,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-08T20:07:55Z",
+          "userName": "AlawiYNWA",
+          "issueNumber": 103958,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2020-02-18T14:28:59Z",
+          "userName": "mblack1",
+          "issueNumber": 116453,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1216+debug",
+      "iOSVersion": "12.4",
+      "repository": "Dr.Cydia Repo",
+      "date": "2019-09-09T01:27:24Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-09-09T01:27:24Z",
+          "userName": "mo3lmk",
+          "issueNumber": 99641,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.1-22+debug",
+      "iOSVersion": "12.4",
+      "repository": "ARX8x's repo",
+      "date": "2019-09-27T11:14:38Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 5,
+        "bad": 0,
+        "total": 5,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-09-27T11:14:38Z",
+          "userName": "hero3210",
+          "issueNumber": 101084,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-09-24T23:08:19Z",
+          "userName": "azurecyanide",
+          "issueNumber": 100827,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-09-16T20:06:46Z",
+          "userName": "JB4Ever",
+          "issueNumber": 100238,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-09-15T13:59:47Z",
+          "userName": "sadalhayat",
+          "issueNumber": 100114,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-09-15T12:54:24Z",
+          "userName": "andrearug",
+          "issueNumber": 100108,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.2-4+debug",
+      "iOSVersion": "12.4",
+      "repository": "ARX8x's repo",
+      "date": "2019-10-06T03:20:09Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-10-06T03:20:09Z",
+          "userName": "sadalhayat",
+          "issueNumber": 101812,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.2-4+debug",
+      "iOSVersion": "12.2",
+      "repository": "ARX8x's repo",
+      "date": "2019-10-06T18:27:10Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,2",
+          "issues": "A12",
+          "date": "2019-10-06T18:27:10Z",
+          "userName": "DarkZone-World",
+          "issueNumber": 101847,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.6-1+debug",
+      "iOSVersion": "12.4",
+      "repository": "ARX8x's repo",
+      "date": "2019-10-11T22:24:50Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-10-11T22:24:50Z",
+          "userName": "charalez",
+          "issueNumber": 102134,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-10-12T01:06:19Z",
+          "userName": "andrearug",
+          "issueNumber": 102137,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.6-2+debug",
+      "iOSVersion": "12.2",
+      "repository": "ARX8x's repo",
+      "date": "2019-10-18T05:33:10Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone11,2",
+          "issues": "A12",
+          "date": "2019-10-18T05:33:10Z",
+          "userName": "DarkZone-World",
+          "issueNumber": 102570,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone11,8",
+          "issues": "Stopped working after latest update ",
+          "date": "2019-10-20T04:02:21Z",
+          "userName": "Robstersgaming",
+          "issueNumber": 102726,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.6-2+debug",
+      "iOSVersion": "12.4",
+      "repository": "ARX8x's repo",
+      "date": "2019-10-18T12:26:50Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-10-18T12:26:50Z",
+          "userName": "charalez",
+          "issueNumber": 102614,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone11,8",
+          "issues": "A12, iOS 12.4, latest version battery section works, however when in about section, clicking about panics the device",
+          "date": "2019-10-20T02:55:04Z",
+          "userName": "bingxuanchua",
+          "issueNumber": 102723,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.6-3+debug",
+      "iOSVersion": "12.4",
+      "repository": "ARX8x's repo",
+      "date": "2019-10-21T06:11:48Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2019-10-21T06:11:48Z",
+          "userName": "kn3w",
+          "issueNumber": 102883,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-10-21T16:15:07Z",
+          "userName": "andrearug",
+          "issueNumber": 102935,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.6-3+debug",
+      "iOSVersion": "12.2",
+      "repository": "ARX8x's repo",
+      "date": "2019-10-22T12:59:05Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,2",
+          "issues": "",
+          "date": "2019-10-22T12:59:05Z",
+          "userName": "DarkZone-World",
+          "issueNumber": 102973,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.7-1+debug",
+      "iOSVersion": "12.4",
+      "repository": "ARX8x's repo",
+      "date": "2019-10-23T13:50:06Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2019-10-23T13:50:06Z",
+          "userName": "kn3w",
+          "issueNumber": 103025,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.7-1+debug",
+      "iOSVersion": "12.2",
+      "repository": "ARX8x's repo",
+      "date": "2019-10-23T16:52:18Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,2",
+          "issues": "",
+          "date": "2019-10-23T16:52:18Z",
+          "userName": "DarkZone-World",
+          "issueNumber": 103041,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.1-2+debug",
+      "iOSVersion": "12.4",
+      "repository": "ARX8x's repo",
+      "date": "2019-11-10T19:51:16Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 3,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-11-10T19:50:05Z",
+          "userName": "andrearug",
+          "issueNumber": 104138,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad5,4",
+          "issues": "Works great ",
+          "date": "2019-11-10T08:19:55Z",
+          "userName": "Deveda",
+          "issueNumber": 104038,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "iPhone XR",
+          "date": "2019-11-09T06:40:00Z",
+          "userName": "kn3w",
+          "issueNumber": 103977,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "13.2.2",
+      "repository": "BigBoss",
+      "date": "2019-11-10T17:52:20Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 4,
+        "bad": 0,
+        "total": 8,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-10T17:52:20Z",
+          "userName": "josedavidrp",
+          "issueNumber": 104112,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "Works perfectly",
+          "date": "2019-11-12T09:45:21Z",
+          "userName": "Davveeetaikko",
+          "issueNumber": 105044,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-14T12:16:54Z",
+          "userName": "rozzimann96",
+          "issueNumber": 105730,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2019-11-16T22:52:54Z",
+          "userName": "wonkieinc",
+          "issueNumber": 106386,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-11-24T20:02:56Z",
+          "userName": "HarikrishnaPai",
+          "issueNumber": 108125,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-11-25T23:02:33Z",
+          "userName": "ashleyjcharman",
+          "issueNumber": 108329,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-12-02T22:51:46Z",
+          "userName": "Edgeburn",
+          "issueNumber": 109264,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2020-01-24T17:21:45Z",
+          "userName": "mac-user669",
+          "issueNumber": 113994,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.1-1+debug",
+      "iOSVersion": "12.4",
+      "repository": "ARX8x's repo",
+      "date": "2019-11-08T17:45:38Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2019-11-08T17:45:38Z",
+          "userName": "moonenell",
+          "issueNumber": 103952,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPad11,1",
+          "issues": "",
+          "date": "2019-11-08T17:34:36Z",
+          "userName": "Jukr67",
+          "issueNumber": 103951,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.1-2+debug",
+      "iOSVersion": "13.2.2",
+      "repository": "ARX8x's repo",
+      "date": "2019-11-11T00:42:27Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-11-11T00:42:02Z",
+          "userName": "sinanyolci",
+          "issueNumber": 104307,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.1-2+debug",
+      "iOSVersion": "12.2",
+      "repository": "ARX8x's repo",
+      "date": "2019-11-11T07:10:55Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,2",
+          "issues": "",
+          "date": "2019-11-11T07:10:55Z",
+          "userName": "DarkZone-World",
+          "issueNumber": 104478,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.2-4+debug",
+      "iOSVersion": "12.4",
+      "repository": "ARX8x's repo",
+      "date": "2019-11-11T17:19:49Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "iPhone XR",
+          "date": "2019-11-11T17:19:49Z",
+          "userName": "kn3w",
+          "issueNumber": 104686,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-11-12T12:18:29Z",
+          "userName": "andrearug",
+          "issueNumber": 105090,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.2-4+debug",
+      "iOSVersion": "13.2.2",
+      "repository": "ARX8x's repo",
+      "date": "2019-11-12T09:58:05Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad7,5",
+          "issues": "",
+          "date": "2019-11-12T09:58:05Z",
+          "userName": "TonoAguilars",
+          "issueNumber": 105057,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "13.3",
+      "repository": "BigBoss",
+      "date": "2019-11-12T21:54:27Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 38,
+        "good": 8,
+        "bad": 0,
+        "total": 21,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-11-17T07:22:38Z",
+          "userName": "dezentaversiv",
+          "issueNumber": 106492,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "It installs ok but doesnt work",
+          "date": "2019-12-17T13:00:47Z",
+          "userName": "Skwalogs",
+          "issueNumber": 110979,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-12-17T16:44:24Z",
+          "userName": "grahamcracker1234",
+          "issueNumber": 110996,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-12-19T19:08:00Z",
+          "userName": "Bkmd100",
+          "issueNumber": 111219,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,4",
+          "issues": "Most options are working, few are broken.",
+          "date": "2020-01-04T20:23:01Z",
+          "userName": "tomaszpoliszuk",
+          "issueNumber": 112651,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "Sow some extra options, but need a update",
+          "date": "2020-01-05T13:33:53Z",
+          "userName": "RobyRew",
+          "issueNumber": 112739,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2020-02-17T10:31:29Z",
+          "userName": "mxmfck",
+          "issueNumber": 116021,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone11,2",
+          "issues": "Installs but doesn’t work. ",
+          "date": "2020-02-16T03:09:43Z",
+          "userName": "TheTwisyTie",
+          "issueNumber": 115643,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-02-12T05:56:40Z",
+          "userName": "alexPNG",
+          "issueNumber": 115446,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2020-02-09T00:23:14Z",
+          "userName": "huny320",
+          "issueNumber": 114920,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2020-01-31T05:18:02Z",
+          "userName": "ROK5TAR",
+          "issueNumber": 114522,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-02-21T03:12:33Z",
+          "userName": "youngjenny",
+          "issueNumber": 116965,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone12,1",
+          "issues": "",
+          "date": "2020-02-25T03:49:38Z",
+          "userName": "dylan321",
+          "issueNumber": 117506,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone12,3",
+          "issues": "Parts of it doesn’t work anymore",
+          "date": "2020-02-25T03:38:56Z",
+          "userName": "u0xpsec",
+          "issueNumber": 117504,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2020-02-26T08:28:13Z",
+          "userName": "ItzYaBoiPro",
+          "issueNumber": 117616,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-02-26T23:48:48Z",
+          "userName": "jaguar007",
+          "issueNumber": 117722,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone12,5",
+          "issues": "",
+          "date": "2020-02-27T05:24:57Z",
+          "userName": "toogoodbruh",
+          "issueNumber": 117754,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2020-02-27T09:19:31Z",
+          "userName": "xd4niel",
+          "issueNumber": 117779,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "8+",
+          "date": "2020-02-28T22:29:12Z",
+          "userName": "idieldroid",
+          "issueNumber": 117964,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone12,5",
+          "issues": "Does not show up in the about page ",
+          "date": "2020-04-01T12:06:55Z",
+          "userName": "lfstyles",
+          "issueNumber": 120630,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone11,6",
+          "issues": "Installs fine and does not seem to cause any issues but it does absolutely nothing ☹️",
+          "date": "2020-05-08T01:58:42Z",
+          "userName": "sietec",
+          "issueNumber": 123165,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.2-6+debug",
+      "iOSVersion": "12.4",
+      "repository": "ARX8x's repo",
+      "date": "2019-11-16T11:11:28Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "iPhone XR",
+          "date": "2019-11-16T11:11:28Z",
+          "userName": "kn3w",
+          "issueNumber": 106202,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-11-17T12:01:11Z",
+          "userName": "andrearug",
+          "issueNumber": 106511,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.2-6+debug",
+      "iOSVersion": "13.2.2",
+      "repository": "ARX8x's repo",
+      "date": "2019-11-16T12:50:31Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-11-16T12:50:31Z",
+          "userName": "Jwinn2269",
+          "issueNumber": 106229,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,3",
+          "issues": "Battery adapter info not displaying",
+          "date": "2019-11-18T07:41:07Z",
+          "userName": "dieseldan444",
+          "issueNumber": 106745,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.2-4+debug",
+      "iOSVersion": "12.1.1",
+      "repository": "ARX8x's repo",
+      "date": "2019-11-16T16:23:19Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-11-16T16:23:19Z",
+          "userName": "ymbgames",
+          "issueNumber": 106285,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.2-6+debug",
+      "iOSVersion": "12.1.1",
+      "repository": "ARX8x's repo",
+      "date": "2019-11-16T18:02:12Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-11-16T18:02:12Z",
+          "userName": "ymbgames",
+          "issueNumber": 106323,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.2-6+debug",
+      "iOSVersion": "13.2.3",
+      "repository": "ARX8x's repo",
+      "date": "2019-11-19T06:13:56Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-11-19T06:13:56Z",
+          "userName": "charalez",
+          "issueNumber": 106914,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-12-11T03:24:54Z",
+          "userName": "xIzaiah",
+          "issueNumber": 110268,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "13.2.3",
+      "repository": "BigBoss",
+      "date": "2019-11-21T09:53:40Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-11-21T09:53:40Z",
+          "userName": "dezentaversiv",
+          "issueNumber": 107466,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-12-08T16:29:06Z",
+          "userName": "hanidc",
+          "issueNumber": 109928,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.2-6+debug",
+      "iOSVersion": "13.3",
+      "repository": "ARX8x's repo",
+      "date": "2019-11-21T21:06:12Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-11-21T21:06:12Z",
+          "userName": "charalez",
+          "issueNumber": 107593,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "12.4.4",
+      "repository": "BigBoss",
+      "date": "2019-12-24T02:02:55Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-12-24T02:02:55Z",
+          "userName": "MrBlubberBut",
+          "issueNumber": 111691,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone6,2",
+          "issues": "",
+          "date": "2020-01-25T19:32:37Z",
+          "userName": "UnderEu",
+          "issueNumber": 114070,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.2-6+debug",
+      "iOSVersion": "12.2",
+      "repository": "ARX8x's repo",
+      "date": "2020-01-07T20:01:53Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,2",
+          "issues": "",
+          "date": "2020-01-07T20:01:53Z",
+          "userName": "DarkZone-World",
+          "issueNumber": 112954,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.2-8+debug",
+      "iOSVersion": "13.3",
+      "repository": "ARX8x's repo",
+      "date": "2020-01-23T12:55:47Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2020-01-23T12:55:47Z",
+          "userName": "charalez",
+          "issueNumber": 113898,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-02-12T06:02:49Z",
+          "userName": "alexPNG",
+          "issueNumber": 115447,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.2-8+debug",
+      "iOSVersion": "12.4",
+      "repository": "ARX8x's repo",
+      "date": "2020-01-23T19:06:55Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-01-23T19:06:55Z",
+          "userName": "kn3w",
+          "issueNumber": 113910,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.2-8+debug",
+      "iOSVersion": "13.3.1",
+      "repository": "Dylan's Repository",
+      "date": "2020-01-27T23:04:47Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2020-01-27T23:04:47Z",
+          "userName": "arm64nerd",
+          "issueNumber": 114280,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.2-8+debug",
+      "iOSVersion": "13.2.2",
+      "repository": "ARX8x's repo",
+      "date": "2020-02-04T17:44:44Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-02-04T17:44:44Z",
+          "userName": "niels-in",
+          "issueNumber": 114628,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.2-9+debug",
+      "iOSVersion": "13.3",
+      "repository": "ARX8x's repo",
+      "date": "2020-02-24T16:57:04Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "XR",
+          "date": "2020-02-24T16:57:04Z",
+          "userName": "kn3w",
+          "issueNumber": 117455,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.2-9+debug",
+      "iOSVersion": "13.3.1",
+      "repository": "ARX8x's repo",
+      "date": "2020-02-24T22:50:29Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2020-02-24T22:50:29Z",
+          "userName": "UnderEu",
+          "issueNumber": 117473,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.2-12+debug",
+      "iOSVersion": "13.3",
+      "repository": "ARX8x's repo",
+      "date": "2020-02-25T12:23:40Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "XR",
+          "date": "2020-02-25T12:23:40Z",
+          "userName": "kn3w",
+          "issueNumber": 117531,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2020-02-25T11:43:48Z",
+          "userName": "AppleTweaker420",
+          "issueNumber": 117521,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.2-12+debug",
+      "iOSVersion": "12.1.1",
+      "repository": "ARX8x's repo",
+      "date": "2020-02-25T12:59:36Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone8,2",
+          "issues": "Force close",
+          "date": "2020-02-25T12:59:36Z",
+          "userName": "ymbgames",
+          "issueNumber": 117533,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.3-1+debug",
+      "iOSVersion": "13.3",
+      "repository": "ARX8x's repo",
+      "date": "2020-02-25T14:39:54Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "XR",
+          "date": "2020-02-25T14:39:54Z",
+          "userName": "kn3w",
+          "issueNumber": 117537,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.3-1+debug",
+      "iOSVersion": "13.3.1",
+      "repository": "ARX8x's repo",
+      "date": "2020-02-25T21:29:14Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2020-02-25T21:29:14Z",
+          "userName": "UnderEu",
+          "issueNumber": 117549,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "13.3.1",
+      "repository": "BigBoss",
+      "date": "2020-02-26T06:32:21Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 40,
+        "good": 2,
+        "bad": 0,
+        "total": 5,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Dont show any info",
+          "date": "2020-02-26T06:32:21Z",
+          "userName": "Spygamer777",
+          "issueNumber": 117602,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2020-02-28T15:57:03Z",
+          "userName": "jalanjn",
+          "issueNumber": 117926,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "8plus",
+          "date": "2020-03-25T03:56:05Z",
+          "userName": "idieldroid",
+          "issueNumber": 120230,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "iPhone 7 Plus (GSM)",
+          "date": "2020-04-02T07:28:15Z",
+          "userName": "Lumln0us",
+          "issueNumber": 120679,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2020-04-17T17:26:07Z",
+          "userName": "arirub850",
+          "issueNumber": 121978,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.3-2+debug",
+      "iOSVersion": "13.3",
+      "repository": "ARX8x's repo",
+      "date": "2020-02-26T18:29:35Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2020-02-26T18:29:35Z",
+          "userName": "AppleTweaker420",
+          "issueNumber": 117709,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone12,5",
+          "issues": "",
+          "date": "2020-03-01T15:08:11Z",
+          "userName": "iLLNESS",
+          "issueNumber": 118184,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.3-2+debug",
+      "iOSVersion": "13.3.1",
+      "repository": "ARX8x's repo",
+      "date": "2020-02-27T09:53:45Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2020-02-27T09:53:45Z",
+          "userName": "UnderEu",
+          "issueNumber": 117789,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0-1",
+      "iOSVersion": "13.0",
+      "repository": "BigBoss",
+      "date": "2020-02-28T22:49:07Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone12,1",
+          "issues": "",
+          "date": "2020-02-28T22:49:07Z",
+          "userName": "DrChameleon7",
+          "issueNumber": 117967,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.4-5+debug",
+      "iOSVersion": "13.3",
+      "repository": "ARX8x's repo",
+      "date": "2020-03-02T11:45:31Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 3,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2020-03-02T11:45:31Z",
+          "userName": "AppleTweaker420",
+          "issueNumber": 118340,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-03-09T02:15:48Z",
+          "userName": "DamnRobotAliens",
+          "issueNumber": 119049,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,2",
+          "issues": "",
+          "date": "2020-03-26T14:57:46Z",
+          "userName": "sadalhayat",
+          "issueNumber": 120377,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.4-5+debug",
+      "iOSVersion": "13.3.1",
+      "repository": "ARX8x's repo",
+      "date": "2020-03-03T09:14:00Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2020-03-03T09:14:00Z",
+          "userName": "UnderEu",
+          "issueNumber": 118481,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.4-5+debug",
+      "iOSVersion": "12.4",
+      "repository": "ARX8x's repo",
+      "date": "2020-03-03T08:56:40Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone6,1",
+          "issues": "",
+          "date": "2020-03-03T08:56:40Z",
+          "userName": "s0m3guy2004",
+          "issueNumber": 118468,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.4-5+debug",
+      "iOSVersion": "12.1.1",
+      "repository": "ARX8x's repo",
+      "date": "2020-03-05T00:14:03Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2020-03-05T00:14:03Z",
+          "userName": "ymbgames",
+          "issueNumber": 118676,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.4-5+debug",
+      "iOSVersion": "13.2.2",
+      "repository": "ARX8x's repo",
+      "date": "2020-03-16T06:08:00Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone12,5",
+          "issues": "",
+          "date": "2020-03-16T06:08:00Z",
+          "userName": "Sayomayoo",
+          "issueNumber": 119776,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.4-5+debug",
+      "iOSVersion": "13.2.3",
+      "repository": "ARX8x's repo",
+      "date": "2020-03-23T05:09:15Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone12,1",
+          "issues": "",
+          "date": "2020-03-23T05:09:15Z",
+          "userName": "Zusier",
+          "issueNumber": 120128,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.4-5+debug",
+      "iOSVersion": "13.4.1",
+      "repository": "ARX8x's repo",
+      "date": "2020-04-09T00:03:40Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 4,
+        "bad": 0,
+        "total": 4,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2020-04-09T00:03:40Z",
+          "userName": "UnderEu",
+          "issueNumber": 121179,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,3",
+          "issues": "Crashes Settings app when tapping on some values.",
+          "date": "2020-04-15T10:35:53Z",
+          "userName": "subjut",
+          "issueNumber": 121832,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,4",
+          "issues": "Settings app crashing when tapping on some values like battery capacity.",
+          "date": "2020-04-30T01:14:17Z",
+          "userName": "Mdmk-42",
+          "issueNumber": 122718,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "Shows all information including UDID, but the app crashes when interacting.  Therefore no BLOB upload.",
+          "date": "2020-05-02T15:50:41Z",
+          "userName": "Trikkyx",
+          "issueNumber": 122830,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.4-5+debug",
+      "iOSVersion": "13.1.3",
+      "repository": "ARX8x's repo",
+      "date": "2020-04-16T07:45:56Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2020-04-16T07:45:56Z",
+          "userName": "zxctw",
+          "issueNumber": 121873,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.7.1",
+      "iOSVersion": "13.3",
+      "repository": "ARX8x's repo",
+      "date": "2020-05-03T17:22:01Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "battery usage information still having issue with CheckRa1n? it's show up but didn't give any information on it. just blank tables",
+          "date": "2020-05-03T17:22:01Z",
+          "userName": "abheizthe",
+          "issueNumber": 122956,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.7.2",
+      "iOSVersion": "13.3",
+      "repository": "ARX8x's repo",
+      "date": "2020-05-03T21:57:58Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-05-04T04:13:51Z",
+          "userName": "bernaction",
+          "issueNumber": 122991,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2020-05-05T17:50:16Z",
+          "userName": "i-Mobilka",
+          "issueNumber": 123085,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.7.2",
+      "iOSVersion": "13.4.1",
+      "repository": "ARX8x's repo",
+      "date": "2020-05-09T08:24:21Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2020-05-09T08:24:21Z",
+          "userName": "zairo45",
+          "issueNumber": 123214,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

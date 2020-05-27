@@ -1,0 +1,107 @@
+{
+  "id": "com.evynw.fontbunday13",
+  "name": "Bunday Clean (iOS13)",
+  "latest": "1.1",
+  "repository": "Evelyn's Collection",
+  "url": "http://cydia.saurik.com/package/com.evynw.fontbunday13/",
+  "shortDescription": "Scriptive Sans (alt ver). 100% size. For iOS13.",
+  "category": "Fonts - Theme",
+  "author": "Evelyn (ev_ynw)",
+  "commercial": false,
+  "date": "2019-11-30T19:58:51Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "13.2.3",
+      "repository": "Evelyn's Collection",
+      "date": "2019-11-30T19:58:51Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-30T19:58:51Z",
+          "userName": "kurtbain250",
+          "issueNumber": 108954,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "13.3",
+      "repository": "Evelyn's Collection",
+      "date": "2019-12-14T06:33:16Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-12-14T06:33:16Z",
+          "userName": "kurtbain250",
+          "issueNumber": 110594,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "13.3",
+      "repository": "Evelyn's Collection",
+      "date": "2020-01-16T07:37:39Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-01-16T07:37:39Z",
+          "userName": "kurtbain250",
+          "issueNumber": 113480,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

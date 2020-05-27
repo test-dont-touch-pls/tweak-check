@@ -1,0 +1,187 @@
+{
+  "id": "com.ziph0n.blurredwallpaper",
+  "name": "BlurryPaper",
+  "latest": "1.11-1",
+  "repository": "Packix",
+  "url": "http://cydia.saurik.com/package/com.ziph0n.blurredwallpaper/",
+  "shortDescription": "Blur your wallpapers",
+  "category": "Tweaks",
+  "author": "Ziph0n",
+  "commercial": false,
+  "date": "2019-10-01T18:56:46Z",
+  "versions": [
+    {
+      "tweakVersion": "1.02-2",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-10-01T18:56:46Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone11,8",
+          "issues": "not always blurred",
+          "date": "2019-10-01T18:56:46Z",
+          "userName": "trpd00r",
+          "issueNumber": 101442,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.11-1",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-10-07T22:01:41Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "Partially working due to lock screen blue still happening even when turned of in settings ",
+          "date": "2019-10-08T10:10:45Z",
+          "userName": "Dougboy1989",
+          "issueNumber": 101939,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.11-1",
+      "iOSVersion": "13.2.2",
+      "repository": "Packix",
+      "date": "2019-11-21T11:36:40Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "Wallpaper doesn’t blur. ",
+          "date": "2019-11-21T11:36:40Z",
+          "userName": "simoselis",
+          "issueNumber": 107479,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Blur only on lockscreen. NO blur on Homescreen",
+          "date": "2019-12-24T12:38:33Z",
+          "userName": "fettesb",
+          "issueNumber": 111715,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.11-1",
+      "iOSVersion": "13.3",
+      "repository": "Packix",
+      "date": "2019-12-02T01:30:09Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-12-07T00:12:44Z",
+          "userName": "hharr-46",
+          "issueNumber": 109743,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2020-03-06T01:34:18Z",
+          "userName": "Brickme",
+          "issueNumber": 118762,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.11-1",
+      "iOSVersion": "13.2.3",
+      "repository": "Packix",
+      "date": "2019-12-15T19:02:33Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-12-15T19:02:33Z",
+          "userName": "ethanm1673",
+          "issueNumber": 110754,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

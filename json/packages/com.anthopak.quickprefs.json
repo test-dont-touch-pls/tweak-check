@@ -1,0 +1,333 @@
+{
+  "id": "com.anthopak.quickprefs",
+  "name": "QuickPrefs",
+  "latest": "1.2-1",
+  "repository": "BigBoss",
+  "url": "http://cydia.saurik.com/package/com.anthopak.quickprefs/",
+  "shortDescription": "Quickly access tweak prefs with Force/Haptic Touch",
+  "category": "Tweaks",
+  "author": "AnthoPak",
+  "commercial": false,
+  "date": "2019-06-08T05:08:30Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "12.1.2",
+      "repository": "BigBoss",
+      "date": "2019-06-08T05:08:30Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-06-08T05:08:30Z",
+          "userName": "SaifeeMir",
+          "issueNumber": 89799,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "12.0.1",
+      "repository": "BigBoss",
+      "date": "2019-06-08T07:25:17Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-06-08T07:25:17Z",
+          "userName": "calvin200001",
+          "issueNumber": 89803,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "12.1.1",
+      "repository": "BigBoss",
+      "date": "2019-06-14T09:54:52Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-06-14T09:54:52Z",
+          "userName": "burkybang",
+          "issueNumber": 90125,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "11.1.2",
+      "repository": "BigBoss",
+      "date": "2019-06-27T00:00:43Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-06-27T00:00:17Z",
+          "userName": "BlackLolo95",
+          "issueNumber": 90554,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "11.3.1",
+      "repository": "BigBoss+",
+      "date": "2019-07-11T17:52:30Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-07-11T17:52:30Z",
+          "userName": "moonshinejeff",
+          "issueNumber": 91007,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "12.4",
+      "repository": "BigBoss",
+      "date": "2019-08-19T05:43:06Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-08-19T05:43:06Z",
+          "userName": "maikotui",
+          "issueNumber": 94591,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-08-21T17:18:59Z",
+          "userName": "burkybang",
+          "issueNumber": 96454,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2-1",
+      "iOSVersion": "13.2.2",
+      "repository": "BigBoss",
+      "date": "2019-12-13T22:47:32Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-12-13T22:47:32Z",
+          "userName": "Tweaker177",
+          "issueNumber": 110548,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2-1",
+      "iOSVersion": "13.3",
+      "repository": "BigBoss",
+      "date": "2020-02-14T15:32:57Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-02-14T15:32:57Z",
+          "userName": "syto203",
+          "issueNumber": 115559,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2-1",
+      "iOSVersion": "12.4",
+      "repository": "BigBoss",
+      "date": "2020-03-23T10:40:06Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2020-03-23T10:40:06Z",
+          "userName": "dailac-boiii",
+          "issueNumber": 120149,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2-1",
+      "iOSVersion": "13.4.1",
+      "repository": "BigBoss",
+      "date": "2020-05-03T03:48:39Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-05-03T03:48:39Z",
+          "userName": "Tweaker177",
+          "issueNumber": 122922,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

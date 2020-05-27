@@ -1,0 +1,1829 @@
+{
+  "id": "me.kritanta.homeplus",
+  "name": "HomePlus Beta",
+  "latest": "0.4.9.2-beta",
+  "repository": "Kritanta",
+  "url": "http://cydia.saurik.com/package/me.kritanta.homeplus/",
+  "shortDescription": "Dynamic, live homescreen layout with an intuitive UI",
+  "category": "Tweaks",
+  "author": "Kritanta",
+  "commercial": false,
+  "date": "2019-11-13T15:09:02Z",
+  "versions": [
+    {
+      "tweakVersion": "0.0.66",
+      "iOSVersion": "13.2.2",
+      "repository": "Kritanta",
+      "date": "2019-11-13T15:09:02Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
+        "bad": 0,
+        "total": 5,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-11-13T15:09:02Z",
+          "userName": "sevenpastzeero",
+          "issueNumber": 105507,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Icons stuck spread out on homescreen, cannot trigger options.",
+          "date": "2019-11-13T15:44:46Z",
+          "userName": "BenKesselring",
+          "issueNumber": 105527,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-13T17:55:10Z",
+          "userName": "Samgisaninja",
+          "issueNumber": 105584,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,3",
+          "issues": "This is a BETA. And it shows. Just like you swipe for CC in an iPhone X, you do it in the left side to activate. From there, it kinda goes haywire. You can basically resize the springboard, and nothing else really works atm",
+          "date": "2019-11-13T18:42:47Z",
+          "userName": "TheBensonBoy",
+          "issueNumber": 105598,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "iPhone 7 Plus with FloatingDock",
+          "date": "2019-11-14T00:12:04Z",
+          "userName": "Wesley1560",
+          "issueNumber": 105642,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.66",
+      "iOSVersion": "13.1.3",
+      "repository": "Kritanta",
+      "date": "2019-11-13T14:45:43Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-11-13T14:45:43Z",
+          "userName": "nickkgar",
+          "issueNumber": 105504,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-11-13T22:13:06Z",
+          "userName": "OmgImAlexis",
+          "issueNumber": 105626,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.66",
+      "iOSVersion": "12.4",
+      "repository": "Kritanta",
+      "date": "2019-11-13T17:39:10Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
+        "good": 2,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,5",
+          "issues": "Tweak activates but no ability to customize.",
+          "date": "2019-11-13T17:39:10Z",
+          "userName": "ZenIsBestWolf",
+          "issueNumber": 105583,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2019-11-13T19:24:09Z",
+          "userName": "RyanTheTechMan",
+          "issueNumber": 105609,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-11-13T20:03:38Z",
+          "userName": "itsHoshii",
+          "issueNumber": 105616,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.66",
+      "iOSVersion": "13.3",
+      "repository": "Kritanta",
+      "date": "2019-11-13T19:00:07Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,4",
+          "issues": "can't activate",
+          "date": "2019-11-13T19:00:07Z",
+          "userName": "mk2404",
+          "issueNumber": 105603,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.67",
+      "iOSVersion": "13.2.2",
+      "repository": "Kritanta",
+      "date": "2019-11-14T07:00:49Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-11-14T07:00:49Z",
+          "userName": "sevenpastzeero",
+          "issueNumber": 105696,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.67",
+      "iOSVersion": "13.3",
+      "repository": "Kritanta",
+      "date": "2019-11-14T11:59:51Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-11-14T11:59:51Z",
+          "userName": "alpinesucre",
+          "issueNumber": 105727,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.68",
+      "iOSVersion": "13.2.2",
+      "repository": "Kritanta",
+      "date": "2019-11-14T15:07:00Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "In combination with CarPlay crashes after some time. ",
+          "date": "2019-11-14T15:07:00Z",
+          "userName": "PunkRa1n",
+          "issueNumber": 105774,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.68",
+      "iOSVersion": "13.2",
+      "repository": "Kritanta",
+      "date": "2019-11-14T14:49:32Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-14T14:49:32Z",
+          "userName": "coolymike",
+          "issueNumber": 105771,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.70",
+      "iOSVersion": "12.4",
+      "repository": "Kritanta",
+      "date": "2019-11-15T05:23:08Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2019-11-15T05:23:08Z",
+          "userName": "Greigh",
+          "issueNumber": 105938,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPad8,1",
+          "issues": "I would really like this to work.  A disaster...",
+          "date": "2019-11-15T22:08:12Z",
+          "userName": "Ahpla",
+          "issueNumber": 106096,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.70",
+      "iOSVersion": "13.2.2",
+      "repository": "Kritanta",
+      "date": "2019-11-15T05:07:00Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-11-15T05:07:00Z",
+          "userName": "undersea2611",
+          "issueNumber": 105932,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.69",
+      "iOSVersion": "13.2.2",
+      "repository": "Kritanta",
+      "date": "2019-11-15T05:48:48Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-15T05:48:48Z",
+          "userName": "raf1dd",
+          "issueNumber": 105945,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.70",
+      "iOSVersion": "13.3",
+      "repository": "Kritanta",
+      "date": "2019-11-15T10:22:09Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-11-15T10:31:51Z",
+          "userName": "mk2404",
+          "issueNumber": 105989,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.70",
+      "iOSVersion": "13.1.3",
+      "repository": "Kritanta",
+      "date": "2019-11-15T20:08:53Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-11-15T20:08:53Z",
+          "userName": "nickkgar",
+          "issueNumber": 106081,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1.2",
+      "iOSVersion": "12.4",
+      "repository": "Kritanta",
+      "date": "2019-11-17T16:07:06Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2019-11-17T16:07:06Z",
+          "userName": "Brickme",
+          "issueNumber": 106569,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1.3",
+      "iOSVersion": "13.3",
+      "repository": "Kritanta",
+      "date": "2019-11-17T19:49:45Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-11-17T19:49:45Z",
+          "userName": "alpinesucre",
+          "issueNumber": 106610,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1.3",
+      "iOSVersion": "13.1.1",
+      "repository": "(null)",
+      "date": "2019-11-17T22:06:03Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone10,2",
+          "issues": "Works but buggy",
+          "date": "2019-11-17T22:06:03Z",
+          "userName": "Caleb-S",
+          "issueNumber": 106629,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1.3",
+      "iOSVersion": "13.2.2",
+      "repository": "Kritanta",
+      "date": "2019-11-18T03:00:00Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-11-18T03:00:00Z",
+          "userName": "sevenpastzeero",
+          "issueNumber": 106674,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1.7",
+      "iOSVersion": "13.2.2",
+      "repository": "Kritanta",
+      "date": "2019-11-19T08:51:23Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-11-19T08:51:23Z",
+          "userName": "vmmarca",
+          "issueNumber": 106956,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1.9",
+      "iOSVersion": "13.2.2",
+      "repository": "Kritanta",
+      "date": "2019-11-19T18:38:15Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-19T18:38:15Z",
+          "userName": "AirQuenga",
+          "issueNumber": 107107,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-11-20T04:18:01Z",
+          "userName": "HarikrishnaPai",
+          "issueNumber": 107195,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1.9",
+      "iOSVersion": "12.4",
+      "repository": "Kritanta",
+      "date": "2019-11-20T01:33:38Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2019-11-20T01:33:38Z",
+          "userName": "Brickme",
+          "issueNumber": 107180,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.2.0",
+      "iOSVersion": "13.2.2",
+      "repository": "Kritanta",
+      "date": "2019-11-21T08:15:44Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Doesn’t work with cylinder",
+          "date": "2019-11-21T08:15:44Z",
+          "userName": "coolymike",
+          "issueNumber": 107442,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.2.2",
+      "iOSVersion": "13.2.2",
+      "repository": "Kritanta",
+      "date": "2019-11-21T10:16:08Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 75,
+        "good": 3,
+        "bad": 0,
+        "total": 4,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-21T10:16:08Z",
+          "userName": "coolymike",
+          "issueNumber": 107477,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-11-21T13:39:39Z",
+          "userName": "tomhmoses",
+          "issueNumber": 107519,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,2",
+          "issues": "Was working good, icons change back to normal size",
+          "date": "2019-11-22T22:34:08Z",
+          "userName": "JPDP86",
+          "issueNumber": 107793,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-11-24T20:01:25Z",
+          "userName": "HarikrishnaPai",
+          "issueNumber": 108123,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.2.2",
+      "iOSVersion": "12.4",
+      "repository": "Kritanta",
+      "date": "2019-11-21T12:29:42Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-11-21T12:29:42Z",
+          "userName": "batfirex2",
+          "issueNumber": 107485,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.2.2",
+      "iOSVersion": "13.3",
+      "repository": "Kritanta",
+      "date": "2019-11-25T08:49:14Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-11-25T08:49:14Z",
+          "userName": "hharr-46",
+          "issueNumber": 108196,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.2.2",
+      "iOSVersion": "13.2.3",
+      "repository": "Kritanta",
+      "date": "2019-11-25T18:49:50Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-11-25T18:49:50Z",
+          "userName": "eso22",
+          "issueNumber": 108271,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4.1-beta",
+      "iOSVersion": "13.2",
+      "repository": "Kritanta",
+      "date": "2019-11-26T18:24:12Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-11-26T18:24:12Z",
+          "userName": "Crucialjun",
+          "issueNumber": 108429,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4.1-beta",
+      "iOSVersion": "13.2.3",
+      "repository": "Kritanta",
+      "date": "2019-11-26T17:34:17Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-11-26T17:34:17Z",
+          "userName": "eso22",
+          "issueNumber": 108427,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4.1-beta",
+      "iOSVersion": "13.2.2",
+      "repository": "Kritanta",
+      "date": "2019-11-26T19:38:40Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "Works great. (Floating dock covers up bottom though)",
+          "date": "2019-11-26T19:38:40Z",
+          "userName": "HarinderG",
+          "issueNumber": 108434,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,1",
+          "issues": "Floating Dock covers offset settings ",
+          "date": "2019-11-26T21:00:10Z",
+          "userName": "vmmarca",
+          "issueNumber": 108440,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4.3-beta",
+      "iOSVersion": "13.3",
+      "repository": "Kritanta",
+      "date": "2019-11-27T07:20:23Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-11-27T07:20:23Z",
+          "userName": "hharr-46",
+          "issueNumber": 108498,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4.3-beta",
+      "iOSVersion": "13.2.2",
+      "repository": "Kritanta",
+      "date": "2019-11-27T10:59:30Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "Ok!",
+          "date": "2019-11-27T10:59:30Z",
+          "userName": "vmmarca",
+          "issueNumber": 108506,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4.3-beta",
+      "iOSVersion": "12.4",
+      "repository": "Kritanta",
+      "date": "2019-11-27T17:54:51Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-11-27T17:54:51Z",
+          "userName": "batfirex2",
+          "issueNumber": 108548,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4.3-beta",
+      "iOSVersion": "13.2.3",
+      "repository": "Kritanta",
+      "date": "2019-11-30T06:17:54Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
+        "good": 2,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-11-30T06:17:54Z",
+          "userName": "shaizu",
+          "issueNumber": 108897,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Dock fucked up!",
+          "date": "2019-12-02T22:24:18Z",
+          "userName": "egigoka",
+          "issueNumber": 109249,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "Nice work. But dock background is visible in keyboard and widget page",
+          "date": "2019-12-02T23:02:46Z",
+          "userName": "shailuk301",
+          "issueNumber": 109278,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4.7-beta",
+      "iOSVersion": "12.4",
+      "repository": "Kritanta",
+      "date": "2019-12-03T13:43:51Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2019-12-03T13:43:51Z",
+          "userName": "Dylandillard16",
+          "issueNumber": 109339,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPad8,1",
+          "issues": "crashing forcing to safe mode Ipad",
+          "date": "2019-12-04T23:30:39Z",
+          "userName": "Ahpla",
+          "issueNumber": 109488,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4.7-beta",
+      "iOSVersion": "12.1.1",
+      "repository": "Kritanta",
+      "date": "2019-12-03T20:35:42Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2019-12-03T20:35:42Z",
+          "userName": "ann0see",
+          "issueNumber": 109372,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4.7-beta",
+      "iOSVersion": "13.3",
+      "repository": "Kritanta",
+      "date": "2019-12-04T04:03:42Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-12-04T04:03:42Z",
+          "userName": "hharr-46",
+          "issueNumber": 109408,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4.7-beta",
+      "iOSVersion": "13.2.3",
+      "repository": "Kritanta",
+      "date": "2019-12-04T06:17:32Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-12-04T06:17:32Z",
+          "userName": "ChaoticWeg",
+          "issueNumber": 109414,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4.7-beta",
+      "iOSVersion": "13.2.2",
+      "repository": "Kritanta",
+      "date": "2019-12-04T19:57:14Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-12-04T19:57:14Z",
+          "userName": "arbitrarily",
+          "issueNumber": 109469,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4.8-beta",
+      "iOSVersion": "13.2.3",
+      "repository": "Kritanta",
+      "date": "2019-12-06T11:12:42Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-12-06T11:12:42Z",
+          "userName": "sevenpastzeero",
+          "issueNumber": 109684,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4.8-beta",
+      "iOSVersion": "12.4",
+      "repository": "Kritanta",
+      "date": "2019-12-06T15:35:34Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPad8,1",
+          "issues": "safe mode",
+          "date": "2019-12-06T15:35:34Z",
+          "userName": "Ahpla",
+          "issueNumber": 109705,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4.8-beta",
+      "iOSVersion": "13.3",
+      "repository": "Kritanta",
+      "date": "2019-12-07T00:13:06Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-12-07T00:13:06Z",
+          "userName": "hharr-46",
+          "issueNumber": 109744,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4.9-beta",
+      "iOSVersion": "13.3",
+      "repository": "Kritanta",
+      "date": "2019-12-08T16:16:16Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "Works great!!",
+          "date": "2019-12-08T16:16:16Z",
+          "userName": "seitaneddy",
+          "issueNumber": 109927,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-02-14T15:25:20Z",
+          "userName": "syto203",
+          "issueNumber": 115549,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4.9-beta",
+      "iOSVersion": "13.2.3",
+      "repository": "Kritanta",
+      "date": "2019-12-11T21:56:25Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-12-11T21:56:25Z",
+          "userName": "cumanzor",
+          "issueNumber": 110374,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone12,1",
+          "issues": "",
+          "date": "2020-02-19T15:02:11Z",
+          "userName": "blevv77",
+          "issueNumber": 116711,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4.9-beta",
+      "iOSVersion": "13.2.2",
+      "repository": "Kritanta",
+      "date": "2019-12-12T19:22:49Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 3,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-12-12T19:22:49Z",
+          "userName": "mac-user669",
+          "issueNumber": 110462,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-01-21T09:52:15Z",
+          "userName": "tomhmoses",
+          "issueNumber": 113795,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-02-27T08:54:35Z",
+          "userName": "skebby11",
+          "issueNumber": 117773,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4.9-beta",
+      "iOSVersion": "12.4",
+      "repository": "Kritanta",
+      "date": "2019-12-14T02:32:01Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2019-12-14T02:32:01Z",
+          "userName": "Brickme",
+          "issueNumber": 110567,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2020-01-12T16:32:23Z",
+          "userName": "TH3H4CK3R143",
+          "issueNumber": 113247,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4.9-beta",
+      "iOSVersion": "13.1.3",
+      "repository": "Kritanta",
+      "date": "2020-01-01T19:30:08Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2020-01-01T19:30:08Z",
+          "userName": "kittyextra",
+          "issueNumber": 112376,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4.9-beta",
+      "iOSVersion": "13.3.1",
+      "repository": "Kritanta",
+      "date": "2020-01-29T00:53:15Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
+        "good": 4,
+        "bad": 0,
+        "total": 6,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2020-01-29T00:53:15Z",
+          "userName": "sevenpastzeero",
+          "issueNumber": 114417,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,4",
+          "issues": "SpringBoard Freeze",
+          "date": "2020-02-19T23:48:21Z",
+          "userName": "ghOstExploit-hub",
+          "issueNumber": 116758,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2020-02-05T20:39:27Z",
+          "userName": "RobertRR11",
+          "issueNumber": 114731,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2020-02-25T04:02:35Z",
+          "userName": "cj81499",
+          "issueNumber": 117509,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2020-02-26T03:42:24Z",
+          "userName": "Jackcoopzz",
+          "issueNumber": 117584,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Icon bug present",
+          "date": "2020-04-11T12:28:45Z",
+          "userName": "jeankriel",
+          "issueNumber": 121512,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4.9-beta",
+      "iOSVersion": "13.2",
+      "repository": "OpenPack Repository",
+      "date": "2020-03-07T00:31:08Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,6",
+          "issues": "",
+          "date": "2020-03-07T00:31:08Z",
+          "userName": "SwissChes",
+          "issueNumber": 118840,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.5.2-beta-46+debug",
+      "iOSVersion": "11.3.1",
+      "repository": "(null)",
+      "date": "2020-03-21T13:23:40Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2020-03-21T13:23:40Z",
+          "userName": "gochart420",
+          "issueNumber": 120052,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4.9-beta",
+      "iOSVersion": "12.1.2",
+      "repository": "OpenPack Repository",
+      "date": "2020-04-02T10:03:30Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2020-04-02T10:03:30Z",
+          "userName": "qtokr",
+          "issueNumber": 120726,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4.9-beta",
+      "iOSVersion": "13.4",
+      "repository": "OpenPack Repository",
+      "date": "2020-04-06T11:00:27Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,5",
+          "issues": "Crash By Setting Icon Size",
+          "date": "2020-04-06T11:00:27Z",
+          "userName": "Barny13",
+          "issueNumber": 120959,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4.9.2-beta",
+      "iOSVersion": "13.3",
+      "repository": "OpenPack Repository",
+      "date": "2020-05-06T18:28:45Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,8",
+          "issues": "",
+          "date": "2020-05-06T18:28:45Z",
+          "userName": "Magicalrudedude",
+          "issueNumber": 123110,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

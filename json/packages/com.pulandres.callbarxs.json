@@ -1,0 +1,147 @@
+{
+  "id": "com.pulandres.callbarxs",
+  "name": "CallBar XS Cracked",
+  "latest": "2.3-75-1",
+  "repository": "Packager",
+  "url": "http://cydia.saurik.com/package/com.pulandres.callbarxs/",
+  "shortDescription": "Change the style of your UI Calls",
+  "category": "Tweaks",
+  "author": "Elias Limneos",
+  "commercial": false,
+  "date": "2019-08-18T21:05:55Z",
+  "versions": [
+    {
+      "tweakVersion": "2.2-5",
+      "iOSVersion": "12.4",
+      "repository": "Packager",
+      "date": "2019-08-18T21:05:55Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-08-18T21:05:55Z",
+          "userName": "mpq1671",
+          "issueNumber": 94157,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-30T07:00:02Z",
+          "userName": "insanityNL",
+          "issueNumber": 98462,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3-75",
+      "iOSVersion": "13.3",
+      "repository": "(null)",
+      "date": "2020-02-22T21:03:53Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone11,2",
+          "issues": "",
+          "date": "2020-02-22T21:03:53Z",
+          "userName": "shivamsingh063",
+          "issueNumber": 117247,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3-75",
+      "iOSVersion": "13.3.1",
+      "repository": "(null)",
+      "date": "2020-03-06T04:10:07Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2020-03-06T04:10:07Z",
+          "userName": "JPCiosX",
+          "issueNumber": 118773,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3-75-1",
+      "iOSVersion": "13.3.1",
+      "repository": "The Pulandres Repo",
+      "date": "2020-03-09T02:28:59Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2020-03-09T02:28:59Z",
+          "userName": "Esmaeila67",
+          "issueNumber": 119051,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}
