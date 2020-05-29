@@ -12,8 +12,8 @@ var bans = require("../docs/bans.json");
 var moderators = require("../docs/admins.json").moderators;
 var devices = require("../docs/devices.json").devices;
 
-const owner = "jlippold";
-const repo = "tweakCompatible";
+const owner = "test-dont-touch-pls";
+const repo = "tweak-check";
 
 const github = new GitHubApi();
 
